@@ -10,10 +10,10 @@ nav_order: 1
 {% assign variables = site.data[site.data_folder].variables %}
 {% assign course_calendar = site.data[site.data_folder].course_calendar %}
 <!-- Fall quarter starts in Week 0 while the other quarters start in Week 1 -->
-{% assign offset_week = 1 %}
-{% if site.data_folder[0] == "f" %}
-    {% assign offset_week = 0 %}
-{% endif %}
+{% assign offset_week = 0 %}
+<!-- {% assign offset_week = 1 %} -->
+<!-- {% if site.data_folder[0] == "f" %} -->
+<!-- {% endif %} -->
 
 {: .text-grey-dk-200 .lh-0 .pt-4 }
 # Introduction to Data Management 
@@ -40,8 +40,8 @@ We are all very excited that you decided to join us on this whirlwind tour of da
 We look forward to teaching and working with all of you and hope to meet you in office hours. Check out the **Getting Started** section so you can hit the ground running when class starts!
 {: .fs-3 }
 
-{: .note .fs-2 }
-Week one I try to take as many students from the **waitlist** as I can, please email [{{ variables.cogsadvising }}](mailto:{{ variables.cogsadvising }}) with further questions.
+<!-- {: .note .fs-2 }
+Week one I try to take as many students from the **waitlist** as I can, please email [{{ variables.cogsadvising }}](mailto:{{ variables.cogsadvising }}) with further questions. -->
 
 ## Discussion Sections
 
