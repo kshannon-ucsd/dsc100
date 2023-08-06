@@ -114,7 +114,7 @@ Week one I try to take as many students from the **waitlist** as I can, please e
             <td style="text-align: center"> {{ row.date | date: "%a, %b %d" }} </td>
             <td style="text-align: center">
               {% if row.label == "LECT" %} <span class="md-cal-badge md-cal-badge-blue"> {{ row.label }} </span>
-              {% elsif row.label == "GLCT" %} <span class="md-cal-badge md-cal-badge-purple"> {{ row.label }} </span>
+              {% elsif row.label == "DISC" %} <span class="md-cal-badge md-cal-badge-purple"> {{ row.label }} </span>
               {% elsif row.label == "CNCL" %} <span class="md-cal-badge md-cal-badge-red"> {{ row.label }} </span>
               {% elsif row.label == "ASSG" %} <span class="md-cal-badge md-cal-badge-green"> {{ row.label }} </span>
               {% elsif row.label == "EXAM" %} <span class="md-cal-badge md-cal-badge-gray"> {{ row.label }} </span>
