@@ -16,9 +16,9 @@ teaching_assistants:
   - name: Vineeth Chelur
     email: vrchelur@ucsd.edu
     office_hours:
-      - day: TBD
-        time: TBD
-        location: TBD
+      - day: Wed
+        time: 4:00PM - 5:00PM
+        location: SOLIS 109
 
 instructional_assistants:
   - name: IA
@@ -28,7 +28,6 @@ instructional_assistants:
         time: TBD
         location: TBD
 
-discord_link: TBD
 piazza_link: TBD
 gradescope_link: TBD
 gradescope_entry_code: TBD
