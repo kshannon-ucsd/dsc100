@@ -59,6 +59,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - .data/ #user specific excludes here...
+  - class_resources/ #demos and class notes kept in here to make use of track changes only...
 
 # Aux link for the upper right navigation
 aux_links:
