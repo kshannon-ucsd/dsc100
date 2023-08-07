@@ -65,7 +65,7 @@ aux_links:
   # "Template Repository": "https://www.github.com/kshannon/ucsd-cogs9"
   "UCSD Podcast": "https://podcast.ucsd.edu/"
   "Gradescope": "https://www.gradescope.com/"
-  "Piazza": "#" #TODO: add piazza url
+  "Piazza": "https://piazza.com/ucsd/fall2023/dsc100" 
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
