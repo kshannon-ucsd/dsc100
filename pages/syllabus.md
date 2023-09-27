@@ -15,36 +15,38 @@ permalink: /syllabus/
 {: .fs-2 }
 
 ## Course Materials
-- There is **no** textbook
+- Although a textbook is not required in the course, the following textbook is optional and recommended: Database Systems: The Complete Book, by Hector Garcia-Molina, Jeffrey D. Ullman, and Jennifer Widom. 2nd Edition. Prentice Hall. 2008.
+- Lecture slides and recorded videos would be sufficient for this class.
+
 - All course materials are provided through **this website**
-- Reading quizzes and the exam are taken through Gradescope
-- Assignments and the final are submitted through Gradescope
+- All course announcements will occur through Piazza. Signup links in the **getting started** page.
 
 ## Course Objectives
-- Comprehend core data science concepts and examine their applications
-- Discuss data privacy and ethical concerns with real-world examples
-- Identify data science questions and the appropriate analytic approach to answering those questions
-- Communicate data-related topics and projects
-- Demonstrate how to think critically about data, and how to approach problems with a "data-first" mindset
-- Describe potential pitfalls of data analyses, how to identify them, and how to avoid them
+- Understand fundamental concepts and techniques in data management 
+- Acquire hands-on skills using SQL and relational database systems
+- Learn about database design, indexing and normalization
+- Gain knowledge about using databases for data science, machine learning, and analysis
+- Understand data quality and integrity issues and how to address them
+- Compare SQL and NOSQL approaches to managing data
+- Prepare you for using these systems in a real job/internship
+
 
 ## Grading & Attendance
 ### Grading
 
 |                                               | % of Total Grade |   200 Total Points |
 |:----------------------------------------------|:-----------------|:-------------------|
-| 3 Assignments                                 |               30 |      60 (20 each)  |
-| 1 Comprehensive Exam                          |               20 |               40   |
-| 5 Reading Quizzes (lowest quiz score dropped) |               20 |      40 (10 each)  |
-| Final Project pt. 1                           |               10 |               20   |
-| Final Project pt. 2                           |               20 |               40   |
-| Bonus                                         |              N/A |          5 bonus   |
+| 5 Homeworks                                   |               50 |     100 (20 each)  |
+| 6 Quizzes (lowest quiz score dropped)         |               10 |       20 (4 each)  |
+| 1 Midterm Exam                                |               15 |               30   |
+| 1 Final Exam                                  |               25 |               50   |
+| Bonus                                         |                2 |          4 bonus   |
 
-- **Final exam date**: No final exam, only a final group project.
-- Your letter grade will be determined using the [standard grading scale](https://pages.stolaf.edu/dietz/typical-grading-scale/). Grades are not rounded up, that’s why we have included 5 bonus points.
+- **Final exam date**: No in class final exam, this exam will be done remote.
+- Your letter grade will be determined using the [standard grading scale](https://pages.stolaf.edu/dietz/typical-grading-scale/). Grades are not rounded up, that’s why we have included bonus points.
 
 ### Grades
-Grades are released on Gradescope often a week after the submission date, typically sooner. Ultimately it is your responsibility to check your final grade and get in touch if you believe there is a problem.
+Grades are released often a week after the submission date, typically sooner. Ultimately it is your responsibility to check your final grade and get in touch if you believe there is a problem.
 
 ### Regrade Policy
 The regrade policy is here to protect students from serious issues in grading, not to provide students with a platform to argue about, or plead for an extra point. A grader may incorrectly take off 1-2 points, but they are as likely to give students 1-2 points. In our experience less than 3% of the time a regrade results in a change. When we regrade, we closely go through the entire assignment again and reevaluate it as a whole. This means your grade can either stay the same, go up, or go down. This is not to discourage students from requesting legitimate regrades, but to discourage students from arguing about 1 point (which is worth 0.05% of your grade). These discussions require a serious investment of time. We want to spend that time on regrades where a serious issue has occurred, or with helping students learn the material outside of class.
@@ -56,16 +58,16 @@ The regrade policy is here to protect students from serious issues in grading, n
 - We will get back to you within 48 hours with our final decision.
 
 ### Lecture Attendance
-Our goal is to make lectures and office hours worth your while to attend, e.g. we do in-class exercises. However, lecture attendance is not required. All lectures will be recorded. These will be made available to you (UCSD podcast).
+Our goal is to make lectures and office hours worth your while to attend, e.g. we do in-class exercises. However, lecture attendance is not required. We will make every effort to record lectures, but things happen. These will be made available to you (UCSD podcast). Quizzes will also occur during class, so you will need to attend those classes.
 
 ### Section Attendance
-Section attendance is not mandatory, however, groups will be created within sections (usually week 2). Readings as well as lecture material will be reviewed in the section and it is to your benefit to go and ask questions.
+Section attendance is not mandatory. Demos as well as lecture material will be reviewed in the section and it is to your benefit to go and ask questions.
 
-## Course Assignments & Topics
-This class is a survey course intended to get you all excited about becoming data scientists! Data are everywhere and they’re being used in tried-and-true, new, and creative ways. This course will introduce you to the broad topics in data science, discuss what it means to be a data scientist, and get you on your way to thinking like a data scientist. To see what topics will be introduced in this course, see the side nav menu and click on topics.
+## Course Homeworks & Topics
+This journey is designed to immerse you in the foundational aspects of database systems, a cornerstone in the world of data science. Databases are the backbone of countless applications and play a pivotal role in storing, organizing, and retrieving data efficiently. Through this course, you'll delve into the core principles of database management, understand its significance in data-driven decision-making, and develop skills essential for any budding data professional. You will alsop learn the ins and outs of writing good effecient SQL code. Homeworks will cause you to dive deeper and immerse yourselves in the material.
 
-### Assignments
-Assignments will focus on applying the concepts covered in lectures and readings. 
+### Homeworks
+Homeworks will be some of the more difficult parts of this class. That is by design, because I firmly believe in students being given time to wrestle with tough problems. The exams and quizzes should be  easier and will reflect material that you should be familair with and know.
 
 - Three individual assignments submitted through Gradescope
 - Use the Google Doc template link (found on this website under assignments), **make a copy of the template**. You do not have edit access to the version that is linked, only the ability to copy it.
@@ -74,60 +76,29 @@ Assignments will focus on applying the concepts covered in lectures and readings
 - Late assignments have 5 points deducted within the first 24 hours, and an additional 5 points during the following 24 hours.
 - No late assignments accepted after 48 hours
 
-### Final Project
-The final project is a two-part report on how you would handle a complicated data science project. It’s a culmination of what you learned from the assignments and lectures.
+There will be 5 homeworks consisting of written problem-solving and programming assignments. The purpose of the homeworks is to provide students with the opportunity to apply and practice the concepts and skills learned in the lectures. Homeworks will be rigorous and require students to demonstrate a deeper understanding of the material. A list of HWs can be found on this webpage in the side menu under **Homework**
 
-- One report submitted through Gradescope per group
-- One PDF submission per group (ensure all your names and PIDs are on the PDF)
-- Your team may resubmit as many times as you like before the deadline
-- Final part 1:
-  - Late assignments have 5 points deducted within the first 24 hours, and an additional 5 points during the following 24 hours.
-  - No late assignments accepted after 48 hours
-- Final part 2:
-  - No late submissions accepted
 
-Your final will include your data science question as well as all the nitty gritty, whys, and hows of the data science project you have chosen. You’ll write about your data science question, find some example data, summarize the data, explain how you would wrangle the data to answer your data science question, and describe the types of analysis you would carry out to answer your question of interest. You **WILL NOT** have to actually perform the analysis to answer the question, nor wrangle data, you only write about how you would perform the analysis and what you expect the outcomes will be.
+Due dates: These can be found on the course calendar (this web site's home page). Instructions for submitted HW will be found in that area as well. Late HW is penalized by a 20% grade reduction, each day it is late. 
 
----
-To reiterate, your team will make a copy of my Google document template and work on that copy together. Make sure to read all the instructions. Your team may resubmit as many times as you want up until the submission deadline. You will receive feedback along with a grade typically within a week for part 1. Feedback from us should be incorporated into part 2 of the final.
----
+Late Day Policy: You have up to 3 late days to use on homework assignments. These late days can be used in 24-hour chunks. You can only use one late day on each assignment. Late days are meant to be a safety net and should not be used as a convenience. It is expected that you will not need to use your late days and that you will submit all assignments on time. If you use all of your late days, it is likely that you are not managing your time effectively and will need to adjust your study habits. Please note that no excuses for not submitting assignments on time will be accepted once you have exhausted your late days. There is no need to inform us you will be using them. When we calculate your grade we will see how many late submissions you have and handle it then on your behalf. 
+
+Note: Homework assignments can be completed in teams of size 2. This means that you can work with one other student to complete the assignment and submit a single solution. It is expected that each member of the team will contribute equally to the solution and have a thorough understanding of the material. Collaboration is encouraged as it can help deepen understanding and facilitate learning, but it is important that all team members understand the work being submitted and are able to explain it if necessary. Plagiarism and cheating will not be tolerated and will result in disciplinary action.
+
+### Quizzes
+These will be short 4-8 question quizzes held in class to ensure material is sticking and provide more opportunities to interact with the material. These should be easy if you are keeping up with your studying and are not intended to punish you. they are only worth 10% of your grade when combined and we drop the lowest. Quizzes are just our way to make sure you keep up with studying and do not fall too far behind. As this class really builds on each previous week.
+
 
 ### Exam
-The exam is comprehensive and will cover the lectures (and possibly guest lectures). TAs/IAs will provide a live or recorded exam review session before the exam.
+The midterm exam will cover all topics up until Formal Query Languages. It will be held remote. There will be a review session with your TA/IAs.
 
-- One multiple-choice exam
-- Available for 72 hours on Gradescope
-- You have 2 continuous hours to finish once started
-- One attempt
-- Open notes, but you must work alone
-- Taken and submitted through Gradescope
+The final exam will be comprehensive and will be held remote.
 
 No late exams are permitted, except for extenuating circumstances. Please reach out to staff as early as possible if you know something will prevent you from taking the exam on time. The later you wait... the less likely we are to accept your request.
 
-### Readings & Quizzes
-Quizzes cover the reading material assigned, e.g. Quiz 1 only covers material from reading 1 (R1).
+Note that there is no makeups for the midterm or final, except in extreme circumstances. If you know there uis a chanceyou will miss it, talk to me and your TA. Rememebr it is remote so you will be able towork on it from anywhere. In the event there is an emergency and you must miss it without informing us, that is ok. We understand life happens and some emergencies are out of your control. We will habdle these on a case-by-case basis. Be sure to reach out to us ASAP.
 
-- Five multiple choice (10 questions) quizzes
-- Available for 48 hours
-- You have 1 hour to finish
-- One attempt
-- Open notes, but you must work alone.
-- Taken and submitted through Gradescope
 
-Your lowest quiz score will be dropped when calculating your final grade. Late reading quizzes will be accepted up to 48 hours, however, they will receive ½ credit.
-
-### Planned Readings
-Readings will cover many of the broad topics found within Data Science, both from an academic and industry perspective.
-
-- R1: Donoho D, 50 Years of Data Science
-- R2: Loukides M, Mason, H & Patil DJ, Ethics and Data Science
-- R2: Privacy & Security Myths & Fallacies of "PII", Narayanan and Shmatikov
-- R3: Wickham H, Tidy Data (Sections 1 -3)
-- R3: Woo K & Broman K, Data in Spreadsheets
-- R4: Wickham H, Cook Di, Hoffman H, & Buja A, Graphical Inference for Infovis
-- R4: Peck, E, Ayuso S, & El-Etr O, Data Is Personal: Attitudes and Perceptions of Data Visualization in Rural Pennsylvania
-- R5: Diakopoulos N, Accountability in Algorithmic Decision Making
-- R5: Angwin J, Larson J, Mattu S & Kirchner L, Machine Bias
 
 
 ## Other Good Stuff
