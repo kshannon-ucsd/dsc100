@@ -11,9 +11,7 @@ nav_order: 1
 {% assign course_calendar = site.data[site.data_folder].course_calendar %}
 <!-- Fall quarter starts in Week 0 while the other quarters start in Week 1 -->
 {% assign offset_week = 1 %}
-{{ site.data_folder }}
-{{ site.data_folder[0] }}
-{% if site.data_folder[0] == 'f' %}
+{% if site.data_folder contains "fa" %}
     {% assign offset_week = 0 %}
 {% endif %}
 
