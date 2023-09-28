@@ -75,6 +75,7 @@ Week one I try to take as many students from the **waitlist** as I can, please e
 {% assign first_date = course_calendar[0].date | date: '%s' %}
 {% assign first_day = course_calendar[0].date | date: '%w' %}
 {% assign prev_week_no = offset_week %}
+{% assign prev_date = 0 % }
 <table style="table-layout: fixed; text-align: left; width: 100%;">
     <colspan>
         <col style="width: 20%;">
@@ -111,7 +112,7 @@ Week one I try to take as many students from the **waitlist** as I can, please e
     {% endif %}
     {% assign prev_week_no = week_no %}
         <tr>
-            <td style="text-align: center"> {{ row.date | date: "%a, %b %d" }} </td>
+            <td style="text-align: center"> {% if prev_date != row.date %} {{ row.date | date: "%a, %b %d" }} {% assign prev_date = row.date %} {% endif %} </td>
             <td style="text-align: center">
               {% if row.label == "LECT" %} <span class="md-cal-badge md-cal-badge-blue"> {{ row.label }} </span>
               {% elsif row.label == "DISC" %} <span class="md-cal-badge md-cal-badge-purple"> {{ row.label }} </span>
