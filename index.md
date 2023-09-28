@@ -112,7 +112,8 @@ Week one I try to take as many students from the **waitlist** as I can, please e
     {% endif %}
     {% assign prev_week_no = week_no %}
         <tr>
-            <td style="text-align: center"> {% if prev_date != row.date %} {{ row.date | date: "%a, %b %d" }} {% assign prev_date = row.date %} {% endif %} </td>
+            <td style="text-align: center"> {% if prev_date != row.date %} {{ row.date | date: "%a, %b %d" }} {% endif %} </td>
+            {% assign prev_date = row.date %}
             <td style="text-align: center">
               {% if row.label == "LECT" %} <span class="md-cal-badge md-cal-badge-blue"> {{ row.label }} </span>
               {% elsif row.label == "DISC" %} <span class="md-cal-badge md-cal-badge-purple"> {{ row.label }} </span>
