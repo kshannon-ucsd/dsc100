@@ -24,7 +24,7 @@ permalink: /staff-info/
 
 ## Office Hours & Zoom Info
 
-Office hours are a great place to personally interact. Beyond projects and course material, we are interested in your goals, career endeavors, and what you want to gain from COGS 8. 
+Office hours are a great place to personally interact. Beyond homeworks and course material, we are interested in your goals, career endeavors, and what you want to gain from DSC 100. 
 
 <table style="table-layout: fixed; text-align: center; width: 100%;">
     <thead>

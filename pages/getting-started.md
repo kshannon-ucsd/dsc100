@@ -16,4 +16,4 @@ permalink: /getting started
    -  Gradescope link: **{{ variables.gradescope_link }}**
    -  Entry code: **{{ variables.gradescope_entry_code }}**
    -  When registering for **Gradescope** you must include your **Student ID/PID** and **UCSD Email**.
-3. Get ready to have sa goo time! 
+3. Get ready to have a good time!

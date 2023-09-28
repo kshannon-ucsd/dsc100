@@ -20,13 +20,7 @@ teaching_assistants:
         time: 4:00PM - 5:00PM
         location: SOLIS 109
 
-instructional_assistants:
-  - name: IA
-    email: ia@ucsd.edu
-    office_hours:
-      - day: TBD
-        time: TBD
-        location: TBD
+instructional_assistants: 
 
 piazza_link: https://piazza.com/ucsd/fall2023/dsc100kshannon
 piazza_access_code: 6sg7i14tnss
@@ -39,5 +33,5 @@ discussion_sections:
     time: 5:00PM - 5:50PM
     location: SOLIS 109
     ta: Vineeth
-    ia: TBD
+    ia: 
     materials: TBD
