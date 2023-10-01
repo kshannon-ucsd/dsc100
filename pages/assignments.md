@@ -56,9 +56,9 @@ We'll provide more detailed instructions on assignments, as well as formatting, 
 ---
 
 #### Quizzes
-Quizzes are 8 questions each. They will be worth in total 10% of your grade, so 2% per quiz, the quiz with the lowest grade is dropped. You will have 20 minutes to complete quizzes on Gradescope. Quizzes are released after class and are always due before the next class.
+Quizzes are 8 questions each. They will be worth in total 10% of your grade, so 2% per quiz. But here's the plot twist: your lowest grade? Poof! We drop it like it's hot. 🎤⬇️ 🕺🕺🕺 You will have 20 minutes to complete quizzes on Gradescope. Quizzes are pushed to prod after class, and deprecated right before the next class. 
 
-> Remember, quizzes are to be completed alone, that includes no phoning friends, even if your best friend is an LLM. I understand that students no longer use phones to call, MMS, SMS, or any S. But under academic integrity phoning also means no ticktocking, to snaping, to instagramming, no ~~tweeting~~ $\mathbb{X}\text{\textit{ing}}$, no whatsapping, or any other `*ing`. 
+> Remember, quizzes are to be completed alone, that includes no phoning friends, even if your `BFF` is an `LLM`. I understand that students no longer use phones to call, MMS, SMS, or any S. But under academic integrity, phoning also means no tiktoking, no snapping  👻, no instagramming, no ~~tweeting~~ $\mathbb{X}\text{\textit{ing}}$, no whatsapping, or any other `*ing`. Keep it old school and ace it on your own! 🚫📱🎉
 
 #### HW 1
 `raise: todo`
