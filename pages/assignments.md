@@ -56,7 +56,9 @@ We'll provide more detailed instructions on assignments, as well as formatting, 
 ---
 
 #### Quizzes
-`raise: todo`
+Quizzes are 8 questions each. They will be worth in total 10% of your grade, so 2% per quiz, the quiz with the lowest grade is dropped. You will have 20 minutes to complete quizzes on Gradescope. Quizzes are released after class and are always due before the next class.
+
+> Remember, quizzes are to be completed alone, that includes no phoning friends, even if your best friend is an LLM. I understand that students no longer use phones to call, MMS, SMS, or any S. But under academic integrity phoning also means no ticktocking, to snaping, no instagramming, no lining, no ~~tweeting~~ $\mathbb{X}\text{\textit{ing}}$, no whatsapping, or any other `*ing`. 
 
 #### HW 1
 `raise: todo`
