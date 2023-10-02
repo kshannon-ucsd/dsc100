@@ -22,7 +22,7 @@ permalink: /syllabus/
 - All course announcements will occur through Piazza. Signup links in the **getting started** page.
 
 ## Course Objectives
-- Understand fundamental concepts and techniques in data management 
+- Understand fundamental concepts and techniques in data management
 - Acquire hands-on skills using SQL and relational database systems
 - Learn about database design, indexing and normalization
 - Gain knowledge about using databases for data science, machine learning, and analysis
@@ -34,7 +34,9 @@ permalink: /syllabus/
 ## Grading & Attendance
 ### Grading
 
-|                                               | % of Total Grade |   200 Total Points |
+Here is the breakdown:
+
+| Assignment                                    | % of Total Grade |   200 Total Points |
 |:----------------------------------------------|:-----------------|:-------------------|
 | 5 Homeworks                                   |               50 |     100 (20 each)  |
 | 6 Quizzes (lowest quiz score dropped)         |               10 |       20 (4 each)  |
@@ -42,9 +44,9 @@ permalink: /syllabus/
 | 1 Final Exam                                  |               25 |               50   |
 | Bonus                                         |                2 |          4 bonus   |
 
-- **Final exam date**: No in class final exam, this exam will be done remote.
+- **Final exam date**: No in class final exam, this exam will be done remote. And will be done by yourselves
 - Your letter grade will be determined using the [standard grading scale](https://pages.stolaf.edu/dietz/typical-grading-scale/). Grades are not rounded up, that’s why we have included bonus points.
-
+- Grading specifics for each assignment can be found on the Assignments page
 ### Grades
 Grades are released often a week after the submission date, typically sooner. Ultimately it is your responsibility to check your final grade and get in touch if you believe there is a problem.
 
@@ -58,7 +60,7 @@ The regrade policy is here to protect students from serious issues in grading, n
 - We will get back to you within 48 hours with our final decision.
 
 ### Lecture Attendance
-Our goal is to make lectures and office hours worth your while to attend, e.g. we do in-class exercises. However, lecture attendance is not required. We will make every effort to record lectures, but things happen. These will be made available to you (UCSD podcast). Quizzes will also occur during class, so you will need to attend those classes.
+Our goal is to make lectures, section and office hours worth your while to attend, e.g. we do many in-class exercises. However, lecture attendance is not required. We will make every effort to record lectures, but things happen. These will be made available to you (UCSD podcast).
 
 ### Section Attendance
 Section attendance is not mandatory. Demos as well as lecture material will be reviewed in the section and it is to your benefit to go and ask questions.
@@ -67,38 +69,24 @@ Section attendance is not mandatory. Demos as well as lecture material will be r
 This journey is designed to immerse you in the foundational aspects of database systems, a cornerstone in the world of data science. Databases are the backbone of countless applications and play a pivotal role in storing, organizing, and retrieving data efficiently. Through this course, you'll delve into the core principles of database management, understand its significance in data-driven decision-making, and develop skills essential for any budding data professional. You will alsop learn the ins and outs of writing good effecient SQL code. Homeworks will cause you to dive deeper and immerse yourselves in the material.
 
 ### Homeworks
-Homeworks will be some of the more difficult parts of this class. That is by design, because I firmly believe in students being given time to wrestle with tough problems. The exams and quizzes should be  easier and will reflect material that you should be familair with and know.
-
-- Three individual assignments submitted through Gradescope
-- Use the Google Doc template link (found on this website under assignments), **make a copy of the template**. You do not have edit access to the version that is linked, only the ability to copy it.
-- One PDF submission per student (ensure your name and PID are on the PDF)
-- You may resubmit as many times as you like before the deadline
-- Late assignments have 5 points deducted within the first 24 hours, and an additional 5 points during the following 24 hours.
-- No late assignments accepted after 48 hours
+Homeworks will be some of the more difficult parts of this class. That is by design, because I firmly believe in students being given time to wrestle with tough problems. The exams and quizzes should be easier, given you have completed all the HWs and interacted within the class/piazza.
 
 There will be 5 homeworks consisting of written problem-solving and programming assignments. The purpose of the homeworks is to provide students with the opportunity to apply and practice the concepts and skills learned in the lectures. Homeworks will be rigorous and require students to demonstrate a deeper understanding of the material. A list of HWs can be found on this webpage in the side menu under **Homework**
 
+Late Day Policy: You have up to 3 late days to use on homework assignments. These late days can be used in 24-hour chunks. Late days are meant to be a safety net and should not be used as a convenience. It is expected that you will not need to use your late days and that you will submit all assignments on time. If you use all of your late days, it is likely that you are not managing your time effectively and will need to adjust your study habits. Please note that no excuses for not submitting assignments on time will be accepted once you have exhausted your late days. There is no need to inform us you will be using them. When we calculate your grade we will see how many late submissions you have, and how many days each submission is late. We will then provide you credit from your "3 late day pool".
 
-Due dates: These can be found on the course calendar (this web site's home page). Instructions for submitted HW will be found in that area as well. Late HW is penalized by a 20% grade reduction, each day it is late. 
-
-Late Day Policy: You have up to 3 late days to use on homework assignments. These late days can be used in 24-hour chunks. You can only use one late day on each assignment. Late days are meant to be a safety net and should not be used as a convenience. It is expected that you will not need to use your late days and that you will submit all assignments on time. If you use all of your late days, it is likely that you are not managing your time effectively and will need to adjust your study habits. Please note that no excuses for not submitting assignments on time will be accepted once you have exhausted your late days. There is no need to inform us you will be using them. When we calculate your grade we will see how many late submissions you have and handle it then on your behalf. 
-
-Note: Homework assignments can be completed in teams of size 2. This means that you can work with one other student to complete the assignment and submit a single solution. It is expected that each member of the team will contribute equally to the solution and have a thorough understanding of the material. Collaboration is encouraged as it can help deepen understanding and facilitate learning, but it is important that all team members understand the work being submitted and are able to explain it if necessary. Plagiarism and cheating will not be tolerated and will result in disciplinary action.
+Note: Homework assignments can be completed in teams of 2 students. This means that you can work with one other student to complete the assignment and submit a single solution. It is expected that each member of the team will contribute equally to the solution and have a thorough understanding of the material. Collaboration is encouraged as it can help deepen understanding and facilitate learning, but it is important that all team members understand the work being submitted and are able to explain it if necessary. Plagiarism and cheating will not be tolerated and will result in disciplinary action.
 
 ### Quizzes
-These will be short 4-8 question quizzes held in class to ensure material is sticking and provide more opportunities to interact with the material. These should be easy if you are keeping up with your studying and are not intended to punish you. they are only worth 10% of your grade when combined and we drop the lowest. Quizzes are just our way to make sure you keep up with studying and do not fall too far behind. As this class really builds on each previous week.
+These will be short 8 question quizzes to ensure material is sticking and provide more opportunities to interact with the material. These should be straightforward if you are keeping up with your studying and are not intended to punish you. Quizzes are just our way to make sure you keep up with studying and do not fall too far behind. As this class really builds on each previous week.
 
 
 ### Exam
-The midterm exam will cover all topics up until Formal Query Languages. It will be held remote. There will be a review session with your TA/IAs.
+The midterm exam will cover all topics up until Formal Query Languages. It will be held remote. There will be a review session with your TA/IAs. You must work alone.
 
-The final exam will be comprehensive and will be held remote.
+The final exam will be comprehensive and will be held remote. You must work alone.
 
-No late exams are permitted, except for extenuating circumstances. Please reach out to staff as early as possible if you know something will prevent you from taking the exam on time. The later you wait... the less likely we are to accept your request.
-
-Note that there is no makeups for the midterm or final, except in extreme circumstances. If you know there uis a chanceyou will miss it, talk to me and your TA. Rememebr it is remote so you will be able towork on it from anywhere. In the event there is an emergency and you must miss it without informing us, that is ok. We understand life happens and some emergencies are out of your control. We will habdle these on a case-by-case basis. Be sure to reach out to us ASAP.
-
-
+No late exams are permitted, except for extenuating circumstances. Please reach out to staff as early as possible if you know something will prevent you from taking the exam on time. The later you wait... the less likely we are to accept your request. We always consider "acts of God", "family emergencies", and situations completely out of your control, when providing extensions.
 
 
 ## Other Good Stuff
