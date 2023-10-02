@@ -1,9 +1,11 @@
-date,title,label,link,demo
+date,title,label,link
 2023-09-28,01_welcome_welcome_welcome,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+1_+Introduction+and+Overview.pdf
 2023-09-28,01_up_and_running_sqlite,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/1_up_and_running_sqlite.pdf
-2023-10-03,02_relational_data_model,LECT,,
+2023-10-03,02_relational_data_model,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+2_+The+Relational+Model.pdf
+2023-10-03,02_relational_data_model,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/2_relational_data_model.pdf
 2023-10-04,Discussion,DISC,,
-2023-10-05,03_sql_basics,LECT,,
+2023-10-05,03_sql_basics,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+3_+SQL+Basics.pdf
+2023-10-05,03_sql_basics,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/3_sql_basics.pdf
 2023-10-10,04a_join_me_for_joins,LECT,,
 2023-10-11,Discussion,DISC,,
 2023-10-12,04b_join_me_for_joins,LECT,,
