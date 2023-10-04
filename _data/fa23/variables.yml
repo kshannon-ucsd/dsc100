@@ -18,7 +18,9 @@ teaching_assistants:
     office_hours:
       - day: Wed
         time: 4:00PM - 5:00PM
-        location: SOLIS 109
+        location: Zoom
+        zoom_link: https://ucsd.zoom.us/j/3037643310
+        zoom_pw:
 
 instructional_assistants: 
 
