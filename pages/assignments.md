@@ -74,6 +74,29 @@ Our autograding platform is designed for reliability and versatility, eliminatin
 - We utilize a Docker image to process your submission. Gradescope will grade your work based on our Docker image.
 - You can re-submit your assignment multiple times before the deadline, with the exception of midterm and final exams.
 
+##### Code Style Guide
+To encourage good SQL programming style please follow these two simple style rules:
+
+1. Give explicit names to all tables referenced in the FROM clause. For instance, instead of writing:
+```
+SELECT * from flights, carriers WHERE carrier_id = cid;
+```
+Write:
+```
+SELECT * from flights AS f, carriers AS c WHERE f.carrier_id = c.cid;
+```
+*(notice the `AS`) so that it is clear which table you are referring to.*
+
+2. Similarly, reference to all attributes must be qualified by the table name. Instead of writing:
+```
+SELECT * FROM flights WHERE fid = 1;
+```
+Write:
+```
+SELECT * FROM flights AS f WHERE f.fid = 1;
+```
+This will be useful when you write queries involving self joins in later assignments. As well as when you are on the job!
+
 ## Quizzes (20 points)
 
 Quizzes are 8 questions each, completed through Gradescope, you can see the due dates and release dates ahead of time on Gradescope. They will be worth in total 10% of your grade, so 2% per quiz. But here's the plot twist: your lowest grade? Poof! We drop it like it's hot. 🎤⬇️ 🕺🕺🕺 You will have 20 minutes to complete quizzes on Gradescope. Quizzes are pushed to prod after class, and deprecated right before the next class.
