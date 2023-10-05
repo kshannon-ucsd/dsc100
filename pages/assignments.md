@@ -9,77 +9,82 @@ permalink: /assignments/
 # Assignments
 
 
-## Guide for Submitting Assignments
+## Assignment Links
 
-In this class, you'll be tasked with various assignments (HWs, quizzes and exams) that span both coding and non-coding disciplines. We've designed the submission process to be as straightforward as possible from a student and admin perspective. (Although, we can't promise the assignments themselves will all be easy! 😉)
+All assignments will be submitted through **Gradescope**.
 
-**Submission Platform**: All assignments should be submitted through **Gradescope**.
-
-### Assignment Breakdown
-
-| **Assignment** | **Code (.json)** | **Multiple Choice** | **Free Response** (.pdf) | **Team Collaboration** |
-|:--------------:|:---------------------------:|:-------------------:|:-----------------:|:----------------------:|
-| HW 1           | ✓                           | ✗                   | ✗                 | ✓                      |
-| HW 2           | ✓                           | ✗                   | ✗                 | ✓                      |
-| HW 3           | ✓                           | ✗                   | ✗                 | ✓                      |
-| HW 4           | ✗                           | ✗                   | ✓                 | ✓                      |
-| HW 5           | ✗                           | ✗                   | ✓                 | ✓                      |
-| Quiz 1         | ✗                           | ✓                   | ✗                 | ✗                      |
-| Quiz 2         | ✗                           | ✓                   | ✗                 | ✗                      |
-| Quiz 3         | ✗                           | ✓                   | ✗                 | ✗                      |
-| Quiz 4         | ✗                           | ✓                   | ✗                 | ✗                      |
-| Quiz 5         | ✗                           | ✓                   | ✗                 | ✗                      |
-| Quiz 6         | ✗                           | ✓                   | ✗                 | ✗                      |
-| Midterm Exam   | ✓                           | ✓                   | ✗                 | ✗                      |
-| Final Exam     | ✓                           | ✓                   | ✓                 | ✗                      |
-
-#### Column Definitions:
-1. **Code (.json)**: Submit in to Gradescope. We will provide you with a `.json` file for each assignment.
-2. **Multiple Choice**: Assignments may have a multiple-choice section, completed on Gradescope.
-3. **Free Response (.pdf)**: Submit a `.pdf` file of your written response to Gradescope for manual grading.
-4. **Team Collaboration**: Indicates if collaboration with a fellow student (teams of 2 only) is permitted for the assignment.
-
-### Formatting Scripts for Autograding
-
-Our autograding system is both robust and flexible, ensuring no dependency on changing external systems and minimizing vendor lock concerns:
-
-1. Download the homework `.json` file we provide for each assignment.
-2. Add your answers to this `.json` file, adhering to any specific instructions given.
-3. Submit your file (e.g., `hw1.json`) to Gradescope.
-4. Our system uses a Docker image to process the file.
-5. Gradescope will run your file using our Docker image and produce a grade.
-6. Every `.json` file will contain a test question and answer. *Do not modify these*. They're designed to always be marked as correct, ensuring the autograder is functioning even if all other answers are wrong.
-7. You can resubmit your file as many times as you like before the due date.
-
-We'll provide more detailed instructions on assignments, as well as formatting, and template `.json` files below!
-
----
-
-#### Quizzes
-Quizzes are 8 questions each, completed through Gradescope, you can see the due dates and release dates ahead of time on Gradescope. They will be worth in total 10% of your grade, so 2% per quiz. But here's the plot twist: your lowest grade? Poof! We drop it like it's hot. 🎤⬇️ 🕺🕺🕺 You will have 20 minutes to complete quizzes on Gradescope. Quizzes are pushed to prod after class, and deprecated right before the next class. 
-
-> Remember, quizzes are to be completed alone, that includes no phoning friends, even if your `BFF` is an `LLM`. I understand that students no longer use phones to call, MMS, SMS, or any S. But under academic integrity, phoning also means no tiktoking, no snapping  👻, no instagramming, no ~~tweeting~~ $\mathbb{X}\text{\textit{ing}}$, no whatsapping, or any other `*ing`. Keep it old school and ace it on your own! 🚫📱🎉
-
-#### HW 1
-Will be released soon (at some point during week 1). I will anounce it on piazza, and you can grab the file(s) from here.
-
-#### HW 2
-`raise: todo`
-
-#### HW 3
-`raise: todo`
-
-#### HW 4
-`raise: todo`
-
-#### HW 5
-`raise: todo`
-
-#### Midterm
-`raise: todo`
-
-#### Final Exam
-`raise: todo`
+[Homework 1.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+1.pdf)
 
 
+## Assignment Breakdown
 
+| **Assignment** | **Code (.yaml)** | **Multiple Choice** | **Free Response** (.pdf) | **Team Collaboration** |
+|:--------------:|:----------------:|:-------------------:|:------------------------:|:----------------------:|
+| Homework 1     | ✓                | ✗                   | ✗                        | ✓                      |
+| Homework 2     | ✓                | ✗                   | ✗                        | ✓                      |
+| Homework 3     | ✓                | ✗                   | ✗                        | ✓                      |
+| Homework 4     | ✗                | ✗                   | ✓                        | ✓                      |
+| Homework 5     | ✗                | ✗                   | ✓                        | ✓                      |
+| Quiz 1         | ✗                | ✓                   | ✗                        | ✗                      |
+| Quiz 2         | ✗                | ✓                   | ✗                        | ✗                      |
+| Quiz 3         | ✗                | ✓                   | ✗                        | ✗                      |
+| Quiz 4         | ✗                | ✓                   | ✗                        | ✗                      |
+| Quiz 5         | ✗                | ✓                   | ✗                        | ✗                      |
+| Quiz 6         | ✗                | ✓                   | ✗                        | ✗                      |
+| Midterm Exam   | ✓                | ✓                   | ✗                        | ✗                      |
+| Final Exam     | ✓                | ✓                   | ✓                        | ✗                      |
+
+- **Code (.yaml)**: Submitted through Gradescope. We will provide you with necessary `.yaml` file templates.
+- **Multiple Choice**: Assignments may have a multiple-choice section, completed on Gradescope.
+- **Free Response (.pdf)**: Submit a `.pdf` file of your written response to Gradescope for manual grading.
+- **Team Collaboration**: Indicates if collaboration with fellow students is permitted for the assignment.
+
+## Homework (100 points)
+
+##### Autograding Script Formatting Guide
+
+Our autograding platform is designed for reliability and versatility, eliminating dependency on fluctuating external systems and reducing vendor lock-in concerns.
+
+**Steps for Submission**:
+1. **Download the Assignment File**: We'll provide a `.yaml` file for each assignment. Start by downloading it.
+2. **Input Your Answers**: Populate the `.yaml` file with your responses, making sure you strictly follow any specific guidelines mentioned.
+3. **Formatting Reference**: See the example `hw1.yaml` file below to understand the required format. Critical components include the use of the "pipe" character for multiline strings and proper indentation. Incorrect formatting can result in the autograder misreading your submission.
+4. **Text Editor Suggestion**: To ensure accurate formatting, paste your code into a text editor or IDE that supports `.yaml` files.
+5. **Validate Your File**: Before submission, check the syntax with a `.yaml` checker: [YAML Checker](https://yamlchecker.com/).
+
+```yaml
+- question: 1
+  answer: |
+    SELECT * FROM Student;
+
+- question: 2.1
+  answer: |
+    INSERT INTO Student VALUES (6, 'Dimitrov', 'Alex', NULL, NULL);
+  explanation: A
+
+```
+
+**Additional Formatting Notes**:
+- For multiple-choice questions, use notations like **A** or **B** in the `explanation` field.
+- Do not modify the "question" sections in the `.yaml` file.
+- The `.yaml` file will be provided complete with fields corresponding directly to the questions we share with you.
+
+**Submitting Your Work**:
+- Upload your completed `.yaml` file (e.g., `hw1.yaml`) to Gradescope.
+- We utilize a Docker image to process your submission. Gradescope will grade your work based on our Docker image.
+- You can re-submit your assignment multiple times before the deadline, with the exception of midterm and final exams.
+
+## Quizzes (20 points)
+
+Quizzes are 8 questions each, completed through Gradescope, you can see the due dates and release dates ahead of time on Gradescope. They will be worth in total 10% of your grade, so 2% per quiz. But here's the plot twist: your lowest grade? Poof! We drop it like it's hot. 🎤⬇️ 🕺🕺🕺 You will have 20 minutes to complete quizzes on Gradescope. Quizzes are pushed to prod after class, and deprecated right before the next class.
+
+> Remember, quizzes are to be completed alone, that includes no phoning friends, even if your `BFF` is an `LLM`. I understand that students no longer use phones to call, MMS, SMS, or any S. But under academic integrity, phoning also means no tiktoking, no snapping 👻, no instagramming, no ~~tweeting~~ $\mathbb{X}$ ing, no whatsapping, or any other `*ing`. Keep it old school and ace it on your own! 🚫📱🎉
+
+
+## Midterm (30 points)
+
+TODO
+
+## Final Exam (50 points)
+
+TODO
