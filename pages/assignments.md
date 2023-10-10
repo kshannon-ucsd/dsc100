@@ -13,8 +13,8 @@ permalink: /assignments/
 
 All assignments will be submitted through **Gradescope**.
 
-[Homework 1.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+1.pdf)
-Homework 2.pdf -- release soon
+- [Homework 1.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+1.pdf)
+- Homework 2.pdf -- release soon
 
 
 ## Assignment Breakdown
