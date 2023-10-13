@@ -11,9 +11,10 @@ date,title,label,link
 2023-10-11,Discussion,DISC,
 2023-10-12,Quiz 1 is Due,QUIZ,
 2023-10-12,04b_join_me_for_joins,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+4ab_+Joins.pdf
-2023-10-10,04_advanced_joins,DEMO,
+2023-10-10,04_advanced_joins,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/5_advanced_joins.pdf
 2023-10-14,Homework 1 is Due,HMWK,
 2023-10-17,05_aggregation_and_grouping,LECT,
+2023-10-17,05_aggregation_and_grouping,DEMO,
 2023-10-18,Discussion,DISC,
 2023-10-19,06a_advanced_sql_queries,LECT,
 2023-10-19,Quiz 2 is Due,QUIZ,
