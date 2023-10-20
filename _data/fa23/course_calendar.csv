@@ -17,7 +17,7 @@ date,title,label,link
 2023-10-17,06_aggregation_and_grouping,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/6_grouping_agg_queries.pdf
 2023-10-18,Discussion,DISC,
 2023-10-19,06a_advanced_sql_queries,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+6ab_+Advanced+SQL+Queries.pdf
-2023-10-19,07_subqueries_nested_queries,DEMO,
+2023-10-19,07_subqueries_nested_queries,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/7_subqueries_nested_queries.pdf
 2023-10-19,Quiz 2 is Due,QUIZ,
 2023-10-24,06b_advanced_sql_queries,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+6ab_+Advanced+SQL+Queries.pdf
 2023-10-24,08_window_case_datetimes,DEMO,
