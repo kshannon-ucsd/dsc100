@@ -16,6 +16,13 @@ All assignments will be submitted through **Gradescope**.
 - [Homework 1.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+1.pdf)
 - [Homework 2.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+2.pdf)
 
+### Assignment Guides
+
+Auxillary information and guides to support HWs
+
+- [PostgreSQL & PG Admin Installation Instructions](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/guides/postgresql_install.pdf)
+
+
 
 ## Assignment Breakdown
 
