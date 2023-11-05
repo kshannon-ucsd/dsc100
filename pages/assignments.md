@@ -16,8 +16,8 @@ All assignments will be submitted through **Gradescope**.
 - [Homework 1.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+1.pdf)
 - [Homework 2.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+2.pdf)
 - [Homework 3.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+3.pdf)
-<!-- - [Homework 4.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+4.pdf) -->
-
+- [Homework 4.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+4.pdf)
+- [Midterm Queries.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/exams/midterm_queries.pdf)
 
 ### Assignment Guides
 
@@ -112,7 +112,7 @@ This will be useful when you write queries involving self joins in later assignm
 
 Quizzes are 8 questions each, completed through Gradescope, you can see the due dates and release dates ahead of time on Gradescope. They will be worth in total 10% of your grade, so 2% per quiz. But here's the plot twist: your lowest grade? Poof! We drop it like it's hot. 🎤⬇️ 🕺🕺🕺 You will have 20 minutes to complete quizzes on Gradescope. Quizzes are pushed to prod after class, and deprecated right before the next class.
 
-> Remember, quizzes are to be completed alone, that includes no phoning friends, even if your `BFF` is an `LLM`. I understand that students no longer use phones to call, MMS, SMS, or any S. But under academic integrity, phoning also means no tiktoking, no snapping 👻, no instagramming, no ~~tweeting~~ $\mathbb{X}$ ing, no whatsapping, or any other `*ing`. Keep it old school and ace it on your own! 🚫📱🎉
+> Remember, quizzes are to be completed alone, that includes no phoning friends, even if your `BFF` is an `LLM`. I understand that students no longer use phones to call, MMS, SMS, or any S. But under academic integrity, phoning also means no tiktoking, no snapping 👻, no instagramming, no ~~tweeting~~ Xing, no whatsapping, or any other `*ing`. Keep it old school and ace it on your own! 🚫📱🎉
 
 
 ## Midterm (30 points)
