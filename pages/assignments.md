@@ -128,8 +128,18 @@ The midterm exam consists of two distinct parts:
 - You can begin Part 2 (Multiple Choice) at any moment within the 48-hour window. However, please note that once started, you will have a fixed duration of 45 minutes to finish it.
 
 {: .warning .fs-2 }
-You must **work alone** on the midterm, this includes both parts. You may not use chatgpt or other LLMs to solve the problems for you, nor may you consult the internet (e.g. asking a question on stackoverflow or github forms).
-You may use the following resources: your notes, my lecture slides, previous homeworks/quizzes, discussion section material/notes, the suggested textbook, old Piazza posts from our class, an instance of `sqlite3` and `psql`, and any official online documentation (e.g. sqlite3)
+You must **work alone** on the midterm, this includes both parts. You may not use chatgpt or other LLMs to solve the problems for you, nor may you consult the internet (e.g. asking a question on stackoverflow or github forms). See the list below for resources you are sllowed to use during part 1 and 2 of the exam.
+
+
+#### Approved Resources 
+1. your notes
+2. my lecture slides
+3. previous homeworks/quizzes
+4. discussion section material/notes
+5. the suggested textbook
+6. old Piazza posts from our class
+7. a database (e.g. chinook) instance in `sqlite3` and `psql`
+8. any official online documentation (e.g. sqlite3)
 
 #### Important Notes
 - We have designed this flexible schedule keeping in mind potential life constraints you might encounter. To support your planning, we will provide exact exam dates well in advance.
