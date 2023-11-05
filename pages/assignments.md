@@ -120,15 +120,22 @@ Quizzes are 8 questions each, completed through Gradescope, you can see the due 
 The midterm exam consists of two distinct parts:
 
 1. **SQL Query Component:** This part requires you to submit an SQL query to an auto-grader via Gradescope, similar to the procedure used for homework submissions.
-2. **Multiple Choice Section:** This will be administered on Gradescope.
+2. **Multiple Choice Section:** This will be a 30 question multiple choice exam administered through Gradescope.
   
 #### Availability and Duration
-- The exam, encompassing both parts, will be accessible for a total duration of 48 hours. It will begin at 11:59 AM on Day 1 (for instance, December 6th) and conclude at 11:59 AM on Day 3 (e.g., December 8th).
+- The exam, encompassing both parts, will be accessible for a total duration of 48 hours. It will begin at 12:01 PM on Day 1 (for instance, December 6th) and conclude at 12:01 PM on Day 3 (e.g., December 8th).
 - For Part 1 (SQL Query Component), you have the full 48 hours to complete and submit your work.
-- You can begin Part 2 (Multiple Choice) at any moment within the 48-hour window. However, please note that once started, you will have a fixed duration of 60 minutes to finish it.
+- You can begin Part 2 (Multiple Choice) at any moment within the 48-hour window. However, please note that once started, you will have a fixed duration of 45 minutes to finish it.
 
 {: .warning .fs-2 }
-You must **work alone** on the midterm, this includes both parts. You may not use chatgpt or other LLMs to solve the problems for you. You may use your notes, my lecture slides, and other resources e.g. the suggested textbook etc.
+You must **work alone** on the midterm, this includes both parts. You may not use chatgpt or other LLMs to solve the problems for you, nor may you consult the internet (e.g. asking a question on stackoverflow or github forms).
+You may use the following resources:
+  - your notes
+  - my lecture slides
+  - previous homeworks/quizzes
+  - the suggested textbook
+  - an instance of `sqlite3` and `psql`
+  - any official online documentation (e.g. sqlite3)
 
 #### Important Notes
 - We have designed this flexible schedule keeping in mind potential life constraints you might encounter. To support your planning, we will provide exact exam dates well in advance.
