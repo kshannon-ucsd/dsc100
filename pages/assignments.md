@@ -129,13 +129,7 @@ The midterm exam consists of two distinct parts:
 
 {: .warning .fs-2 }
 You must **work alone** on the midterm, this includes both parts. You may not use chatgpt or other LLMs to solve the problems for you, nor may you consult the internet (e.g. asking a question on stackoverflow or github forms).
-You may use the following resources:
-  - your notes
-  - my lecture slides
-  - previous homeworks/quizzes
-  - the suggested textbook
-  - an instance of `sqlite3` and `psql`
-  - any official online documentation (e.g. sqlite3)
+You may use the following resources: your notes, my lecture slides, previous homeworks/quizzes, discussion section material/notes, the suggested textbook, old Piazza posts from our class, an instance of `sqlite3` and `psql`, and any official online documentation (e.g. sqlite3)
 
 #### Important Notes
 - We have designed this flexible schedule keeping in mind potential life constraints you might encounter. To support your planning, we will provide exact exam dates well in advance.
