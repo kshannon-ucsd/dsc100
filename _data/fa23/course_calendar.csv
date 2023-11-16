@@ -35,10 +35,10 @@ date,title,label,link
 2023-11-08,Discussion,DISC,
 2023-11-09,09_interactive_data_analysis,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/09_analysis_with_sql.pdf
 2023-11-09,11_interactive_data_analysis,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/11_interactive_data_analysis.ipynb
-2023-11-14,10a_data_storage_query_analysis,LECT,
-2023-11-14,12_query_optimization_explain_analyze,DEMO,
+2023-11-14,10a_data_storage_query_analysis,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+10ab_+Data+Storage+and+Query+Analysis.pdf
+2023-11-14,12_query_optimization_explain_analyze,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/12_query_optimization_explain_analyze.pdf
 2023-11-15,Discussion,DISC,
-2023-11-16,10b_index_and_b_trees,LECT,
+2023-11-16,10b_index_and_b_trees,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+10ab_+Data+Storage+and+Query+Analysis.pdf
 2023-11-16,13_index_and_b_trees,DEMO,
 2023-11-21,11_conceptual_design,LECT,
 2023-11-21,14_design_studio,DEMO,
