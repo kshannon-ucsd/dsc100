@@ -39,7 +39,7 @@ date,title,label,link
 2023-11-14,12_query_optimization_explain_analyze,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/12_query_optimization_explain_analyze.pdf
 2023-11-15,Discussion,DISC,
 2023-11-16,10b_index_and_b_trees,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+10ab_+Data+Storage+and+Query+Analysis.pdf
-2023-11-16,13_index_and_b_trees,DEMO,
+2023-11-16,13_index_and_b_trees,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/13_indexes_and_b_trees.pdf
 2023-11-21,11_conceptual_design,LECT,
 2023-11-21,14_design_studio,DEMO,
 2023-11-21,Quiz 5 is Due,QUIZ,
