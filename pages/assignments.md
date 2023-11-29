@@ -18,7 +18,7 @@ All assignments will be submitted through **Gradescope**.
 - [Homework 3.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+3.pdf)
 - [Midterm Queries.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/exams/midterm_queries.pdf)
 - [Homework 4.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+4.pdf)
-<!-- - [Homework 5.pdf]() -->
+- [Homework 5.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+5.pdf)
 
 ### Assignment Guides
 
@@ -146,6 +146,31 @@ You must **work alone** on the midterm, this includes both parts. You may not us
 - We have designed this flexible schedule keeping in mind potential life constraints you might encounter. To support your planning, we will provide exact exam dates well in advance.
 - With this flexibility, please understand that we will not accept late submissions for the midterm, except in exceptional, documented circumstances that are beyond your control (e.g., an auto accident, illness, family emergencies, etc.).
 
-## Final Exam (50 points)
+## Final Exam (50 points) (-- WIP --)
 
-TODO
+#### Midterm Examination Format
+The midterm exam consists of two distinct parts:
+
+1. **SQL Query Component:** This part requires you to submit an SQL query to an auto-grader via Gradescope, similar to the procedure used for homework submissions.
+2. **Multiple Choice Section + Free Response:** ... todo
+  
+#### Availability and Duration
+todo...
+
+{: .warning .fs-2 }
+You must **work alone** on the midterm, this includes both parts. You may not use chatgpt or other LLMs to solve the problems for you, nor may you consult the internet (e.g. asking a question on stackoverflow or github forms). See the list below for resources you are sllowed to use during part 1 and 2 of the exam.
+
+
+#### Approved Resources 
+1. your notes
+2. my lecture slides
+3. previous homeworks/quizzes
+4. discussion section material/notes
+5. the suggested textbook
+6. old Piazza posts from our class
+7. a database (e.g. chinook) instance in `sqlite3` and `psql`
+8. any official online documentation (e.g. sqlite3)
+
+#### Important Notes
+- We have designed this flexible schedule keeping in mind potential life constraints you might encounter. To support your planning, we will provide exact exam dates well in advance.
+- With this flexibility, please understand that we will not accept late submissions for the midterm, except in exceptional, documented circumstances that are beyond your control (e.g., an auto accident, illness, family emergencies, etc.).
