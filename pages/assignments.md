@@ -27,6 +27,7 @@ Auxillary information and guides to support HWs
 - [PostgreSQL & PG Admin Installation Instructions](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/guides/postgresql_install.pdf)
 - [LATEX Intro Guide - Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 - [LATEX Math Guide (pg. 4-6) - Princeton](https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf)
+- [Boyce Codd Normal Form - BCNF](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/guides/boyce_codd_normal_form.pdf)
 
 ## Assignment Breakdown
 
