@@ -147,20 +147,23 @@ You must **work alone** on the midterm, this includes both parts. You may not us
 - We have designed this flexible schedule keeping in mind potential life constraints you might encounter. To support your planning, we will provide exact exam dates well in advance.
 - With this flexibility, please understand that we will not accept late submissions for the midterm, except in exceptional, documented circumstances that are beyond your control (e.g., an auto accident, illness, family emergencies, etc.).
 
-## Final Exam (50 points) (-- WIP --)
+## Final Exam (50 points) 
 
 #### Midterm Examination Format
-The midterm exam consists of two distinct parts:
+There will be 2 parts to the final. You can take both parts separately at any time and need not be taken together.
 
-1. **SQL Query Component:** This part requires you to submit an SQL query to an auto-grader via Gradescope, similar to the procedure used for homework submissions.
-2. **Multiple Choice Section + Free Response:** ... todo
+1. **SQL Query Component (20 points):** This part requires you to submit 4 SQL queries (using PostgresSQL) to an auto-grader via Gradescope. You will have 1.5 hours to complete it. You will be allowed only 3 attempts to submit the yaml file. We will provide the dataset and instructions beforehand so that you can have it ready before starting this part of the final.
+2. **Multiple Choice Section + Free Response (30 points):** You will be given 2.5 hours to complete this part of the exam. The following is the point breakdown.
+  - 20 MCQs (10 pts) = Covers entire syllabus
+  - Relational Algebra (5 pts)
+  - Schema design (10 pts) = Done using mermaid live editor
+  - Normalization (5 pts)
   
 #### Availability and Duration
-todo...
+You may begin both section at any time, but once you start, you will only have the alotted time, 1.5 hours for SQL queries and 2.5 hourse for the MCQs and Free Response portion.  
 
 {: .warning .fs-2 }
 You must **work alone** on the midterm, this includes both parts. You may not use chatgpt or other LLMs to solve the problems for you, nor may you consult the internet (e.g. asking a question on stackoverflow or github forms). See the list below for resources you are sllowed to use during part 1 and 2 of the exam.
-
 
 #### Approved Resources 
 1. your notes
@@ -169,9 +172,9 @@ You must **work alone** on the midterm, this includes both parts. You may not us
 4. discussion section material/notes
 5. the suggested textbook
 6. old Piazza posts from our class
-7. a database (e.g. chinook) instance in `sqlite3` and `psql`
+7. a database (e.g. chinook) instance in `sqlite3` or `postgresql` and `psql`
 8. any official online documentation (e.g. sqlite3)
 
 #### Important Notes
 - We have designed this flexible schedule keeping in mind potential life constraints you might encounter. To support your planning, we will provide exact exam dates well in advance.
-- With this flexibility, please understand that we will not accept late submissions for the midterm, except in exceptional, documented circumstances that are beyond your control (e.g., an auto accident, illness, family emergencies, etc.).
+- With this flexibility, please understand that we will not accept late submissions for the final, except in exceptional, documented circumstances that are beyond your control (e.g., an auto accident, severe illness, family emergencies, etc.).
