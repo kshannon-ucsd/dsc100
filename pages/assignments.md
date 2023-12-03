@@ -160,7 +160,7 @@ There will be 2 parts to the final. You can take both parts separately at any ti
   - Normalization (5 pts)
   
 #### Availability and Duration
-You may begin both section at any time, but once you start, you will only have the alotted time, 1.5 hours for SQL queries and 2.5 hourse for the MCQs and Free Response portion.  
+You will several days to finish both portions of the exam. It will be released at 8:00 AM on Friday, week 10. And will be due by Tuesday at 11:59 AM (NOT PM). You may begin both section at any time, but once you start, you will only have the alotted time, 1.5 hours for SQL queries and 2.5 hourse for the MCQs and Free Response portion.  
 
 {: .warning .fs-2 }
 You must **work alone** on the midterm, this includes both parts. You may not use chatgpt or other LLMs to solve the problems for you, nor may you consult the internet (e.g. asking a question on stackoverflow or github forms). See the list below for resources you are sllowed to use during part 1 and 2 of the exam.
