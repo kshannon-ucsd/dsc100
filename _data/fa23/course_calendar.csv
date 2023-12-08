@@ -40,19 +40,15 @@ date,title,label,link
 2023-11-15,Discussion,DISC,
 2023-11-16,10b_index_and_b_trees,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+10ab_+Data+Storage+and+Query+Analysis.pdf
 2023-11-16,13_index_and_b_trees,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/13_indexes_and_b_trees.pdf
-2023-11-21,11_conceptual_design,LECT,
-2023-11-21,14_design_studio,DEMO,
+2023-11-21,11_conceptual_design,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+11_+Conceptual+Design.pdf
 2023-11-21,Quiz 5 is Due,QUIZ,
 2023-11-22,Discussion,DISC,
 2023-11-22,Homework 4 is Due,HMWK,
 2023-11-23,Thanksgiving Holiday,CNCL,
-2023-11-28,12_design_theory,LECT,
-2023-11-28,15_design_theory,DEMO,
+2023-11-28,12_design_theory,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+12_+Design+Theory.pdf
 2023-11-29,Discussion,DISC,
-2023-11-30,13_normal_forms,LECT,
-2023-11-30,16_views_postgreSQL,DEMO,
-2023-12-05,Final Exam Review,REVW,
+2023-11-30,13_normal_forms (no slides all blackboard),LECT,
+2023-12-05,Final Exam Review(no slides all blackboard),REVW,
 2023-12-05,Homework 5 is Due,HMWK,
 2023-12-06,Discussion,DISC,
-2023-12-07,14_data_quality_and_warehousing,LECT,
-2023-12-07,17_star_schema,DEMO,
+2023-12-07,14_data_quality_and_warehousing(no slides all blackboard),LECT,
