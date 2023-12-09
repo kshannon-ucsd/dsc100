@@ -19,6 +19,7 @@ All assignments will be submitted through **Gradescope**.
 - [Midterm Queries.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/exams/midterm_queries.pdf)
 - [Homework 4.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+4.pdf)
 - [Homework 5.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+5.pdf)
+- [Final_Instructions.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/guides/Final+Exam+Instructions.pdf)
 
 ### Assignment Guides
 
@@ -149,10 +150,10 @@ You must **work alone** on the midterm, this includes both parts. You may not us
 
 ## Final Exam (50 points) 
 
-#### Midterm Examination Format
+#### Examination Format
 There will be 2 parts to the final. You can take both parts separately at any time and need not be taken together.
 
-1. **SQL Query Component (20 points):** This part requires you to submit 4 SQL queries (using PostgresSQL) to an auto-grader via Gradescope. You will have 1.5 hours to complete it. You will be allowed only 3 attempts to submit the yaml file. We will provide the dataset and instructions beforehand so that you can have it ready before starting this part of the final.
+1. **SQL Query Component (20 points):** This part requires you to submit several SQL queries (using PostgresSQL) to an auto-grader via Gradescope. You will have 1.5 hours to complete it. You will be allowed only 3 attempts to submit the yaml file. We will provide the dataset and instructions beforehand so that you can have it ready before starting this part of the final.
 2. **Multiple Choice Section + Free Response (30 points):** You will be given 2.5 hours to complete this part of the exam. The following is the point breakdown.
   - 20 MCQs (10 pts) = Covers entire syllabus
   - Relational Algebra (5 pts)
