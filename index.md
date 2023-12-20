@@ -31,7 +31,7 @@ nav_order: 1
 {: .md-badge-purple }
 
 {: .warning .fs-2 }
-This Course Website for Winter 2024 is currently under construction. 
+🚧 🚧 Much like UCSD ... This Course Website for the next quarter is currently under construction. Content is likely and often to change. Check back a few days before the quarter begins :) 🚧 🚧
 
 
 ## Welcome <span title="https://jarv.is/" class="wave">👋</span> 
