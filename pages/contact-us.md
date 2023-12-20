@@ -2,7 +2,7 @@
 layout: default
 title: Contact Us
 has_children: false
-nav_order: 10
+nav_order: 5
 permalink: /contact-us/
 ---
 
