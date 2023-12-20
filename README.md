@@ -22,7 +22,7 @@ All dev builds will be built into a `dev-docs/` dir. This dir is included in `.g
 ### Building for Prod
 1. A merge or direct push to main branch will automatically trigger the jekyll workflow which will build and deploy the main branch to production.
 2. Check status in github actions for build results.
-3. Navigate to https://kshannon.github.io/dsc100-website/
+3. Navigate to https://kshannon-ucsd.github.io/dsc100-website/
 
 ### /data/ directory
 This dir is excluded from the jekyll build chain (excluded in the config.yaml file).
