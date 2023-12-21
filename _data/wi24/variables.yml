@@ -21,8 +21,6 @@ teaching_assistants:
         location: 
         zoom_link: 
         zoom_pw:
-
-teaching_assistants:
   - name: 
     email: 
     office_hours:
@@ -31,8 +29,6 @@ teaching_assistants:
         location: 
         zoom_link: 
         zoom_pw:
-
-teaching_assistants:
   - name: Vineeth Chelur
     email: vrchelur@ucsd.edu
     office_hours:
