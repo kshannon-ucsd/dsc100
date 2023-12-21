@@ -1,7 +1,7 @@
 # dsc100
 Class Website for UCSD's DSC 100 Introduction to Data Management
 
-[![Deploy Jekyll site to Pages](https://github.com/kshannon/ucsd-dsc100/actions/workflows/jekyll.yml/badge.svg)](https://github.com/kshannon/ucsd-dsc100/actions/workflows/jekyll.yml)
+[![Deploy Jekyll site to Pages](https://github.com/kshannon-ucsd/dsc100/actions/workflows/jekyll.yml/badge.svg)](https://github.com/kshannon-ucsd/dsc100/actions/workflows/jekyll.yml)
 
 ## Up and Running
 ### Dev Environment initial set up
