@@ -13,6 +13,7 @@ permalink: /assignments/
 All assignments/exams will be submitted through **Gradescope**.
 
 - [Homework 1.pdf]("#") (incoming)
+
 <!--
 - [Homework 2.pdf]("#")
 - [Homework 3.pdf]("#")
