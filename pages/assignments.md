@@ -12,46 +12,28 @@ permalink: /assignments/
 
 All assignments/exams will be submitted through **Gradescope**.
 
-- [Homework 1.pdf]("#") (incoming)
+- Homework 1.pdf (incoming)
 
-<!--
-- [Homework 2.pdf]("#")
-- [Homework 3.pdf]("#")
-- [Midterm instructions.pdf]("#")
-- [Midterm Queries.pdf]("#")
-- [Homework 4.pdf]("#")
-- [Homework 5.pdf]("#")
-- [Final_Instructions.pdf]("#")
--->
+
 
 ### Student Guides
-Auxillary information and guides to support HWs
+Additional formatting instructions and guides to support HWs
 
-<!--
-- [PostgreSQL & PGAdmin Installation Instructions]("#")
-- [LATEX Intro Guide - Overleaf]("#")
-- [LATEX Math Guide]("#")
--->
+
 
 ### Lecture Notes
 Some lecutres are done mostly on the black/whiteboard. These notes are my lecture notes and I make them available to you for study/review.
 
-<!--
-- [name]("#")
--->
+
 
 ### Practice Problems
 We will put additional practice problems and solutions here should you want extra practice.
-
-<!--
-- [name]("#")
--->
 
 
 
 ## Assignment Breakdown
 
-| **Assignment** | **Code (.yaml)** | **Multiple Choice** | **Free Response** (.pdf) | **Team Collaboration** |
+| **Assignment** | **Code (.yaml)** | **Multiple Choice** | **Free Response** (.pdf) | **Collaboration** |
 |:--------------:|:----------------:|:-------------------:|:------------------------:|:----------------------:|
 | Homework 1     | ✓                | ✗                   | ✗                        | ✓                      |
 | Homework 2     | ✓                | ✗                   | ✗                        | ✓                      |
@@ -70,7 +52,7 @@ We will put additional practice problems and solutions here should you want extr
 - **Code (.yaml)**: Submitted through Gradescope. We will provide you with necessary `.yaml` file templates.
 - **Multiple Choice**: Assignments may have a multiple-choice section, completed on Gradescope.
 - **Free Response (.pdf)**: Submit a `.pdf` file of your written response to Gradescope for manual grading.
-- **Team Collaboration**: Indicates if collaboration with fellow students is permitted for the assignment.
+- **Collaboration**: Indicates if collaboration with fellow students is permitted for the assignment.
 
 ## Homework (100 points)
 
