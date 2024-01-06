@@ -30,8 +30,8 @@ nav_order: 1
 {{ variables.timings }}
 {: .md-badge-purple }
 
-{: .warning .fs-2 }
-🚧 🚧 Much like UCSD ... This Course Website for the next quarter is currently under construction. Content is likely and often to change. Check back a few days before the quarter begins :) 🚧 🚧
+<!-- {: .warning .fs-2 }
+🚧 🚧 Much like UCSD ... This Course Website for the next quarter is currently under construction. Content is likely and often to change. Check back a few days before the quarter begins :) 🚧 🚧 -->
 
 
 ## Welcome <span title="https://jarv.is/" class="wave">👋</span> 
