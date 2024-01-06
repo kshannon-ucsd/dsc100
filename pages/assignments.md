@@ -8,27 +8,45 @@ permalink: /assignments/
 
 # Assignments
 
-
 ## Assignment Links
 
-All assignments will be submitted through **Gradescope**.
+All assignments/exams will be submitted through **Gradescope**.
 
-- [Homework 1.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+1.pdf)
-- [Homework 2.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+2.pdf)
-- [Homework 3.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+3.pdf)
-- [Midterm Queries.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/exams/midterm_queries.pdf)
-- [Homework 4.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+4.pdf)
-- [Homework 5.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/Homework+5.pdf)
-- [Final_Instructions.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/guides/Final+Exam+Instructions.pdf)
+- [Homework 1.pdf]("#") (incoming)
+<!--
+- [Homework 2.pdf]("#")
+- [Homework 3.pdf]("#")
+- [Midterm instructions.pdf]("#")
+- [Midterm Queries.pdf]("#")
+- [Homework 4.pdf]("#")
+- [Homework 5.pdf]("#")
+- [Final_Instructions.pdf]("#")
+-->
 
-### Assignment Guides
-
+### Student Guides
 Auxillary information and guides to support HWs
 
-- [PostgreSQL & PG Admin Installation Instructions](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/guides/postgresql_install.pdf)
-- [LATEX Intro Guide - Overleaf](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
-- [LATEX Math Guide (pg. 4-6) - Princeton](https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf)
-- [Boyce Codd Normal Form - BCNF](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/guides/boyce_codd_normal_form.pdf)
+<!--
+- [PostgreSQL & PGAdmin Installation Instructions]("#")
+- [LATEX Intro Guide - Overleaf]("#")
+- [LATEX Math Guide]("#")
+-->
+
+### Lecture Notes
+Some lecutres are done mostly on the black/whiteboard. These notes are my lecture notes and I make them available to you for study/review.
+
+<!--
+- [name]("#")
+-->
+
+### Practice Problems
+We will put additional practice problems and solutions here should you want extra practice.
+
+<!--
+- [name]("#")
+-->
+
+
 
 ## Assignment Breakdown
 
@@ -117,65 +135,5 @@ Quizzes are 8 questions each, completed through Gradescope, you can see the due 
 
 > Remember, quizzes are to be completed alone, that includes no phoning friends, even if your `BFF` is an `LLM`. I understand that students no longer use phones to call, MMS, SMS, or any S. But under academic integrity, phoning also means no tiktoking, no snapping 👻, no instagramming, no ~~tweeting~~ Xing, no whatsapping, or any other `*ing`. Keep it old school and ace it on your own! 🚫📱🎉
 
-
-## Midterm (30 points)
-#### Midterm Examination Format
-The midterm exam consists of two distinct parts:
-
-1. **SQL Query Component:** This part requires you to submit an SQL query to an auto-grader via Gradescope, similar to the procedure used for homework submissions.
-2. **Multiple Choice Section:** This will be a 30 question multiple choice exam administered through Gradescope.
-  
-#### Availability and Duration
-- The exam, encompassing both parts, will be accessible for a total duration of 48 hours. It will begin at 12:01 PM on Day 1 (for instance, December 6th) and conclude at 12:01 PM on Day 3 (e.g., December 8th).
-- For Part 1 (SQL Query Component), you have the full 48 hours to complete and submit your work.
-- You can begin Part 2 (Multiple Choice) at any moment within the 48-hour window. However, please note that once started, you will have a fixed duration of 45 minutes to finish it.
-
-{: .warning .fs-2 }
-You must **work alone** on the midterm, this includes both parts. You may not use chatgpt or other LLMs to solve the problems for you, nor may you consult the internet (e.g. asking a question on stackoverflow or github forms). See the list below for resources you are sllowed to use during part 1 and 2 of the exam.
-
-
-#### Approved Resources 
-1. your notes
-2. my lecture slides
-3. previous homeworks/quizzes
-4. discussion section material/notes
-5. the suggested textbook
-6. old Piazza posts from our class
-7. a database (e.g. chinook) instance in `sqlite3` and `psql`
-8. any official online documentation (e.g. sqlite3)
-
-#### Important Notes
-- We have designed this flexible schedule keeping in mind potential life constraints you might encounter. To support your planning, we will provide exact exam dates well in advance.
-- With this flexibility, please understand that we will not accept late submissions for the midterm, except in exceptional, documented circumstances that are beyond your control (e.g., an auto accident, illness, family emergencies, etc.).
-
-## Final Exam (50 points) 
-
-#### Examination Format
-There will be 2 parts to the final. You can take both parts separately at any time and need not be taken together.
-
-1. **SQL Query Component (20 points):** This part requires you to submit several SQL queries (using PostgresSQL) to an auto-grader via Gradescope. You will have 1.5 hours to complete it. You will be allowed only 3 attempts to submit the yaml file. We will provide the dataset and instructions beforehand so that you can have it ready before starting this part of the final.
-2. **Multiple Choice Section + Free Response (30 points):** You will be given 2.5 hours to complete this part of the exam. The following is the point breakdown.
-  - 20 MCQs (10 pts) = Covers entire syllabus
-  - Relational Algebra (5 pts)
-  - Schema design (10 pts) = Done using mermaid live editor
-  - Normalization (5 pts)
-  
-#### Availability and Duration
-You will several days to finish both portions of the exam. It will be released at 8:00 AM on Friday, week 10. And will be due by Tuesday at 11:59 AM (NOT PM). You may begin both section at any time, but once you start, you will only have the alotted time, 1.5 hours for SQL queries and 2.5 hourse for the MCQs and Free Response portion.  
-
-{: .warning .fs-2 }
-You must **work alone** on the midterm, this includes both parts. You may not use chatgpt or other LLMs to solve the problems for you, nor may you consult the internet (e.g. asking a question on stackoverflow or github forms). See the list below for resources you are sllowed to use during part 1 and 2 of the exam.
-
-#### Approved Resources 
-1. your notes
-2. my lecture slides
-3. previous homeworks/quizzes
-4. discussion section material/notes
-5. the suggested textbook
-6. old Piazza posts from our class
-7. a database (e.g. chinook) instance in `sqlite3` or `postgresql` and `psql`
-8. any official online documentation (e.g. sqlite3)
-
-#### Important Notes
-- We have designed this flexible schedule keeping in mind potential life constraints you might encounter. To support your planning, we will provide exact exam dates well in advance.
-- With this flexibility, please understand that we will not accept late submissions for the final, except in exceptional, documented circumstances that are beyond your control (e.g., an auto accident, severe illness, family emergencies, etc.).
+## Midterm and Final
+See the instructions above (under assignments link) for more information on the midterm and final. These will be available shortly before each is available.
