@@ -24,10 +24,10 @@ teaching_assistants:
   - name: Kaveya Sivaprakasam
     email: klnu@ucsd.edu
     office_hours:
-      - day: 
-        time: 
-        location: 
-        zoom_link: 
+      - day: Fri
+        time: 4:00PM - 5:00PM
+        location: Zoom
+        zoom_link: https://ucsd.zoom.us/j/99864013403?pwd=ZzFCRm9SbmwyaEs1anJjQnFBREJkQT09
         zoom_pw:
   - name: Vineeth Chelur
     email: vrchelur@ucsd.edu
