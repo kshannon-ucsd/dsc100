@@ -16,10 +16,10 @@ teaching_assistants:
   - name: Hemil Panchiwala
     email: hpanchiwala@ucsd.edu
     office_hours:
-      - day: 
-        time: 
-        location: 
-        zoom_link: 
+      - day: Tue
+        time: 11:00AM - 12:00PM
+        location: Zoom
+        zoom_link: https://ucsd.zoom.us/j/2932814604
         zoom_pw:
   - name: Kaveya Sivaprakasam
     email: klnu@ucsd.edu
@@ -48,6 +48,6 @@ discussion_sections:
     day: Fri
     time: 5:00PM - 5:50PM
     location: PCYNH 106
-    ta: TBD
+    ta: Kaveya Sivaprakasam
     ia: 
     materials: 
