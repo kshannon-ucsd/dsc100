@@ -1,8 +1,8 @@
 ## LECTURES
 ```
 title,link
-01_welcome_welcome_welcome,
-02_relational_data_model,
+01_welcome_welcome_welcome,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/01_welcome_welcome_welcome.pdf
+02_relational_data_model,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/02_relational_data_model.pdf
 03_sql_basics,
 04_join_me_for_joins,
 05_join_me_for_joins_2,
@@ -25,8 +25,8 @@ title,link
 ## DEMOS
 ```
 title,link
-01_up_and_running_sqlite,
-02_relational_data_model,
+01_up_and_running_sqlite,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/01_up_and_running_sqlite.pdf
+02_relational_data_model,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/02_relational_data_model.pdf
 03_sql_basics,
 04_simple_joins,
 05_advanced_joins,
