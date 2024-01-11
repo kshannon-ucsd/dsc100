@@ -1,4 +1,4 @@
-date,title,label
+date,title,label,link
 2024-01-09,01_welcome_welcome_welcome,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/01_welcome_welcome_welcome.pdf
 2024-01-09,01_up_and_running_sqlite,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/01_up_and_running_sqlite.pdf
 2024-01-11,02_relational_data_model,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/02_relational_data_model.pdf
