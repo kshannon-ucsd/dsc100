@@ -12,7 +12,8 @@ permalink: /assignments/
 
 All assignments/exams will be submitted through **Gradescope**.
 
-- Homework 1.pdf (incoming)
+- [Homework 1.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/homework_1_ds67d3.pdf)
+- Homework 2.pdf (incoming!)
 
 
 
