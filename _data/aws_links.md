@@ -5,8 +5,8 @@ title,link
 02_relational_data_model,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/02_relational_data_model.pdf
 03_sql_basics,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/03_sql_basics.pdf
 04_join_me_for_joins,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/04_join_me_for_joins.pdf
-05_join_me_for_joins_2,
-06_aggregation_and_grouping,
+05_join_me_for_joins_2,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/05_join_me_for_joins_2.pdf
+06_aggregation_and_grouping,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/06_aggregation_and_grouping.pdf
 07_advanced_sql_queries,
 08_advanced_sql_queries,
 09_set_operations,
@@ -29,8 +29,8 @@ title,link
 02_relational_data_model,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/02_relational_data_model.pdf
 03_sql_basics,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/03_sql_basics.pdf
 04_simple_joins,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/04_simple_joins.pdf
-05_advanced_joins,
-06_aggregation_and_grouping,
+05_advanced_joins,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/05_advanced_joins.pdf
+06_aggregation_and_grouping,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/06_aggregation_and_grouping.pdf
 07_subqueries_nested_queries,
 08_advanced_sql_queries,
 09_sql_vs_dataframes_set_ops,
