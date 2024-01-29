@@ -17,9 +17,9 @@ date,title,label,link
 2024-01-25,06_aggregation_and_grouping,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/06_aggregation_and_grouping.pdf
 2024-01-26,Discussion,DISC,
 2024-01-30,Quiz 2 is Due,QUIZ,
-2024-01-30,07_advanced_sql_queries,LECT,
-2024-01-30,07_subqueries_nested_queries,DEMO,
-2024-02-01,08_advanced_sql_queries,LECT,
+2024-01-30,07_advanced_sql_queries,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/07_advanced_sql_queries.pdf
+2024-01-30,07_subqueries_nested_queries,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos-students/07_subqueries_nested_queries_student.pdf
+2024-02-01,08_advanced_sql_queries,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/08_advanced_sql_queries.pdf
 2024-02-01,08_advanced_sql_queries,DEMO,
 2024-02-01,Homework 2 is Due,HMWK,
 2024-02-02,Discussion,DISC,
