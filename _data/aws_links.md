@@ -32,7 +32,7 @@ title,link
 05_advanced_joins,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/05_advanced_joins.pdf
 06_aggregation_and_grouping,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/06_aggregation_and_grouping.pdf
 07_subqueries_nested_queries,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/07_subqueries_nested_queries.pdf
-08_advanced_sql_queries,
+08_advanced_sql_queries,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/08_advanced_sql_queries.pdf
 09_sql_vs_dataframes_set_ops,
 10_writing_relational_algebra,
 11_queries_to_relational_algebra,
@@ -54,7 +54,7 @@ title,link
 05_advanced_joins,
 06_aggregation_and_grouping,
 07_subqueries_nested_queries,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos-students/07_subqueries_nested_queries_student.pdf
-08_advanced_sql_queries,
+08_advanced_sql_queries,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos-students/08_advanced_sql_queries_student.pdf
 09_sql_vs_dataframes_set_ops,
 10_writing_relational_algebra,
 11_queries_to_relational_algebra,
