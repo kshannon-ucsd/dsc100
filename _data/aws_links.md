@@ -79,9 +79,10 @@ homework_5_4wd7ss, Homework 5,
 ## Student Guides
 ```
 title,link
-latex_intro_guide,LATEX Intro Guide - Overleaf,NOTE,https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
-latex_math_guide,LATEX Math Guide,NOTE,https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf
-latex_dsc100_guide,LATEX DSC100 Guide,NOTE,
+latex_intro_guide,LATEX Intro Guide - Overleaf,https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes
+latex_math_guide,LATEX Math Guide,https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf
+latex_dsc100_guide,LATEX DSC100 Guide,
+Setting Up PostgreSQL,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/guides/Setting+Up+PostgreSQL.pdf
 ```
 
 ### Lecture Notes
