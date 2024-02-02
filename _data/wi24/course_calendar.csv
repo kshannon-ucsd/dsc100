@@ -1,26 +1,26 @@
 date,title,label,link
 2024-01-09,01_welcome_welcome_welcome,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/01_welcome_welcome_welcome.pdf
-2024-01-09,01_up_and_running_sqlite,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/01_up_and_running_sqlite.pdf
+2024-01-09,01_up_and_running_sqlite_instructor,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/01_up_and_running_sqlite.pdf
 2024-01-11,02_relational_data_model,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/02_relational_data_model.pdf
-2024-01-11,02_relational_data_model,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/02_relational_data_model.pdf
+2024-01-11,02_relational_data_model_instructor,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/02_relational_data_model.pdf
 2024-01-12,Discussion,DISC,
 2024-01-16,03_sql_basics,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/03_sql_basics.pdf
-2024-01-16,03_sql_basics,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/03_sql_basics.pdf
+2024-01-16,03_sql_basics_instructor,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/03_sql_basics.pdf
 2024-01-18,04_join_me_for_joins,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/04_join_me_for_joins.pdf
-2024-01-18,04_simple_joins,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/04_simple_joins.pdf
+2024-01-18,04_simple_joins_student;04_simple_joins_instructor,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos-students/04_simple_joins_student.pdf;https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/04_simple_joins.pdf
 2024-01-19,Discussion,DISC,
 2024-01-22,Homework 1 is Due,HMWK,
 2024-01-23,Quiz 1 is Due,QUIZ,
 2024-01-23,05_join_me_for_joins_2,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/05_join_me_for_joins_2.pdf
-2024-01-23,05_advanced_joins,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/05_advanced_joins.pdf
+2024-01-23,05_advanced_joins_student;05_advanced_joins_instructor,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/05_advanced_joins_student.pdf;https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/05_advanced_joins.pdf
 2024-01-25,06_aggregation_and_grouping,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/06_aggregation_and_grouping.pdf
-2024-01-25,06_aggregation_and_grouping,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/06_aggregation_and_grouping.pdf
+2024-01-25,06_aggregation_and_grouping_student;06_aggregation_and_grouping_instructor,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/06_aggregation_and_grouping_student.pdf;https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/06_aggregation_and_grouping.pdf
 2024-01-26,Discussion,DISC,
 2024-01-30,Quiz 2 is Due,QUIZ,
 2024-01-30,07_advanced_sql_queries,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/07_advanced_sql_queries.pdf
-2024-01-30,07_subqueries_nested_queries,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos-students/07_subqueries_nested_queries_student.pdf
+2024-01-30,07_subqueries_nested_queries_student;07_subqueries_nested_queries_instructor,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos-students/07_subqueries_nested_queries_student.pdf;https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos-students/07_subqueries_nested_queries.pdf
 2024-02-01,08_advanced_sql_queries,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/08_advanced_sql_queries.pdf
-2024-02-01,08_advanced_sql_queries,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos-students/08_advanced_sql_queries_student.pdf
+2024-02-01,08_advanced_sql_queries_student;08_advanced_sql_queries_instructor,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos-students/08_advanced_sql_queries_student.pdf;https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos-students/08_advanced_sql_queries.pdf
 2024-02-01,Homework 2 is Due,HMWK,
 2024-02-02,Discussion,DISC,
 2024-02-06,Quiz 3 is Due,QUIZ,
