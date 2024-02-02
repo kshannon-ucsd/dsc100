@@ -130,13 +130,16 @@ Check out the assignments page for information on submitting HW, taking quizzes,
               {% endif %}
             </td>
             <td style="padding-left: 4%">
-            {% assign titles = row.title | split: ";" %}
             {% assign links = row.link | split: ";" %}
+            {% if links and links.size != 0 %}
+            {% assign titles = row.title | split: ";" %}
             {% for link in links %}
               {% if link and link != '' %} <a href="{{ link }}"> {{ titles[forloop.index0] }} </a>
               {% else %} {{ titles[forloop.index0] }}
               {% endif %}
             {% endfor %}
+            {% else %} {{ row.title }}
+            {% endif %}
             </td>
         </tr>
 {% endfor %}
