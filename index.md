@@ -129,7 +129,15 @@ Check out the assignments page for information on submitting HW, taking quizzes,
                 {% endif %}
               {% endif %}
             </td>
-            <td style="padding-left: 4%"> {% if row.link %} <a href="{{ row.link }}"> {{ row.title }} </a> {% else %} {{ row.title }} {% endif %} </td>
+            <td style="padding-left: 4%">
+            {% assign titles = row.title | split: ";" %}
+            {% assign links = row.link | split: ";" %}
+            {% for link in links %}
+              {% if link and link != '' %} <a href="{{ link }}"> {{ titles[forloop.index0] }} </a>
+              {% else %} {{ titles[forloop.index0] }}
+              {% endif %}
+            {% endfor %}
+            </td>
         </tr>
 {% endfor %}
     </tbody>
