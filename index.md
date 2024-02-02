@@ -134,8 +134,8 @@ Check out the assignments page for information on submitting HW, taking quizzes,
             {% if links and links.size != 0 %}
             {% assign titles = row.title | split: ";" %}
             {% for link in links %}
-              {% if link and link != '' %} <a href="{{ link }}"> {{ titles[forloop.index0] }} </a>
-              {% else %} {{ titles[forloop.index0] }}
+              {% if link and link != '' %} <a href="{{ link }}"> {{ titles[forloop.index0] }} </a> {% unless forloop.last %} <br/> {% endunless %}
+              {% else %} {{ titles[forloop.index0] }} {% unless forloop.last %} <br/> {% endunless %}
               {% endif %}
             {% endfor %}
             {% else %} {{ row.title }}
