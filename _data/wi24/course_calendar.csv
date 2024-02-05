@@ -18,16 +18,16 @@ date,title,label,link
 2024-01-26,Discussion,DISC,
 2024-01-30,Quiz 2 is Due,QUIZ,
 2024-01-30,07_advanced_sql_queries,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/07_advanced_sql_queries.pdf
-2024-01-30,07_subqueries_nested_queries_student;07_subqueries_nested_queries_instructor,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos-students/07_subqueries_nested_queries_student.pdf;https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos-students/07_subqueries_nested_queries.pdf
+2024-01-30,07_subqueries_nested_queries_student;07_subqueries_nested_queries_instructor,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/07_subqueries_nested_queries_student.pdf;https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/07_subqueries_nested_queries.pdf
 2024-02-01,08_advanced_sql_queries,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/08_advanced_sql_queries.pdf
-2024-02-01,08_advanced_sql_queries_student;08_advanced_sql_queries_instructor,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos-students/08_advanced_sql_queries_student.pdf;https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos-students/08_advanced_sql_queries.pdf
+2024-02-01,08_advanced_sql_queries_student;08_advanced_sql_queries_instructor,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/08_advanced_sql_queries_student.pdf;https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/08_advanced_sql_queries.pdf
 2024-02-01,Homework 2 is Due,HMWK,
 2024-02-02,Discussion,DISC,
 2024-02-06,Quiz 3 is Due,QUIZ,
-2024-02-06,09_set_operation,LECT,
-2024-02-06,09_sql_vs_dataframes_set_ops,DEMO,
-2024-02-08,10_formal_relational_query_languages,LECT,
-2024-02-08,10_writing_ra,DEMO,
+2024-02-06,09_intro_relational_algebra,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/09_intro_relational_algebra.pdf
+2024-02-06,09_set_ops_relax_ra_student,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/09_set_ops_relax_ra_student.pdf
+2024-02-08,10_relational_algebra,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/10_relational_algebra.pdf
+2024-02-08,10_relax_ra_queries_student,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/10_relax_ra_queries_student.pdf
 2024-02-09,Discussion,DISC,
 2024-02-12,Homework 3 is Due,HMWK,
 2024-02-13,11_formal_relational_query_languages_2,LECT,
