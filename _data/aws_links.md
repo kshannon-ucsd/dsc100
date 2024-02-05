@@ -9,17 +9,16 @@ title,link
 06_aggregation_and_grouping,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/06_aggregation_and_grouping.pdf
 07_advanced_sql_queries,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/07_advanced_sql_queries.pdf
 08_advanced_sql_queries,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/08_advanced_sql_queries.pdf
-09_set_operations,
-10_formal_relational_query_languages,
-11_formal_relational_query_languages_2,
-12_interactive_data_analysis,
-13_data_storage_query_analysis,
-14_index_and_b_trees,
-15_conceptual_design,
-16_design_theory,
-17_normal_forms,
-18_final_review,
-19_data_quality_warehousing_graphdb
+09_intro_relational_algebra,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/09_intro_relational_algebra.pdf
+10_relational_algebra,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/10_relational_algebra.pdf
+11_class_interactive_sql_demo,
+12_data_storage_query_analysis,
+13_indexes_and_b_trees,
+14_conceptual_design,
+15_design_theory,
+16_normal_forms,
+17_final_review,
+18_warehousing_pipelines
 ```
 
 ## DEMOS
@@ -33,37 +32,31 @@ title,link
 06_aggregation_and_grouping,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/06_aggregation_and_grouping.pdf
 07_subqueries_nested_queries,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/07_subqueries_nested_queries.pdf
 08_advanced_sql_queries,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/08_advanced_sql_queries.pdf
-09_sql_vs_dataframes_set_ops,
-10_writing_relational_algebra,
-11_queries_to_relational_algebra,
-12_analysis_with_sql,
-13_query_optimization_explain_analyze,
-14_indexes_and_b_trees,
-15_conceptual_design,
-16_closure_algorithm,
-17_normal_forms
+09_set_ops_relax_ra,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/09_set_ops_relax_ra.pdf
+10_relax_ra_queries,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/10_relax_ra_queries.pdf
+11_analysis_with_sql,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/11_analysis_with_sql.pdf
+12_sql_query_optimization,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/12_sql_query_optimization.pdf
+13_indexes_and_b_trees,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/13_indexes_and_b_trees.pdf
+14_conceptual_design,
+15_closure_algorithms,
+16_normal_forms,
+17_final_review,
 ```
 
 ## DEMOS -- Students
 ```
 title,link
-01_up_and_running_sqlite,
-02_relational_data_model,
-03_sql_basics,
-04_simple_joins,
-05_advanced_joins,
-06_aggregation_and_grouping,
-07_subqueries_nested_queries,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos-students/07_subqueries_nested_queries_student.pdf
-08_advanced_sql_queries,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos-students/08_advanced_sql_queries_student.pdf
-09_sql_vs_dataframes_set_ops,
-10_writing_relational_algebra,
-11_queries_to_relational_algebra,
-12_analysis_with_sql,
-13_query_optimization_explain_analyze,
-14_indexes_and_b_trees,
-15_conceptual_design,
-16_closure_algorithm,
-17_normal_forms
+01_up_and_running_sqlite_student,NONE
+02_relational_data_model_student,NONE
+03_sql_basics_student,NONE
+04_simple_joins_student,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/04_simple_joins_student.pdf
+05_advanced_joins_student,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/05_advanced_joins_student.pdf
+06_aggregation_and_grouping_student,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/06_aggregation_and_grouping_student.pdf
+07_subqueries_nested_queries_student,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos-students/07_subqueries_nested_queries_student.pdf
+08_advanced_sql_queries_student,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos-students/08_advanced_sql_queries_student.pdf
+09_set_ops_relax_ra_student,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/09_set_ops_relax_ra_student.pdf
+10_relax_ra_queries_student,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/10_relax_ra_queries_student.pdf
+11_analysis_with_sql_student,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/11_analysis_with_sql_student.pdf
 ```
 
 ## Homeworks
