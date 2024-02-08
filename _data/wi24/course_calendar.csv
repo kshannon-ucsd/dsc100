@@ -25,7 +25,7 @@ date,title,label,link
 2024-02-02,Discussion,DISC,
 2024-02-06,Quiz 3 is Due,QUIZ,
 2024-02-06,09_intro_relational_algebra,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/09_intro_relational_algebra.pdf
-2024-02-06,09_set_ops_relax_ra_student,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/09_set_ops_relax_ra_student.pdf
+2024-02-06,09_set_ops_relax_ra_student,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/09_set_ops_relax_ra_student.pdf;https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/10_relax_ra_queries.pdf
 2024-02-08,10_relational_algebra,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/10_relational_algebra.pdf
 2024-02-08,10_relax_ra_queries_student,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/10_relax_ra_queries_student.pdf
 2024-02-09,Discussion,DISC,
