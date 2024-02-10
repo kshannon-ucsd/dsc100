@@ -11,7 +11,7 @@ title,link
 08_advanced_sql_queries,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/08_advanced_sql_queries.pdf
 09_intro_relational_algebra,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/09_intro_relational_algebra.pdf
 10_relational_algebra,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/10_relational_algebra.pdf
-11_class_interactive_sql_demo,
+11_class_interactive_sql_demo,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/11_class_interactive_sql_demo.pdf
 12_data_storage_query_analysis,
 13_indexes_and_b_trees,
 14_conceptual_design,
@@ -67,6 +67,12 @@ homework_2_k63md7,Homework 2,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/home
 homework_3_d92jd6,Homework 3,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/homework_3_d92jd6.pdf
 homework_4_83h33h, Homework 4,
 homework_5_4wd7ss, Homework 5,
+```
+
+## Exams
+```
+title,link
+Midterm Instructions,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/exams/Midterm+Instructions.pdf
 ```
 
 ## Student Guides
