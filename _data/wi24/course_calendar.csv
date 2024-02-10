@@ -30,8 +30,8 @@ date,title,label,link
 2024-02-08,10_relax_ra_queries_student,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/10_relax_ra_queries_student.pdf
 2024-02-09,Discussion,DISC,
 2024-02-12,Homework 3 is Due,HMWK,
-2024-02-13,11_formal_relational_query_languages_2,LECT,
-2024-02-13,11_queries_to_ra,DEMO,
+2024-02-13,11_class_interactive_sql_demo,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/11_class_interactive_sql_demo.pdf
+2024-02-13,11_analysis_with_sql_student,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/11_analysis_with_sql_student.pdf
 2024-02-15,Midterm,EXAM,
 2024-02-16,Discussion,DISC,
 2024-02-20,Quiz 4 is Due,QUIZ,
