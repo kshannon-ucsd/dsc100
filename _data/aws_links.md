@@ -35,6 +35,7 @@ title,link
 09_set_ops_relax_ra,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/09_set_ops_relax_ra.pdf
 10_relax_ra_queries,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/10_relax_ra_queries.pdf
 11_analysis_with_sql,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/11_analysis_with_sql.pdf
+11_class_interactive_sql_demo.ipynb,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/11_class_interactive_sql_demo.ipynb
 12_sql_query_optimization,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/12_sql_query_optimization.pdf
 13_indexes_and_b_trees,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/13_indexes_and_b_trees.pdf
 14_conceptual_design,
