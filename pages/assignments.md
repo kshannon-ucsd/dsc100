@@ -16,6 +16,7 @@ All assignments/exams will be submitted through **Gradescope**.
 - [Homework 2.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/homework_2_k63md7.pdf)
 - [Homework 3.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/homework_3_d92jd6.pdf)
 - [Midterm Instructions.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/exams/Midterm+Instructions.pdf)
+- [Homework 4.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/homework_4_83h33h.pdf)
 
 
 
