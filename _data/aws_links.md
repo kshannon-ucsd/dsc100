@@ -66,7 +66,7 @@ filename, title, link,
 homework_1_ds67d3,Homework 1,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/homework_1_ds67d3.pdf
 homework_2_k63md7,Homework 2,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/homework_2_k63md7.pdf
 homework_3_d92jd6,Homework 3,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/homework_3_d92jd6.pdf
-homework_4_83h33h, Homework 4,
+homework_4_83h33h, Homework 4,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/homework_4_83h33h.pdf
 homework_5_4wd7ss, Homework 5,
 ```
 
