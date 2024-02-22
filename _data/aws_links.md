@@ -12,8 +12,8 @@ title,link
 09_intro_relational_algebra,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/09_intro_relational_algebra.pdf
 10_relational_algebra,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/10_relational_algebra.pdf
 11_class_interactive_sql_demo,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/11_class_interactive_sql_demo.pdf
-12_data_storage_query_analysis,
-13_indexes_and_b_trees,
+12_data_storage_query_analysis,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/12_data_storage_query_analysis.pdf
+13_indexes_and_b_trees,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/13_indexes_and_b_trees.pdf
 14_conceptual_design,
 15_design_theory,
 16_normal_forms,
