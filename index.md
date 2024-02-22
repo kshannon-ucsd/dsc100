@@ -37,7 +37,7 @@ nav_order: 1
 ## Welcome <span title="https://jarv.is/" class="wave">👋</span> 
 
 We are all very excited that you decided to join us on this whirlwind tour of data science. All relevant info, e.g. due dates, assignment links, etc. are found on this website.
-We look forward to teaching and working with all of you and hope to meet you in office hours. Check out the **Getting Started** section so you can hit the ground running when class starts!
+We look forward to teaching and working with all of you and hope to meet you in office hours. Read through the **Assignments** page and course **Syllabus** so you can hit the ground running when class starts!
 {: .fs-3 }
 
 <!-- {: .note .fs-2 }
