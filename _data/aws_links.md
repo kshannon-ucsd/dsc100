@@ -14,7 +14,7 @@ title,link
 11_class_interactive_sql_demo,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/11_class_interactive_sql_demo.pdf
 12_data_storage_query_analysis,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/12_data_storage_query_analysis.pdf
 13_indexes_and_b_trees,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/13_indexes_and_b_trees.pdf
-14_conceptual_design,
+14_conceptual_design,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/14_conceptual_design.pdf
 15_design_theory,
 16_normal_forms,
 17_final_review,
@@ -38,7 +38,7 @@ title,link
 11_class_interactive_sql_demo.ipynb,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/11_class_interactive_sql_demo.ipynb
 12_sql_query_optimization,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/12_sql_query_optimization.pdf
 13_indexes_and_b_trees,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/13_indexes_and_b_trees.pdf
-14_conceptual_design,
+14_conceptual_design,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/14_conceptual_design.pdf
 15_closure_algorithms,
 16_normal_forms,
 17_final_review,
@@ -58,6 +58,7 @@ title,link
 09_set_ops_relax_ra_student,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/09_set_ops_relax_ra_student.pdf
 10_relax_ra_queries_student,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/10_relax_ra_queries_student.pdf
 11_analysis_with_sql_student,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/11_analysis_with_sql_student.pdf
+14_conceptual_design_student,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/14_conceptual_design_student.pdf
 ```
 
 ## Homeworks
@@ -67,7 +68,7 @@ homework_1_ds67d3,Homework 1,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/home
 homework_2_k63md7,Homework 2,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/homework_2_k63md7.pdf
 homework_3_d92jd6,Homework 3,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/homework_3_d92jd6.pdf
 homework_4_83h33h, Homework 4,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/homework_4_83h33h.pdf
-homework_5_4wd7ss, Homework 5,
+homework_5_4wd7ss, Homework 5,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/homework_5_4wd7ss.pdf
 ```
 
 ## Exams
