@@ -42,8 +42,8 @@ date,title,label,link
 2024-02-22,13_indexes_and_b_trees,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/13_indexes_and_b_trees.pdf
 2024-02-23,Discussion,DISC,
 2024-02-26,Homework 4 is Due,HMWK,
-2024-02-27,14,LECT,
-2024-02-27,14,DEMO,
+2024-02-27,14_conceptual_design,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/14_conceptual_design.pdf
+2024-02-27,14_conceptual_design_student;14_conceptual_design,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/14_conceptual_design_student.pdf;https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/14_conceptual_design.pdf
 2024-02-29,Quiz 5 is Due,QUIZ,
 2024-02-29,15,LECT,
 2024-02-29,15,DEMO,
