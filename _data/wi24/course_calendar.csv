@@ -39,17 +39,17 @@ date,title,label,link
 2024-02-20,12_data_storage_query_analysis,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/12_data_storage_query_analysis.pdf
 2024-02-20,12_sql_query_optimization,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/12_sql_query_optimization.pdf
 2024-02-22,13_indexes_and_b_trees,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/13_indexes_and_b_trees.pdf
+2024-02-22,13_btrees_notes,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/13_btrees_notes.pdf
 2024-02-22,13_indexes_and_b_trees,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/13_indexes_and_b_trees.pdf
 2024-02-23,Discussion,DISC,
 2024-02-26,Homework 4 is Due,HMWK,
 2024-02-27,14_conceptual_design,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/14_conceptual_design.pdf
 2024-02-27,14_conceptual_design_student;14_conceptual_design,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/14_conceptual_design_student.pdf;https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/14_conceptual_design.pdf
 2024-02-29,Quiz 5 is Due,QUIZ,
-2024-02-29,15_fd_closures,LECT,
-2024-02-29,15,DEMO,
+2024-02-29,15_design_theory,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/15_design_theory.pdf
 2024-03-01,Discussion,DISC,
 2024-03-05,16,LECT, Guest Lecture - Brian from AWS
-2024-03-07,17_normalization,LECT,
+2024-03-07,17_normalization,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/16_normalization.pdf
 2024-03-08,Discussion,DISC,
 2024-03-11,Homework 5 is Due,HMWK,
 2024-03-12,18_final_review_normalization,REVW,
