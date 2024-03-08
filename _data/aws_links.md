@@ -82,6 +82,7 @@ latex_intro_guide,LATEX Intro Guide - Overleaf,https://www.overleaf.com/learn/la
 latex_math_guide,LATEX Math Guide,https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf
 latex_dsc100_guide,LATEX DSC100 Guide,
 Setting Up PostgreSQL,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/guides/Setting+Up+PostgreSQL.pdf
+guide_er_diagram_formatting,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/guides/guide_er_diagram_formatting.pdf
 ```
 
 ### Practice Problems
