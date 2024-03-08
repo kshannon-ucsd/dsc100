@@ -14,9 +14,10 @@ title,link
 11_class_interactive_sql_demo,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/11_class_interactive_sql_demo.pdf
 12_data_storage_query_analysis,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/12_data_storage_query_analysis.pdf
 13_indexes_and_b_trees,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/13_indexes_and_b_trees.pdf
+13_btrees_notes,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/13_btrees_notes.pdf
 14_conceptual_design,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/14_conceptual_design.pdf
-15_design_theory,
-16_normal_forms,
+15_design_theory,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/15_design_theory.pdf
+16_normalization,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/16_normalization.pdf
 17_final_review,
 18_warehousing_pipelines
 ```
@@ -39,9 +40,6 @@ title,link
 12_sql_query_optimization,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/12_sql_query_optimization.pdf
 13_indexes_and_b_trees,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/13_indexes_and_b_trees.pdf
 14_conceptual_design,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/14_conceptual_design.pdf
-15_closure_algorithms,
-16_normal_forms,
-17_final_review,
 ```
 
 ## DEMOS -- Students
@@ -84,12 +82,6 @@ latex_intro_guide,LATEX Intro Guide - Overleaf,https://www.overleaf.com/learn/la
 latex_math_guide,LATEX Math Guide,https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf
 latex_dsc100_guide,LATEX DSC100 Guide,
 Setting Up PostgreSQL,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/guides/Setting+Up+PostgreSQL.pdf
-```
-
-### Lecture Notes
-```
-title,link
-
 ```
 
 ### Practice Problems
