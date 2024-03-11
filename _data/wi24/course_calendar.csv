@@ -49,10 +49,11 @@ date,title,label,link
 2024-02-29,15_design_theory,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/15_design_theory.pdf
 2024-03-01,Discussion,DISC,
 2024-03-05,Guest Lecture - Brian from AWS,LECT,
-2024-03-07,17_normalization,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/16_normalization.pdf
+2024-03-07,16_normalization,LECT,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/16_normalization.pdf
+2024-03-07,16_normal_forms,DEMO,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/16_normal_forms.pdf
 2024-03-08,Discussion,DISC,
 2024-03-11,Homework 5 is Due,HMWK,
-2024-03-12,18_final_review_normalization,REVW,
+2024-03-12,17_final_review_normalization,REVW,
 2024-03-14,Quiz 6 is Due,QUIZ,
-2024-03-14,19_data_quality_warehousing,LECT,
+2024-03-14,18_data_quality_warehousing,LECT,
 2024-03-15,Discussion,DISC,
