@@ -40,6 +40,7 @@ title,link
 12_sql_query_optimization,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/12_sql_query_optimization.pdf
 13_indexes_and_b_trees,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/13_indexes_and_b_trees.pdf
 14_conceptual_design,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/14_conceptual_design.pdf
+16_normal_forms,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/16_normal_forms.pdf
 ```
 
 ## DEMOS -- Students
