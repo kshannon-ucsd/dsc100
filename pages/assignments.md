@@ -18,6 +18,7 @@ All assignments/exams will be submitted through **Gradescope**.
 - [Midterm Instructions.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/exams/Midterm+Instructions.pdf)
 - [Homework 4.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/homework_4_83h33h.pdf)
 - [Homework 5.pdf](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/homework/homework_5_4wd7ss.pdf)
+- [Final Instructions](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/exams/Final_Instructions.pdf)
 
 
 
@@ -25,17 +26,6 @@ All assignments/exams will be submitted through **Gradescope**.
 Additional formatting instructions and guides to support HWs
 
 - [Setting up PostgreSQL + PGAdmin](https://s3.us-west-2.amazonaws.com/ucsd.dsc100/guides/Setting+Up+PostgreSQL.pdf)
-
-
-
-### Lecture Notes
-incoming
-
-
-
-### Practice Problems
-We will put additional practice problems and solutions here should you want extra practice. incoming...
-
 
 
 ## Assignment Breakdown
