@@ -74,6 +74,7 @@ homework_5_4wd7ss, Homework 5,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/hom
 ```
 title,link
 Midterm Instructions,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/exams/Midterm+Instructions.pdf
+Final Instructions,https://s3.us-west-2.amazonaws.com/ucsd.dsc100/exams/Final_Instructions.pdf
 ```
 
 ## Student Guides
