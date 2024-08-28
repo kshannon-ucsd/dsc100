@@ -1,7 +1,8 @@
 ---
-layout: default
-title: "Assignments"
-nav_order: 4
+layout: page
+title: 📚 Assignments
+description: A listing of all the course assignments and resources
+nav_order: 2
 has_toc: false
 permalink: /assignments/
 ---

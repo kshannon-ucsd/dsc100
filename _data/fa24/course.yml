@@ -1,0 +1,33 @@
+# Welcome section
+quarter: Summer I 2024
+building: WLH 2114
+timings: TUE & THUR 2:00PM - 4:50PM
+edstem_link: https://edstem.org/us/join/EU8se2
+gradescope_link:
+gradescope_entry_code: 
+
+office_hours:
+  - name: Kyle Shannon
+    day: WED
+    time: 3:45PM - 4:45PM
+    location: Zoom
+    zoom_link: https://ucsd.zoom.us/j/4288626123?pwd=TWpyQW5nZkpUTWJvU0YzejQyY25Sdz09
+    zoom_pw: 725814
+
+announcement:
+  color: green
+  text: Hit the ground running ASAP. This will be a very tight summer session with the content we will need to cover! :)
+
+discussion_sections:
+  - section: A00
+    day: WED
+    time: 5:00PM - 5:50PM
+    location: CENTR 214
+    ta: TBD
+    tutor: TBD
+ 
+final_exam:
+  - section: A00 
+    day: TBD
+    time: TBD
+    location: TBD

@@ -1,34 +1,59 @@
 ---
 layout: default
-title: "Syllabus"
-nav_order: 3
-has_toc: true
-permalink: /syllabus/
+title: 📖 Syllabus
+nav_order: 4
+description: Course structure and policies.
 ---
 
-<h1>Syllabus</h1>
-<hr/>
+# 📖 Syllabus
+{:.no_toc}
 
+## Table of Contents
+{: .no_toc .text-delta }
 
-- TOC
+1. TOC
 {:toc}
-{: .fs-2 }
+
+---
+
+## About 🧐
+
+In today's data-driven world, the ability to effectively manage, manipulate, and extract insights from data is crucial for solving complex problems across various domains. As data scientists, we don't just work with pre-processed datasets; we need to understand how data is stored, organized, and retrieved efficiently. This is where data management comes into play.
+
+In DSC 100, we'll explore the fundamental concepts and techniques that form the backbone of data management in the context of data science. We'll answer the critical question: "How do we effectively manage and leverage data for analysis and machine learning?"
+
+**Course Objectives:**
+
+1. Design and interact with relational databases using SQL, the lingua franca of data.
+2. Understand database design principles, including normalization and indexing, to optimize data storage and retrieval.
+3. Explore data quality and integrity issues, and learn strategies to address them.
+4. Compare and contrast SQL and NoSQL approaches for different data science scenarios.
+5. Apply data management techniques in real-world data science projects, preparing you for internships and jobs in the field.
+
+By the end of this course, you'll have a solid foundation in data management that will enhance your capabilities as a data scientist. You'll be able to efficiently organize, query, and prepare data for analysis and machine learning tasks. Moreover, you'll gain insights into how data management systems support and integrate with various data science workflows, from exploratory data analysis to model deployment.
+
+Whether you're working with structured data in relational databases or unstructured data in NoSQL systems, the principles you learn here will be invaluable throughout your data science journey!
+
+---
+
+## Communication 💬
+
+This quarter, we'll be using [Ed](https://edstem.org/) as our course message board. You should be added to Ed automatically; if not, a link will be provided in class. Please join right away as we'll be making all course announcements through Ed.
+
+If you have a question about anything to do with the course — if you're stuck on a problem, didn't understand something from lecture, want clarification on course logistics, or just have a general question about data science — please make a post on Ed. If your question is about an active HW problem, please make your post private so that others cannot see it and include your thoughts, parts of an answer (even if you are unsure if it is correct), or what steps you have tried. 
+
+Course staff will regularly check Ed to answer questions. You're also encouraged to answer questions asked by other students. Explaining something is a great way to solidify your understanding of it!
+
+Please don't email staff members (and don't message them on social media); just make a private or public Ed post instead! I will not answer emails regarding course material/logistics, etc.
+
+---
 
 ## Course Materials
 - Although a textbook is not required in the course, the following textbook is optional and recommended: Database Systems: The Complete Book, by Hector Garcia-Molina, Jeffrey D. Ullman, and Jennifer Widom. 2nd Edition. Prentice Hall. 2008.
 - Lecture slides and recorded videos would be sufficient for this class.
 
 - All course materials are provided through **this website**
-- All course announcements will occur through Piazza. Signup links in the **getting started** page.
-
-## Course Objectives
-- Understand fundamental concepts and techniques in data management
-- Acquire hands-on skills using SQL and relational database systems
-- Learn about database design, indexing and normalization
-- Gain knowledge about using databases for data science, machine learning, and analysis
-- Understand data quality and integrity issues and how to address them
-- Compare SQL and NOSQL approaches to managing data
-- Prepare you for using these systems in a real job/internship
+- All course announcements will occur through Edstem.
 
 
 ## Grading & Attendance

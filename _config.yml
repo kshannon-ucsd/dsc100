@@ -63,16 +63,16 @@ exclude:
 
 # Aux link for the upper right navigation
 aux_links:
-  # "Template Repository": "https://www.github.com/kshannon/ucsd-cogs9"
-  "UCSD Podcast": "https://podcast.ucsd.edu/"
-  "Gradescope": "https://www.gradescope.com/"
-  "Piazza": "https://piazza.com/" 
+  # "Template Repository": "https://www.github.com/kshannon/ucsd-dsc40a"
+  "🙋 Ed": "https://edstem.org"
+  "💯 Gradescope": "https://www.gradescope.com"
+  "💪 Practice": "https://practice.dsc40a.com"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
 # Change this to choose where to pick data from
-data_folder: wi24
+data_folder: fa24
 
 # Config JTD UI elements here
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom scheme that you define
