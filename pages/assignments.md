@@ -2,7 +2,7 @@
 layout: page
 title: 📚 Assignments
 description: A listing of all the course assignments and resources
-nav_order: 2
+nav_order: 3
 has_toc: false
 permalink: /assignments/
 ---

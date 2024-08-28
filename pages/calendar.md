@@ -2,7 +2,7 @@
 layout: page
 title: 📆 Calendar
 description: Google Calendar containing all course events.
-nav_order: 3
+nav_order: 2
 ---
 
 # 📆 Calendar

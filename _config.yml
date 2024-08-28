@@ -24,7 +24,8 @@ destination: docs/
 title: DSC 100
 email: kshannon@ucsd.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a course website for UCSD DSC 100: Introduction to Data Management
+  DSC 100, Fall 2024 at UC San Diego
+tagline: Intro to Data Management
 # domain: ucsd-dsc100.github.io
 url: https://kshannon-ucsd.github.io
 baseurl: /dsc100
