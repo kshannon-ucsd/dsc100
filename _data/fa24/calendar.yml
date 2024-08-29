@@ -12,7 +12,7 @@
           type: lecture
           title: 01_welcome_welcome_welcome
           slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+1_+Introduction+and+Overview.pdf
-        - label: DEMO 1
+        - label: DEMO
           type: demo
           title: 01_up_and_running_sqlite
           template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/1_up_and_running_sqlite.pdf
@@ -29,255 +29,332 @@
   days:
     - date: "2024-10-01"
       in_class: true
-
+      events:
+        - label: LEC 2
+          type: lecture
+          title: 02_relational_data_model
+          slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+2_+The+Relational+Model.pdf
+        - label: DEMO
+          type: demo
+          title: 02_relational_data_model
+          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/2_relational_data_model.pdf
+          # solutions: #same as template
     - date: "2024-10-02"
       in_class: true
       events:
         - label: DISC
           type: disc
-          title: Groupwork 1 (Discussion Section)
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_weyaf.pdf
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_solutions_ythzw.pdf
-
+          title: Discussion Section
     - date: "2024-10-03"
       in_class: true
       events:
-        - label: HW
+        - label: LEC 3
+          type: lecture
+          title: 03_sql_basics
+          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+3_+SQL+Basics.pdf
+        - label: DEMO
+          type: demo
+          title: 03_sql_basics
+          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/3_sql_basics.pdf
+          # solutions: #same as template
+        - label: HW 1
           type: hw
           title: <b>Homework 1 Released</b>
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/homework/hw1_dsc40a_su24_ghtry.pdf
-          # template: https://www.overleaf.com/read/dxgccwhqsjch#6e552f
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/homework/hw1_dsc40a_su24_solutions_iewdg.pdf
-
+          
 - week: 2
   title: "Week 2 - SQL Joins<br>"
   days:
     - date: "2024-10-08"
       in_class: true
-
+      events:
+        - label: LEC 4
+          type: lecture
+          title: 04a_join_me_for_joins
+          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+4ab_+Joins.pdf
+        - label: DEMO
+          type: demo
+          title: 04_simple_joins
+          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/4_simple_joins.pdf
+          # solutions: #same as template
+        - label: QUIZ
+          type: quiz
+          title: <b>Quiz 1 Released</b>
     - date: "2024-10-09"
       in_class: true
       events:
         - label: DISC
           type: disc
-          title: Groupwork 1 (Discussion Section)
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_weyaf.pdf
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_solutions_ythzw.pdf
-
+          title: Discussion Section
     - date: "2024-10-10"
       in_class: true
       events:
-        - label: HW
+        - label: LEC 5
+          type: lecture
+          title: 04b_join_me_for_joins
+          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+4ab_+Joins.pdf
+        - label: DEMO
+          type: demo
+          title: 05_advanced_joins
+          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/5_advanced_joins.pdf
+          # solutions: #same as template
+        - label: HW 2
           type: hw
-          title: <b>Homework 1 Released</b>
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/homework/hw1_dsc40a_su24_ghtry.pdf
-          # template: https://www.overleaf.com/read/dxgccwhqsjch#6e552f
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/homework/hw1_dsc40a_su24_solutions_iewdg.pdf
-
+          title: <b>Homework 2 Released</b>
 
 - week: 3
-  title: "Week 3 - Aggregations & Groupings<br>"
+  title: "Week 3 - Aggregations, Groupings, & Subqueries<br>"
   days:
     - date: "2024-10-15"
       in_class: true
-
+      events:
+        - label: LEC 6
+          type: lecture
+          title: 05_aggregation_and_grouping
+          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+5_+Aggregation+and+Grouping.pdf
+        - label: DEMO
+          type: demo
+          title: 06_aggregation_and_grouping
+          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/6_grouping_agg_queries.pdf
+          # solutions: #same as template
+        - label: QUIZ
+          type: quiz
+          title: <b>Quiz 2 Released</b>
     - date: "2024-10-16"
       in_class: true
       events:
         - label: DISC
           type: disc
-          title: Groupwork 1 (Discussion Section)
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_weyaf.pdf
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_solutions_ythzw.pdf
-
+          title: Discussion Section
     - date: "2024-10-17"
       in_class: true
       events:
-        - label: HW
+        - label: LEC 7
+          type: lecture
+          title: 06a_advanced_sql_queries
+          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+6ab_+Advanced+SQL+Queries.pdf
+        - label: DEMO
+          type: demo
+          title: 07_subqueries_nested_queries
+          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/7_subqueries_nested_queries.pdf
+          # solutions: #same as template
+        - label: HW 3
           type: hw
-          title: <b>Homework 1 Released</b>
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/homework/hw1_dsc40a_su24_ghtry.pdf
-          # template: https://www.overleaf.com/read/dxgccwhqsjch#6e552f
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/homework/hw1_dsc40a_su24_solutions_iewdg.pdf
+          title: <b>Homework 3 Released</b>
 
 - week: 4
   title: "Week 4 - Advanced SQL Queries<br>"
   days:
     - date: "2024-10-22"
       in_class: true
-
+      events:
+        - label: LEC 8
+          type: lecture
+          title: 06b_advanced_sql_queries
+          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+6ab_+Advanced+SQL+Queries.pdf
+        - label: QUIZ
+          type: quiz
+          title: <b>Quiz 3 Released</b>
     - date: "2024-10-23"
       in_class: true
       events:
         - label: DISC
           type: disc
-          title: Groupwork 1 (Discussion Section)
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_weyaf.pdf
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_solutions_ythzw.pdf
-
+          title: Discussion Section
     - date: "2024-10-24"
       in_class: true
       events:
-        - label: HW
-          type: hw
-          title: <b>Homework 1 Released</b>
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/homework/hw1_dsc40a_su24_ghtry.pdf
-          # template: https://www.overleaf.com/read/dxgccwhqsjch#6e552f
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/homework/hw1_dsc40a_su24_solutions_iewdg.pdf
+        - label: LEC 9
+          type: lecture
+          title: 07_set_operation
+          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+7_+Set+Operations+in+SQL.pdf
+        - label: DEMO
+          type: demo
+          title: 08_sql_vs_dataframes_set_ops
+          # template: TBD
+          # solutions: #same as template
 
 - week: 5
   title: "Week 5 - Formal Query Languages and Relational Algebra<br>"
   days:
     - date: "2024-10-29"
       in_class: true
-
+      events:
+        - label: LEC 10
+          type: lecture
+          title: 08a_formal_relational_query_languages
+          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+8ab_+Formal+Relational+Query+Languages.pdf
     - date: "2024-10-30"
       in_class: true
       events:
         - label: DISC
           type: disc
-          title: Groupwork 1 (Discussion Section)
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_weyaf.pdf
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_solutions_ythzw.pdf
-
+          title: Discussion Section
     - date: "2024-10-31"
       in_class: true
       events:
-        - label: HW
-          type: hw
-          title: <b>Homework 1 Released</b>
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/homework/hw1_dsc40a_su24_ghtry.pdf
-          # template: https://www.overleaf.com/read/dxgccwhqsjch#6e552f
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/homework/hw1_dsc40a_su24_solutions_iewdg.pdf
+        - label: LEC 11
+          type: lecture
+          title: 08b_formal_relational_query_languages
+          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+8ab_+Formal+Relational+Query+Languages.pdf
+        - label: DEMO
+          type: demo
+          title: 10_relax_relational_algebra_pt2
+          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/10_relax_relational_algebra_pt2.pdf
+          # solutions: #same as template
 
 - week: 6
   title: "Week 6 - Midterm & Data Analysis Workflow<br>"
   days:
+    - date: "2024-11-04"
+      in_class: false
+      events:
+        - label: EXAM
+          type: exam
+          title: Midterm Released (takehome)
     - date: "2024-11-05"
-      in_class: true
-
+      in_class: false
+      events:
+        - label: EXAM
+          type: exam
+          title: No Class (work on midterm)
     - date: "2024-11-06"
-      in_class: true
+      in_class: false
       events:
         - label: DISC
           type: disc
-          title: Groupwork 1 (Discussion Section)
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_weyaf.pdf
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_solutions_ythzw.pdf
-
+          title: No Discussion Section (work on midterm)
+        - label: EXAM
+          type: exam
+          title: Midterm Due (End of Day)
     - date: "2024-11-07"
       in_class: true
       events:
-        - label: HW
+        - label: LEC 12
+          type: lecture
+          title: 09_interactive_data_analysis
+          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/09_analysis_with_sql.pdf
+        - label: DEMO
+          type: demo
+          title: 11_interactive_data_analysis
+          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/11_interactive_data_analysis.ipynb
+          # solutions: #same as template
+        - label: HW 1
           type: hw
-          title: <b>Homework 1 Released</b>
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/homework/hw1_dsc40a_su24_ghtry.pdf
-          # template: https://www.overleaf.com/read/dxgccwhqsjch#6e552f
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/homework/hw1_dsc40a_su24_solutions_iewdg.pdf
+          title: <b>Homework 4 Released</b>
+        - label: QUIZ
+          type: quiz
+          title: <b>Quiz 4 Released</b>
 
 - week: 7
   title: "Week 7 - Query Analysis, Indexing, & B-Trees<br>"
   days:
     - date: "2024-11-12"
       in_class: true
-
+      events:
+        - label: LEC 13
+          type: lecture
+          title: 10a_data_storage_query_analysis
+          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+10ab_+Data+Storage+and+Query+Analysis.pdf
+        - label: DEMO
+          type: demo
+          title: 12_query_optimization_explain_analyze
+          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/12_query_optimization_explain_analyze.pdf
+          # solutions: #same as template
     - date: "2024-11-13"
       in_class: true
       events:
         - label: DISC
           type: disc
-          title: Groupwork 1 (Discussion Section)
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_weyaf.pdf
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_solutions_ythzw.pdf
-
+          title: Discussion Section
     - date: "2024-11-14"
       in_class: true
       events:
-        - label: HW
-          type: hw
-          title: <b>Homework 1 Released</b>
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/homework/hw1_dsc40a_su24_ghtry.pdf
-          # template: https://www.overleaf.com/read/dxgccwhqsjch#6e552f
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/homework/hw1_dsc40a_su24_solutions_iewdg.pdf
+        - label: LEC 14
+          type: lecture
+          title: 10b_index_and_b_trees
+          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+10ab_+Data+Storage+and+Query+Analysis.pdf
+        - label: DEMO
+          type: demo
+          title: 13_index_and_b_trees
+          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/13_indexes_and_b_trees.pdf
+          # solutions: #same as template
 
 - week: 8
-  title: "Week 8 - Coneptual Design<br>"
+  title: "Week 8 - Coneptual Design & Design Theory<br>"
   days:
     - date: "2024-11-19"
       in_class: true
-
+      events:
+        - label: LEC 15
+          type: lecture
+          title: 11_conceptual_design
+          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+11_+Conceptual+Design.pdf
+        - label: HW 1
+          type: hw
+          title: <b>Homework 5 Released</b>
     - date: "2024-11-20"
       in_class: true
       events:
         - label: DISC
           type: disc
-          title: Groupwork 1 (Discussion Section)
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_weyaf.pdf
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_solutions_ythzw.pdf
-
+          title: Discussion Section
     - date: "2024-11-21"
       in_class: true
       events:
-        - label: HW
-          type: hw
-          title: <b>Homework 1 Released</b>
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/homework/hw1_dsc40a_su24_ghtry.pdf
-          # template: https://www.overleaf.com/read/dxgccwhqsjch#6e552f
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/homework/hw1_dsc40a_su24_solutions_iewdg.pdf
-
+        - label: LEC 16
+          type: lecture
+          title: 12_design_theory
+          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+12_+Design+Theory.pdf
+        - label: QUIZ
+          type: quiz
+          title: <b>Quiz 5 Released</b>
 
 - week: 9
-  title: "Week 9 - Design Theory & Functional Dependancies<br>"
+  title: "Week 9 - Functional Dependancies<br>"
   days:
     - date: "2024-11-26"
       in_class: true
-
+      events:
+        - label: LEC 17
+          type: lecture
+          title: 13_functional_dependancies
     - date: "2024-11-27"
       in_class: true
       events:
         - label: DISC
           type: disc
-          title: Groupwork 1 (Discussion Section)
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_weyaf.pdf
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_solutions_ythzw.pdf
-
+          title: Discussion Section
     - date: "2024-11-28"
-      in_class: true
+      in_class: false
       events:
-        - label: HW
-          type: hw
-          title: <b>Homework 1 Released</b>
-
+        - label: RELX
+          type: relx
+          title: <b>Thanksgiving Break</b>
     - date: "2024-11-29"
       in_class: true
       events:
-        - label: HW
-          type: hw
-          title: <b>Homework 1 Released</b>
-
+        - label: RELX
+          type: relx
+          title: <b>Thanksgiving Break</b>
 
 - week: 10
   title: "Week 10 - Normal Forms & Final Exam<br>"
   days:
     - date: "2024-12-03"
       in_class: true
-
+      events:
+        - label: LEC 18
+          type: lecture
+          title: 14_normal_forms
     - date: "2024-12-04"
       in_class: true
       events:
         - label: DISC
           type: disc
-          title: Groupwork 1 (Discussion Section)
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_weyaf.pdf
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/groupwork/gw1_dsc40a_su24_solutions_ythzw.pdf
-
+          title: Discussion Section
     - date: "2024-12-05"
       in_class: true
       events:
-        - label: HW
-          type: hw
-          title: <b>Homework 1 Released</b>
-          # problems: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/homework/hw1_dsc40a_su24_ghtry.pdf
-          # template: https://www.overleaf.com/read/dxgccwhqsjch#6e552f
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc40a/homework/hw1_dsc40a_su24_solutions_iewdg.pdf
-
+        - label: LEC 19
+          type: lecture
+          title: 15_data_quality_and_warehousing
