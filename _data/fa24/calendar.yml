@@ -238,7 +238,7 @@
           title: 11_interactive_data_analysis
           # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/11_interactive_data_analysis.ipynb
           # solutions: #same as template
-        - label: HW 1
+        - label: HW 4
           type: hw
           title: <b>Homework 4 Released</b>
         - label: QUIZ
@@ -289,7 +289,7 @@
           type: lecture
           title: 11_conceptual_design
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+11_+Conceptual+Design.pdf
-        - label: HW 1
+        - label: HW 5
           type: hw
           title: <b>Homework 5 Released</b>
     - date: "2024-11-20"
