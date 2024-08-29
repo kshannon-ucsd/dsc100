@@ -336,6 +336,9 @@
         - label: RELX
           type: relx
           title: <b>Thanksgiving Break</b>
+        - label: QUIZ
+          type: quiz
+          title: <b>Quiz 6 Released</b>
 
 - week: 10
   title: "Week 10 - Normal Forms & Final Exam<br>"
