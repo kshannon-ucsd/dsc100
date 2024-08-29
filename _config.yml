@@ -67,7 +67,6 @@ aux_links:
   # "Template Repository": "https://www.github.com/kshannon/ucsd-dsc40a"
   "🙋 Ed": "https://edstem.org"
   "💯 Gradescope": "https://www.gradescope.com"
-  "💪 Practice": "https://practice.dsc40a.com"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
