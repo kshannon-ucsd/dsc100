@@ -69,7 +69,7 @@
       events:
         - label: LECT
           type: lecture
-          title: 04a_join_me_for_joins
+          title: 04_join_me_for_joins
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+4ab_+Joins.pdf
         - label: DEMO
           type: demo
@@ -90,7 +90,7 @@
       events:
         - label: LECT
           type: lecture
-          title: 04b_join_me_for_joins
+          title: 05_join_me_for_joins_2
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+4ab_+Joins.pdf
         - label: DEMO
           type: demo
@@ -109,7 +109,7 @@
       events:
         - label: LECT
           type: lecture
-          title: 05_aggregation_and_grouping
+          title: 06_aggregation_and_grouping
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+5_+Aggregation+and+Grouping.pdf
         - label: DEMO
           type: demo
@@ -130,7 +130,7 @@
       events:
         - label: LECT
           type: lecture
-          title: 06a_advanced_sql_queries
+          title: 07_advanced_sql_queries
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+6ab_+Advanced+SQL+Queries.pdf
         - label: DEMO
           type: demo
@@ -149,7 +149,7 @@
       events:
         - label: LECT
           type: lecture
-          title: 06b_advanced_sql_queries
+          title: 08_advanced_sql_queries_2
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+6ab_+Advanced+SQL+Queries.pdf
         - label: QUIZ
           type: quiz
@@ -165,11 +165,11 @@
       events:
         - label: LECT
           type: lecture
-          title: 07_set_operation
+          title: 09_sql_dbs_real_world
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+7_+Set+Operations+in+SQL.pdf
         - label: DEMO
           type: demo
-          title: 08_sql_vs_dataframes_set_ops
+          title: 08_todo
           # template: TBD
           # solutions: #same as template
 
@@ -181,8 +181,13 @@
       events:
         - label: LECT
           type: lecture
-          title: 08a_formal_relational_query_languages
+          title: 10_intro_relational_algebra
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+8ab_+Formal+Relational+Query+Languages.pdf
+        - label: DEMO
+          type: demo
+          title: 09_relax_relational_algebra_pt1
+          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/10_relax_relational_algebra_pt2.pdf
+          # solutions: #same as template
     - date: "2024-10-30"
       in_class: true
       events:
@@ -194,7 +199,7 @@
       events:
         - label: LECT
           type: lecture
-          title: 08b_formal_relational_query_languages
+          title: 11_relational_algebra
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+8ab_+Formal+Relational+Query+Languages.pdf
         - label: DEMO
           type: demo
@@ -231,11 +236,11 @@
       events:
         - label: LECT
           type: lecture
-          title: 09_interactive_data_analysis
+          title: 12_data_storage_query_analysis
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/09_analysis_with_sql.pdf
         - label: DEMO
           type: demo
-          title: 11_interactive_data_analysis
+          title: 11_query_optimization_explain_analyze
           # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/11_interactive_data_analysis.ipynb
           # solutions: #same as template
         - label: HW 4
@@ -253,11 +258,11 @@
       events:
         - label: LECT
           type: lecture
-          title: 10a_data_storage_query_analysis
+          title: 13_index_and_b_trees
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+10ab_+Data+Storage+and+Query+Analysis.pdf
         - label: DEMO
           type: demo
-          title: 12_query_optimization_explain_analyze
+          title: 13_index_and_b_trees
           # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/12_query_optimization_explain_analyze.pdf
           # solutions: #same as template
     - date: "2024-11-13"
@@ -271,7 +276,7 @@
       events:
         - label: LECT
           type: lecture
-          title: 10b_index_and_b_trees
+          title: 14_conceptual_design
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+10ab_+Data+Storage+and+Query+Analysis.pdf
         - label: DEMO
           type: demo
@@ -287,7 +292,7 @@
       events:
         - label: LECT
           type: lecture
-          title: 11_conceptual_design
+          title: 15_design_theory
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+11_+Conceptual+Design.pdf
         - label: HW 5
           type: hw
@@ -303,7 +308,7 @@
       events:
         - label: LECT
           type: lecture
-          title: 12_design_theory
+          title: 16_normal_forms
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+12_+Design+Theory.pdf
         - label: QUIZ
           type: quiz
@@ -317,7 +322,7 @@
       events:
         - label: LECT
           type: lecture
-          title: 13_functional_dependancies
+          title: 17_normal_forms_2
     - date: "2024-11-27"
       in_class: true
       events:
@@ -341,14 +346,14 @@
           title: <b>Quiz 6 Released</b>
 
 - week: 10
-  title: "Week 10 - Normal Forms & Final Exam<br>"
+  title: "Week 10 - Normalization & Final Exam<br>"
   days:
     - date: "2024-12-03"
       in_class: true
       events:
         - label: LECT
           type: lecture
-          title: 14_normal_forms
+          title: 18_normalization
     - date: "2024-12-04"
       in_class: true
       events:
@@ -360,4 +365,4 @@
       events:
         - label: LECT
           type: lecture
-          title: 15_data_quality_and_warehousing
+          title: 19_data_warehouses_lakes
