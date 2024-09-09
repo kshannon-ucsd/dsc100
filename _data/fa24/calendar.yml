@@ -8,7 +8,7 @@
           type: survey
           title: Sign Up for EdStem (class discussion board)
           url: https://edstem.org/us/join/YjDH7q
-        - label: LEC 1
+        - label: LECT
           type: lecture
           title: 01_welcome_welcome_welcome
           slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+1_+Introduction+and+Overview.pdf
@@ -30,7 +30,7 @@
     - date: "2024-10-01"
       in_class: true
       events:
-        - label: LEC 2
+        - label: LECT
           type: lecture
           title: 02_relational_data_model
           slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+2_+The+Relational+Model.pdf
@@ -48,7 +48,7 @@
     - date: "2024-10-03"
       in_class: true
       events:
-        - label: LEC 3
+        - label: LECT
           type: lecture
           title: 03_sql_basics
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+3_+SQL+Basics.pdf
@@ -67,7 +67,7 @@
     - date: "2024-10-08"
       in_class: true
       events:
-        - label: LEC 4
+        - label: LECT
           type: lecture
           title: 04a_join_me_for_joins
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+4ab_+Joins.pdf
@@ -88,7 +88,7 @@
     - date: "2024-10-10"
       in_class: true
       events:
-        - label: LEC 5
+        - label: LECT
           type: lecture
           title: 04b_join_me_for_joins
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+4ab_+Joins.pdf
@@ -107,7 +107,7 @@
     - date: "2024-10-15"
       in_class: true
       events:
-        - label: LEC 6
+        - label: LECT
           type: lecture
           title: 05_aggregation_and_grouping
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+5_+Aggregation+and+Grouping.pdf
@@ -128,7 +128,7 @@
     - date: "2024-10-17"
       in_class: true
       events:
-        - label: LEC 7
+        - label: LECT
           type: lecture
           title: 06a_advanced_sql_queries
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+6ab_+Advanced+SQL+Queries.pdf
@@ -147,7 +147,7 @@
     - date: "2024-10-22"
       in_class: true
       events:
-        - label: LEC 8
+        - label: LECT
           type: lecture
           title: 06b_advanced_sql_queries
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+6ab_+Advanced+SQL+Queries.pdf
@@ -163,7 +163,7 @@
     - date: "2024-10-24"
       in_class: true
       events:
-        - label: LEC 9
+        - label: LECT
           type: lecture
           title: 07_set_operation
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+7_+Set+Operations+in+SQL.pdf
@@ -179,7 +179,7 @@
     - date: "2024-10-29"
       in_class: true
       events:
-        - label: LEC 10
+        - label: LECT
           type: lecture
           title: 08a_formal_relational_query_languages
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+8ab_+Formal+Relational+Query+Languages.pdf
@@ -192,7 +192,7 @@
     - date: "2024-10-31"
       in_class: true
       events:
-        - label: LEC 11
+        - label: LECT
           type: lecture
           title: 08b_formal_relational_query_languages
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+8ab_+Formal+Relational+Query+Languages.pdf
@@ -229,7 +229,7 @@
     - date: "2024-11-07"
       in_class: true
       events:
-        - label: LEC 12
+        - label: LECT
           type: lecture
           title: 09_interactive_data_analysis
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/09_analysis_with_sql.pdf
@@ -251,7 +251,7 @@
     - date: "2024-11-12"
       in_class: true
       events:
-        - label: LEC 13
+        - label: LECT
           type: lecture
           title: 10a_data_storage_query_analysis
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+10ab_+Data+Storage+and+Query+Analysis.pdf
@@ -269,7 +269,7 @@
     - date: "2024-11-14"
       in_class: true
       events:
-        - label: LEC 14
+        - label: LECT
           type: lecture
           title: 10b_index_and_b_trees
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+10ab_+Data+Storage+and+Query+Analysis.pdf
@@ -285,7 +285,7 @@
     - date: "2024-11-19"
       in_class: true
       events:
-        - label: LEC 15
+        - label: LECT
           type: lecture
           title: 11_conceptual_design
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+11_+Conceptual+Design.pdf
@@ -301,7 +301,7 @@
     - date: "2024-11-21"
       in_class: true
       events:
-        - label: LEC 16
+        - label: LECT
           type: lecture
           title: 12_design_theory
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+12_+Design+Theory.pdf
@@ -315,7 +315,7 @@
     - date: "2024-11-26"
       in_class: true
       events:
-        - label: LEC 17
+        - label: LECT
           type: lecture
           title: 13_functional_dependancies
     - date: "2024-11-27"
@@ -346,7 +346,7 @@
     - date: "2024-12-03"
       in_class: true
       events:
-        - label: LEC 18
+        - label: LECT
           type: lecture
           title: 14_normal_forms
     - date: "2024-12-04"
@@ -358,6 +358,6 @@
     - date: "2024-12-05"
       in_class: true
       events:
-        - label: LEC 19
+        - label: LECT
           type: lecture
           title: 15_data_quality_and_warehousing
