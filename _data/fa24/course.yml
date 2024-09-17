@@ -1,7 +1,7 @@
 # Welcome section
-quarter: Summer I 2024
-building: WLH 2114
-timings: TUE & THUR 2:00PM - 4:50PM
+quarter: Fall 2024
+building: CNTR 105
+timings: TUE & THUR 5:00PM - 6:20PM
 edstem_link: https://edstem.org/us/join/EU8se2
 gradescope_link:
 gradescope_entry_code: 
@@ -16,7 +16,7 @@ office_hours:
 
 announcement:
   color: green
-  text: Hit the ground running ASAP. This will be a very tight summer session with the content we will need to cover! :)
+  text: 
 
 discussion_sections:
   - section: A00
