@@ -7,3 +7,48 @@
   hometown: San Diego, Cali
   askabout: Coffee, Likely to be found on a tennis court 🎾
   food: Regent's Pizza, Charminar, Sochi Sushi, Turmeric Thai, Callie
+
+- name: Vignesh Palaniapan (Viggy) 
+  email: vpalaniappan@ucsd.edu
+  role: TA
+  photo:
+  description: Aerospace Eng. (Imperial College London), Data Science (UCSD)
+  hometown: London, UK 
+  askabout: Many sports (Tennis, Badminton, Frisbee currently), Foreign lang. Netflix
+  food: Thai (Lanna Thai), Mexican (La Puerta), Ice Cream (SaltnStraw)
+
+- name: Abdullah Ashfaq
+  email: aashfaq@ucsd.edu
+  role: TA 
+  photo:
+  description: Most Excellent TA & Grad Student!
+  hometown: TODO
+  askabout: TODO
+  food: TODO
+
+- name: Owen Miller
+  email: omiller@ucsd.edu
+  role: Tutor
+  photo: https://ucsd.s3.us-west-2.amazonaws.com/staff/photos/owen.png
+  description: 3rd year data science + probability & stats major
+  hometown: Moss Beach -> Salt Lake City -> Barcelona -> San Diego
+  askabout: Cooking, books
+  food: Piacere Mio, Flavors of East Africa, Lanzhou Noodlelicious
+
+- name: Jiesen (just Jiesen, like Madonna)
+  email: jiz147@ucsd.edu
+  role: Tutor
+  photo: https://ucsd.s3.us-west-2.amazonaws.com/staff/photos/Jiesen.jpg
+  description: 4th year data science + Cognitive Science (Machine Learning and Neural Computation)
+  hometown: Kaifeng → Zhengzhou → Los Angeles → Syracuse → San Diego
+  askabout: Collecting records, playing guitar & bass; most likely to find me at Folk Arts Rare Records and Pitbull Audio (not sponsored) 
+  food: Taco El Gordo, Fire Spot BBQ, Dim Sum places
+
+- name: Ahmed Mostafa
+  email: ahmostafa@ucsd.edu
+  role: Tutor
+  photo: https://ucsd.s3.us-west-2.amazonaws.com/staff/photos/ahmed.png
+  description: 3rd year data science major & math minor
+  hometown: Cairo, Egypt
+  askabout: Ping Pong 🏓, Soccer ⚽, and Fishing 🎣 
+  food: Board & Brew, Aladdin, House of Mandi
