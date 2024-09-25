@@ -11,11 +11,11 @@
         - label: LECT
           type: lecture
           title: 01_welcome_welcome_welcome
-          slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+1_+Introduction+and+Overview.pdf
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/01_welcome_welcome_welcome.pdf
         - label: DEMO
           type: demo
           title: 01_up_and_running_sqlite
-          template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/1_up_and_running_sqlite.pdf
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/01_up_and_running_sqlite.pdf
           solutions: #same as template
 
 - week: 1
@@ -336,7 +336,7 @@
           type: relx
           title: <b>Thanksgiving Break</b>
     - date: "2024-11-29"
-      in_class: true
+      in_class: false
       events:
         - label: RELX
           type: relx
