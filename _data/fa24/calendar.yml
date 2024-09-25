@@ -262,7 +262,7 @@
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+10ab_+Data+Storage+and+Query+Analysis.pdf
         - label: DEMO
           type: demo
-          title: 13_index_and_b_trees
+          title: 12_index_and_b_trees
           # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/12_query_optimization_explain_analyze.pdf
           # solutions: #same as template
     - date: "2024-11-13"
@@ -280,7 +280,7 @@
           # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+10ab_+Data+Storage+and+Query+Analysis.pdf
         - label: DEMO
           type: demo
-          title: 13_index_and_b_trees
+          title: 13_conceptual_design
           # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/13_indexes_and_b_trees.pdf
           # solutions: #same as template
 
