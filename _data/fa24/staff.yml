@@ -11,7 +11,7 @@
 - name: Vignesh Palaniapan (Viggy) 
   email: vpalaniappan@ucsd.edu
   role: TA
-  photo:
+  photo: https://ucsd.s3.us-west-2.amazonaws.com/staff/photos/viggy.png
   description: Aerospace Eng. (Imperial College London), Data Science (UCSD)
   hometown: London, UK 
   askabout: Many sports (Tennis, Badminton, Frisbee currently), Foreign lang. Netflix
@@ -20,11 +20,11 @@
 - name: Abdullah Ashfaq
   email: aashfaq@ucsd.edu
   role: TA 
-  photo:
+  photo: https://ucsd.s3.us-west-2.amazonaws.com/staff/photos/abdullah.png
   description: Most Excellent TA & Grad Student!
-  hometown: TODO
-  askabout: TODO
-  food: TODO
+  hometown: Somewhere
+  askabout: Something
+  food: Some food XD
 
 - name: Owen Miller
   email: omiller@ucsd.edu
