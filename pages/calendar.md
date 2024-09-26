@@ -14,6 +14,6 @@ Lectures and discussions are all held in Warren Lecture Hall (WLH) 2114
 Most office hours are held in person in the Halıcıoğlu Data Science Institute. Office hours held remotely will have zoom links added to the OH location on this calendar.
 
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&bgcolor=%23ffffff&mode=WEEK&showTitle=0&showTabs=0&showCalendars=0&title=DSC40a%20-%20summer%201&src=Y18wMmNmMjg1NzE0YmIxOTI1NmVhMDk4ZDBjMDg0ZDAxZjYwM2RlN2QyY2VhZDk0YTM2NDdkODhiNTJiNjQ1MDU0QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23B39DDB" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_9c7fa84c1955dcb8428fcea2d00ca53e0e881811930050b714c5376782139ad3%40group.calendar.google.com&ctz=America%2FLos_Angeles" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <!-- https://calendar.google.com/calendar/u/0/embedhelper?src=c_02cf285714bb19256ea098d0c084d01f603de7d2cead94a3647d88b52b645054%40group.calendar.google.com&ctz=America%2FLos_Angeles -->
