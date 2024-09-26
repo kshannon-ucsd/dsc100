@@ -33,11 +33,11 @@
         - label: LECT
           type: lecture
           title: 02_relational_data_model
-          slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+2_+The+Relational+Model.pdf
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/02_relational_data_model.pdf
         - label: DEMO
           type: demo
           title: 02_relational_data_model
-          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/2_relational_data_model.pdf
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/02_relational_data_model.pdf
           # solutions: #same as template
     - date: "2024-10-02"
       in_class: true
@@ -51,11 +51,11 @@
         - label: LECT
           type: lecture
           title: 03_sql_basics
-          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+3_+SQL+Basics.pdf
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/03_sql_basics.pdf
         - label: DEMO
           type: demo
           title: 03_sql_basics
-          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/3_sql_basics.pdf
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/03_sql_basics.pdf
           # solutions: #same as template
         - label: HW 1
           type: hw
@@ -70,12 +70,12 @@
         - label: LECT
           type: lecture
           title: 04_join_me_for_joins
-          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+4ab_+Joins.pdf
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/04_join_me_for_joins.pdf
         - label: DEMO
           type: demo
           title: 04_simple_joins
-          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/4_simple_joins.pdf
-          # solutions: #same as template
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/04_simple_joins.pdf
+          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/04_simple_joins_student.pdf
         - label: QUIZ
           type: quiz
           title: <b>Quiz 1 Released</b>
@@ -91,12 +91,12 @@
         - label: LECT
           type: lecture
           title: 05_join_me_for_joins_2
-          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+4ab_+Joins.pdf
+          slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+4ab_+Joins.pdf
         - label: DEMO
           type: demo
           title: 05_advanced_joins
-          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/5_advanced_joins.pdf
-          # solutions: #same as template
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/05_advanced_joins.pdf
+          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/05_advanced_joins_student.pdf
         - label: HW 2
           type: hw
           title: <b>Homework 2 Released</b>
