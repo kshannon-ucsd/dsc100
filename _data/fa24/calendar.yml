@@ -236,12 +236,12 @@
         - label: LECT
           type: lecture
           title: 12_data_storage_query_analysis
-          # slides: 
+          # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/12_data_storage_query_analysis.pdf
         - label: DEMO
           type: demo
           title: 11_query_optimization_explain_analyze
-          # template: 
-          # solutions:
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/11_analysis_with_sql.pdf
+          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/11_analysis_with_sql_student.pdf
         - label: HW 4
           type: hw
           title: <b>Homework 4 Released</b>
@@ -258,11 +258,16 @@
         - label: LECT
           type: lecture
           title: 13_index_and_b_trees
-          # slides: 
+          # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/13_indexes_and_b_trees.pdf
         - label: DEMO
           type: demo
-          title: 12_index_and_b_trees
-          # template: 
+          title: 12_sql_query_optimization
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/12_sql_query_optimization.pdf
+          # solutions: 
+        - label: DEMO
+          type: demo
+          title: 13_index_and_b_trees
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/13_indexes_and_b_trees.pdf
           # solutions: 
     - date: "2024-11-13"
       in_class: true
@@ -276,12 +281,12 @@
         - label: LECT
           type: lecture
           title: 14_conceptual_design
-          # slides: 
+          # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/14_conceptual_design.pdf
         - label: DEMO
           type: demo
-          title: 13_conceptual_design
-          # template: 
-          # solutions:
+          title: 14_conceptual_design
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/14_conceptual_design.pdf
+          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/14_conceptual_design_student.pdf
 
 - week: 8
   title: "Week 8 - Coneptual Design & Design Theory<br>"
@@ -292,7 +297,7 @@
         - label: LECT
           type: lecture
           title: 15_design_theory
-          # slides: 
+          # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/15_design_theory.pdf
         - label: HW 5
           type: hw
           title: <b>Homework 5 Released</b>
@@ -308,7 +313,7 @@
         - label: LECT
           type: lecture
           title: 16_normal_forms
-          # slides: 
+          # slides: #lecture notes handout
         - label: QUIZ
           type: quiz
           title: <b>Quiz 5 Released</b>
@@ -322,6 +327,7 @@
         - label: LECT
           type: lecture
           title: 17_normal_forms_2
+          # slides: #lecture notes handout
     - date: "2024-11-27"
       in_class: true
       events:
@@ -353,6 +359,7 @@
         - label: LECT
           type: lecture
           title: 18_normalization
+          # slides: #lecture notes handout
     - date: "2024-12-04"
       in_class: true
       events:
@@ -365,3 +372,4 @@
         - label: LECT
           type: lecture
           title: 19_data_warehouses_lakes
+          # slides: #lecture notes handout
