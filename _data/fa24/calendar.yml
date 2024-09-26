@@ -239,9 +239,9 @@
           # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/12_data_storage_query_analysis.pdf
         - label: DEMO
           type: demo
-          title: 11_query_optimization_explain_analyze
-          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/11_analysis_with_sql.pdf
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/11_analysis_with_sql_student.pdf
+          title: 12_sql_query_optimization
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/12_sql_query_optimization.pdf
+          # solutions: 
         - label: HW 4
           type: hw
           title: <b>Homework 4 Released</b>
@@ -259,11 +259,6 @@
           type: lecture
           title: 13_index_and_b_trees
           # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/13_indexes_and_b_trees.pdf
-        - label: DEMO
-          type: demo
-          title: 12_sql_query_optimization
-          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/12_sql_query_optimization.pdf
-          # solutions: 
         - label: DEMO
           type: demo
           title: 13_index_and_b_trees
