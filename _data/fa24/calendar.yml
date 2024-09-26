@@ -110,12 +110,12 @@
         - label: LECT
           type: lecture
           title: 06_aggregation_and_grouping
-          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+5_+Aggregation+and+Grouping.pdf
+          # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/06_aggregation_and_grouping.pdf
         - label: DEMO
           type: demo
           title: 06_aggregation_and_grouping
-          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/6_grouping_agg_queries.pdf
-          # solutions: #same as template
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/06_aggregation_and_grouping.pdf
+          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/06_aggregation_and_grouping_student.pdf
         - label: QUIZ
           type: quiz
           title: <b>Quiz 2 Released</b>
@@ -131,12 +131,12 @@
         - label: LECT
           type: lecture
           title: 07_advanced_sql_queries
-          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+6ab_+Advanced+SQL+Queries.pdf
+          # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/07_advanced_sql_queries.pdf
         - label: DEMO
           type: demo
           title: 07_subqueries_nested_queries
-          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/7_subqueries_nested_queries.pdf
-          # solutions: #same as template
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/07_subqueries_nested_queries.pdf
+          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/07_subqueries_nested_queries_student.pdf 
         - label: HW 3
           type: hw
           title: <b>Homework 3 Released</b>
@@ -150,7 +150,12 @@
         - label: LECT
           type: lecture
           title: 08_advanced_sql_queries_2
-          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+6ab_+Advanced+SQL+Queries.pdf
+          # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/08_advanced_sql_queries_2.pdf
+        - label: DEMO
+          type: demo
+          title: 08_advanced_sql_queries
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/08_advanced_sql_queries.pdf
+          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/08_advanced_sql_queries_student.pdf
         - label: QUIZ
           type: quiz
           title: <b>Quiz 3 Released</b>
@@ -166,12 +171,6 @@
         - label: LECT
           type: lecture
           title: 09_sql_dbs_real_world
-          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+7_+Set+Operations+in+SQL.pdf
-        - label: DEMO
-          type: demo
-          title: 08_todo
-          # template: TBD
-          # solutions: #same as template
 
 - week: 5
   title: "Week 5 - Formal Query Languages and Relational Algebra<br>"
@@ -182,12 +181,12 @@
         - label: LECT
           type: lecture
           title: 10_intro_relational_algebra
-          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+8ab_+Formal+Relational+Query+Languages.pdf
+          # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/10_intro_relational_algebra.pdf
         - label: DEMO
           type: demo
           title: 09_relax_relational_algebra_pt1
-          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/10_relax_relational_algebra_pt2.pdf
-          # solutions: #same as template
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/09_set_ops_relax_ra.pdf
+          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/09_set_ops_relax_ra_student.pdf 
     - date: "2024-10-30"
       in_class: true
       events:
@@ -200,12 +199,12 @@
         - label: LECT
           type: lecture
           title: 11_relational_algebra
-          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+8ab_+Formal+Relational+Query+Languages.pdf
+          # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/11_relational_algebra.pdf
         - label: DEMO
           type: demo
           title: 10_relax_relational_algebra_pt2
-          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/10_relax_relational_algebra_pt2.pdf
-          # solutions: #same as template
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/10_relax_ra_queries.pdf 
+          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/10_relax_ra_queries_student.pdf
 
 - week: 6
   title: "Week 6 - Midterm & Data Analysis Workflow<br>"
@@ -237,12 +236,12 @@
         - label: LECT
           type: lecture
           title: 12_data_storage_query_analysis
-          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/09_analysis_with_sql.pdf
+          # slides: 
         - label: DEMO
           type: demo
           title: 11_query_optimization_explain_analyze
-          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/11_interactive_data_analysis.ipynb
-          # solutions: #same as template
+          # template: 
+          # solutions:
         - label: HW 4
           type: hw
           title: <b>Homework 4 Released</b>
@@ -259,12 +258,12 @@
         - label: LECT
           type: lecture
           title: 13_index_and_b_trees
-          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+10ab_+Data+Storage+and+Query+Analysis.pdf
+          # slides: 
         - label: DEMO
           type: demo
           title: 12_index_and_b_trees
-          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/12_query_optimization_explain_analyze.pdf
-          # solutions: #same as template
+          # template: 
+          # solutions: 
     - date: "2024-11-13"
       in_class: true
       events:
@@ -277,12 +276,12 @@
         - label: LECT
           type: lecture
           title: 14_conceptual_design
-          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+10ab_+Data+Storage+and+Query+Analysis.pdf
+          # slides: 
         - label: DEMO
           type: demo
           title: 13_conceptual_design
-          # template: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/demos/13_indexes_and_b_trees.pdf
-          # solutions: #same as template
+          # template: 
+          # solutions:
 
 - week: 8
   title: "Week 8 - Coneptual Design & Design Theory<br>"
@@ -293,7 +292,7 @@
         - label: LECT
           type: lecture
           title: 15_design_theory
-          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+11_+Conceptual+Design.pdf
+          # slides: 
         - label: HW 5
           type: hw
           title: <b>Homework 5 Released</b>
@@ -309,7 +308,7 @@
         - label: LECT
           type: lecture
           title: 16_normal_forms
-          # slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+12_+Design+Theory.pdf
+          # slides: 
         - label: QUIZ
           type: quiz
           title: <b>Quiz 5 Released</b>
