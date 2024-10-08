@@ -75,8 +75,8 @@
         - label: DEMO
           type: demo
           title: 04_simple_joins
-          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/04_simple_joins.pdf
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/04_simple_joins_student.pdf
+          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/04_simple_joins.pdf
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/04_simple_joins_student.pdf
         - label: QUIZ
           type: quiz
           title: <b>Quiz 1 Released</b>
@@ -96,8 +96,8 @@
         - label: DEMO
           type: demo
           title: 05_advanced_joins
-          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/05_advanced_joins.pdf
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/05_advanced_joins_student.pdf
+          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/05_advanced_joins.pdf
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/05_advanced_joins_student.pdf
         - label: HW 2
           type: hw
           title: <b>Homework 2 Released</b>
@@ -115,8 +115,8 @@
         - label: DEMO
           type: demo
           title: 06_aggregation_and_grouping
-          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/06_aggregation_and_grouping.pdf
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/06_aggregation_and_grouping_student.pdf
+          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/06_aggregation_and_grouping.pdf
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/06_aggregation_and_grouping_student.pdf
         - label: QUIZ
           type: quiz
           title: <b>Quiz 2 Released</b>
@@ -136,8 +136,8 @@
         - label: DEMO
           type: demo
           title: 07_subqueries_nested_queries
-          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/07_subqueries_nested_queries.pdf
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/07_subqueries_nested_queries_student.pdf 
+          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/07_subqueries_nested_queries.pdf
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/07_subqueries_nested_queries_student.pdf 
         - label: HW 3
           type: hw
           title: <b>Homework 3 Released</b>
@@ -155,8 +155,8 @@
         - label: DEMO
           type: demo
           title: 08_advanced_sql_queries
-          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/08_advanced_sql_queries.pdf
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/08_advanced_sql_queries_student.pdf
+          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/08_advanced_sql_queries.pdf
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/08_advanced_sql_queries_student.pdf
         - label: QUIZ
           type: quiz
           title: <b>Quiz 3 Released</b>
@@ -186,8 +186,8 @@
         - label: DEMO
           type: demo
           title: 09_relax_relational_algebra_pt1
-          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/09_set_ops_relax_ra.pdf
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/09_set_ops_relax_ra_student.pdf 
+          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/09_set_ops_relax_ra.pdf
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/09_set_ops_relax_ra_student.pdf 
     - date: "2024-10-30"
       in_class: true
       events:
@@ -204,8 +204,8 @@
         - label: DEMO
           type: demo
           title: 10_relax_relational_algebra_pt2
-          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/10_relax_ra_queries.pdf 
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/10_relax_ra_queries_student.pdf
+          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/10_relax_ra_queries.pdf 
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/10_relax_ra_queries_student.pdf
 
 - week: 6
   title: "Week 6 - Midterm & Data Analysis Workflow<br>"
@@ -281,8 +281,8 @@
         - label: DEMO
           type: demo
           title: 14_conceptual_design
-          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/14_conceptual_design.pdf
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/14_conceptual_design_student.pdf
+          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/14_conceptual_design.pdf
+          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/14_conceptual_design_student.pdf
 
 - week: 8
   title: "Week 8 - Coneptual Design & Design Theory<br>"
