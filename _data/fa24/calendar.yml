@@ -75,7 +75,7 @@
         - label: DEMO
           type: demo
           title: 04_simple_joins
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/04_simple_joins.pdf
+          solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/04_simple_joins.pdf
           template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/04_simple_joins_student.pdf
         - label: QUIZ
           type: quiz
