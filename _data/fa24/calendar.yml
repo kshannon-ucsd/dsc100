@@ -86,6 +86,7 @@
         - label: DISC
           type: disc
           title: Discussion Section
+          walkthrough: https://drive.google.com/file/d/10QVM85TtLzjVYtopz2cuw9898YvOIezR/view?usp=sharing
     - date: "2024-10-10"
       in_class: true
       events:
