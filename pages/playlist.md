@@ -11,6 +11,8 @@ Welcome to the ultimate code-cranking playlists! Feel free to study, debug, or j
 
 ## Class Kickoff
 
+A curated playlist from the musical mind of Jiesen! Welcome to DSC100.
+
 <!-- <jiesen spotify embed> -->
 
 ## Study Session Jams
@@ -34,7 +36,7 @@ Welcome to the ultimate code-cranking playlists! Feel free to study, debug, or j
 
 ### Kyle's
 
-Over 30 hours, so recommend shuffling to explore something interesting
+Over 30 hours, so recommend shuffling to explore something interesting.
 
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4eN8ToNq4Ap4zFcpCQXxtM?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
