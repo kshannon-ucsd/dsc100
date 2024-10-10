@@ -93,12 +93,12 @@
         - label: LECT
           type: lecture
           title: 05_join_me_for_joins_2
-          slides: https://s3.us-west-2.amazonaws.com/ucsd.dsc100/lectures/Lecture+4ab_+Joins.pdf
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/05_join_me_for_joins_2.pdf
         - label: DEMO
           type: demo
           title: 05_advanced_joins
           # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/05_advanced_joins.pdf
-          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/05_advanced_joins_student.pdf
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/05_advanced_joins_student.pdf
         - label: HW 2
           type: hw
           title: <b>Homework 2 Released</b>
