@@ -13,7 +13,7 @@ Welcome to the ultimate code-cranking playlists! Feel free to study, debug, or j
 
 A curated playlist from the musical mind of Jiesen! Welcome to DSC100.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2e8vBCeKPKLn4PcFIwbVKl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2e8vBCeKPKLn4PcFIwbVKl?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ## Study Session Jams
 
