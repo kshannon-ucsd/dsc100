@@ -14,6 +14,7 @@ permalink: /assignments/
 All assignments/exams will be submitted through **Gradescope**.
 
 - [Homework 1](https://ucsd.s3.us-west-2.amazonaws.com/dsc100/homework/homework_1_ds67d3.pdf)
+- [Homework 2](https://ucsd.s3.us-west-2.amazonaws.com/dsc100/homework/homework_2_k63md7.pdf)
 
 ### Student Guides
 Additional formatting instructions and guides to support HWs

@@ -97,7 +97,7 @@
         - label: DEMO
           type: demo
           title: 05_advanced_joins
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/05_advanced_joins.pdf
+          solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/05_advanced_joins.pdf
           template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/05_advanced_joins_student.pdf
         - label: HW 2
           type: hw
@@ -112,12 +112,12 @@
         - label: LECT
           type: lecture
           title: 06_aggregation_and_grouping
-          # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/06_aggregation_and_grouping.pdf
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/06_aggregation_and_grouping.pdf
         - label: DEMO
           type: demo
           title: 06_aggregation_and_grouping
           # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/06_aggregation_and_grouping.pdf
-          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/06_aggregation_and_grouping_student.pdf
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/06_aggregation_and_grouping_student.pdf
         - label: QUIZ
           type: quiz
           title: <b>Quiz 2 Released</b>
@@ -133,12 +133,12 @@
         - label: LECT
           type: lecture
           title: 07_advanced_sql_queries
-          # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/07_advanced_sql_queries.pdf
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/07_advanced_sql_queries.pdf
         - label: DEMO
           type: demo
           title: 07_subqueries_nested_queries
           # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/07_subqueries_nested_queries.pdf
-          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/07_subqueries_nested_queries_student.pdf 
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/07_subqueries_nested_queries_student.pdf 
         - label: HW 3
           type: hw
           title: <b>Homework 3 Released</b>
