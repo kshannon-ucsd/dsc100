@@ -99,6 +99,7 @@
           title: 05_advanced_joins
           solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/05_advanced_joins.pdf
           template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/05_advanced_joins_student.pdf
+          walkthrough: https://colab.research.google.com/drive/1eYrGEVyZDUT_OpnAgsbZ7Zw1e4niR8F4?usp=sharing
         - label: HW 2
           type: hw
           title: <b>Homework 2 Released</b>
