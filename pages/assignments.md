@@ -15,11 +15,13 @@ All assignments/exams will be submitted through **Gradescope**.
 
 - [Homework 1](https://ucsd.s3.us-west-2.amazonaws.com/dsc100/homework/homework_1_ds67d3.pdf)
 - [Homework 2](https://ucsd.s3.us-west-2.amazonaws.com/dsc100/homework/homework_2_k6g3rd.pdf)
+<!-- - [Homework 3](https://ucsd.s3.us-west-2.amazonaws.com/dsc100/homework/homework_3_d32few.pdf) -->
 
 ### Student Guides
 Additional formatting instructions and guides to support HWs
 
 - [Setting up PostgreSQL + PGAdmin](https://ucsd.s3.us-west-2.amazonaws.com/dsc100/guides/Setting+Up+PostgreSQL.pdf)
+<!-- - [ER Diagramming Guide](https://ucsd.s3.us-west-2.amazonaws.com/dsc100/guides/er_diagram_formatting_guide.pdf) -->
 
 
 ## Assignment Breakdown
