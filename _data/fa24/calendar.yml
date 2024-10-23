@@ -154,12 +154,12 @@
         - label: LECT
           type: lecture
           title: 08_advanced_sql_queries_2
-          # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/08_advanced_sql_queries_2.pdf
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/08_advanced_sql_queries_2.pdf
         - label: DEMO
           type: demo
           title: 08_advanced_sql_queries
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/08_advanced_sql_queries.pdf
-          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/08_advanced_sql_queries_student.pdf
+          solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/08_advanced_sql_queries.pdf
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/08_advanced_sql_queries_student.pdf
         - label: QUIZ
           type: quiz
           title: <b>Quiz 3 Released</b>
