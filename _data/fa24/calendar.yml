@@ -169,6 +169,7 @@
         - label: DISC
           type: disc
           title: Discussion Section
+          walkthrough: https://docs.google.com/presentation/d/1HhGhT_KxO_XeUTq1LuFfg9I1QaOlkl4f8olI1d8eXzY/edit#slide=id.g308df17aa4b_0_0
     - date: "2024-10-24"
       in_class: true
       events:
