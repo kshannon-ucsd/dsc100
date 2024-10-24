@@ -186,12 +186,12 @@
         - label: LECT
           type: lecture
           title: 10_intro_relational_algebra
-          # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/10_intro_relational_algebra.pdf
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/10_intro_relational_algebra.pdf
         - label: DEMO
           type: demo
           title: 09_relax_relational_algebra_pt1
           # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/09_set_ops_relax_ra.pdf
-          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/09_set_ops_relax_ra_student.pdf 
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/09_set_ops_relax_ra_student.pdf 
     - date: "2024-10-30"
       in_class: true
       events:
@@ -204,12 +204,12 @@
         - label: LECT
           type: lecture
           title: 11_relational_algebra
-          # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/11_relational_algebra.pdf
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/11_relational_algebra.pdf
         - label: DEMO
           type: demo
           title: 10_relax_relational_algebra_pt2
           # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/10_relax_ra_queries.pdf 
-          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/10_relax_ra_queries_student.pdf
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/10_relax_ra_queries_student.pdf
 
 - week: 6
   title: "Week 6 - Midterm & Data Analysis Workflow<br>"
