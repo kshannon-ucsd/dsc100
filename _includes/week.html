@@ -35,6 +35,10 @@
           <small>&nbsp;&nbsp;<a href="{{ event.slides }}">
                 slides</a></small>
           {%- endif -%}
+          {%- if event.slides -%}
+          <small>&nbsp;&nbsp;<a href="{{ event.ta_slides }}">
+                slides</a></small>
+          {%- endif -%}
           {%- if event.code -%}
           <small>&nbsp;&nbsp;<a href="{{ event.code }}">
                 code</a></small>
