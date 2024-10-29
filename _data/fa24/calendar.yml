@@ -188,6 +188,7 @@
           title: 10_intro_relational_algebra
           slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/10_intro_relational_algebra.pdf
           recording: https://youtu.be/DujKsFdWeTc
+          TA slides: https://drive.google.com/file/d/1uTeZJSj9MXhz_RDeG_O9yRfwtzuhDDvb/view?usp=drive_link
         - label: DEMO
           type: demo
           title: 09_relax_relational_algebra_pt1
