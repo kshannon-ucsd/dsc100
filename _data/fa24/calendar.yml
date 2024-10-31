@@ -207,6 +207,7 @@
           type: lecture
           title: 11_relational_algebra
           slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/11_relational_algebra.pdf
+          ta_slides: https://drive.google.com/file/d/1xDakemXSX934umug6iv0NmJnWv-npCua/view?usp=sharing
           recording: https://youtu.be/a5gzR33TlvI 
         - label: DEMO
           type: demo
