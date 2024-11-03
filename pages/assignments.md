@@ -9,13 +9,14 @@ permalink: /assignments/
 
 # Assignments
 
-## Assignment Links
+## Assignment/Exam Links
 
 All assignments/exams will be submitted through **Gradescope**.
 
 - [Homework 1](https://ucsd.s3.us-west-2.amazonaws.com/dsc100/homework/homework_1_ds67d3.pdf)
 - [Homework 2](https://ucsd.s3.us-west-2.amazonaws.com/dsc100/homework/homework_2_k6g3rd.pdf)
 - [Homework 3](https://ucsd.s3.us-west-2.amazonaws.com/dsc100/homework/homework_3_d32few.pdf)
+- [Midterm Exam](https://ucsd.s3.us-west-2.amazonaws.com/dsc100/exams/midterm_instructions.pdf)
 <!-- - [Homework 4](To be added) -->
 <!-- - [Homework 5](To be added) -->
 
