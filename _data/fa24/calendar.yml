@@ -213,7 +213,7 @@
         - label: DEMO
           type: demo
           title: 10_relax_relational_algebra_pt2
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/10_relax_ra_queries.pdf 
+          solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/10_relax_ra_queries.pdf 
           template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/10_relax_ra_queries_student.pdf
 
 - week: 6
@@ -246,11 +246,11 @@
         - label: LECT
           type: lecture
           title: 12_data_storage_query_analysis
-          # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/12_data_storage_query_analysis.pdf
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/12_data_storage_query_analysis.pdf
         - label: DEMO
           type: demo
           title: 12_sql_query_optimization
-          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/12_sql_query_optimization.pdf
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/12_sql_query_optimization.pdf
           # solutions: 
         - label: HW 4
           type: hw
