@@ -268,11 +268,11 @@
         - label: LECT
           type: lecture
           title: 13_index_and_b_trees
-          # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/13_indexes_and_b_trees.pdf
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/13_indexes_and_b_trees.pdf
         - label: DEMO
           type: demo
           title: 13_index_and_b_trees
-          # template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/13_indexes_and_b_trees.pdf
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/13_indexes_and_b_trees.pdf
           # solutions: 
     - date: "2024-11-13"
       in_class: true
