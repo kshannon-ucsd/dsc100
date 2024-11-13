@@ -280,6 +280,7 @@
         - label: DISC
           type: disc
           title: Discussion Section
+          walkthrough: https://docs.google.com/presentation/d/15Fq9zbxnFzun7EkzHEGUSFsQRr7O2OB_ZoebDA14rZo/edit?usp=sharing
     - date: "2024-11-14"
       in_class: true
       events:
