@@ -291,7 +291,7 @@
         - label: DEMO
           type: demo
           title: 14_conceptual_design
-          # solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/14_conceptual_design.pdf
+          solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/14_conceptual_design.pdf
           template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/14_conceptual_design_student.pdf
 
 - week: 8
@@ -303,7 +303,7 @@
         - label: LECT
           type: lecture
           title: 15_design_theory
-          # slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/15_design_theory.pdf
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/15_design_theory.pdf
         - label: HW 5
           type: hw
           title: <b>Homework 5 Released</b>
