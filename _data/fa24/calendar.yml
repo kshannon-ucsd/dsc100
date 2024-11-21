@@ -313,6 +313,7 @@
         - label: DISC
           type: disc
           title: Discussion Section
+          walkthrough: https://docs.google.com/presentation/d/1JY-pZE3eQXDcL2R8-scVK_csTfz07JGmfW9Ow6Kj_hA/edit?usp=sharing
     - date: "2024-11-21"
       in_class: true
       events:
