@@ -26,6 +26,7 @@ Additional formatting instructions and guides to support HWs
 
 - [Setting up PostgreSQL + PGAdmin](https://ucsd.s3.us-west-2.amazonaws.com/dsc100/guides/Setting+Up+PostgreSQL.pdf)
 - [ER Diagramming Guide](https://ucsd.s3.us-west-2.amazonaws.com/dsc100/guides/er_diagram_formatting_guide.pdf)
+- [Normalization](https://ucsd.s3.us-west-2.amazonaws.com/dsc100/guides/Normalization.pdf)
 
 
 ## Assignment Breakdown
