@@ -335,6 +335,7 @@
           type: lecture
           title: 17_normal_forms_2
           # slides: #lecture notes handout
+          walkthrough: https://drive.google.com/file/d/1SZbe2RG3INaGTeOuiSFyGQVRGFeNUPSn/view?usp=sharing 
     - date: "2024-11-27"
       in_class: true
       events:
