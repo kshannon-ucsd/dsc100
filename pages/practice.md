@@ -31,10 +31,13 @@ d) A relation is a set of tuples with the same attributes
 <details>
 <summary>Solution</summary>
 Answer: d) A relation is a set of tuples with the same attributes
-
+<br />
 Relations are defined as sets of tuples, where:
+<br />
 - Order doesn't matter (rules out b)
+<br />
 - Can be empty (rules out a)
+<br />
 - Attributes can be of same type (rules out c)
 </details>
 
@@ -52,11 +55,11 @@ d) A→C by transitivity
 <details>
 <summary>Solution</summary>
 Answer: d) A→C by transitivity
-
-Because:
-- A→B and B→C implies A→C (transitivity)
-- A is not necessarily a superkey as it doesn't determine D
-- {A,D} could be a superkey
+<br />
+Because:<br />
+- A→B and B→C implies A→C (transitivity)<br />
+- A is not necessarily a superkey as it doesn't determine D<br />
+- {A,D} could be a superkey<br />
 - B is not necessarily a key as it doesn't determine A or D
 </details>
 
@@ -69,11 +72,11 @@ What is the difference between a candidate key and a superkey in this context? N
 
 <details>
 <summary>Solution</summary>
-A superkey is any set of attributes that can uniquely identify a tuple, while a candidate key is a minimal superkey (removing any attribute would make it no longer unique). For instance, some of the super and/or candidate keys in this case:
+A superkey is any set of attributes that can uniquely identify a tuple, while a candidate key is a minimal superkey (removing any attribute would make it no longer unique). For instance, some of the super and/or candidate keys in this case:<br />
 
-- {id} is both a candidate key and a superkey
-- {id, name} is only a superkey (not minimal)
-- {id, major} is only a superkey (not minimal)
+- {id} is both a candidate key and a superkey<br />
+- {id, name} is only a superkey (not minimal)<br />
+- {id, major} is only a superkey (not minimal)<br />
 - {name} is neither (might not be unique)
 </details>
 
@@ -88,13 +91,13 @@ Find all the attributes that are transitively dependent on A.
 
 <details>
 <summary>Solution</summary>
-To find transitive dependencies:
+To find transitive dependencies:<br />
 
-1. Start with A → B
-2. Since we have A → B, if B were part of any determinant, those dependencies would be transitive
-3. However, B alone doesn't determine anything
-4. B with C determines D (BC → D)
-5. D determines E (D → E)
+1. Start with A → B<br />
+2. Since we have A → B, if B were part of any determinant, those dependencies would be transitive<br />
+3. However, B alone doesn't determine anything<br />
+4. B with C determines D (BC → D)<br />
+5. D determines E (D → E)<br />
 
 Therefore, there are no attributes transitively dependent on A alone.
 </details>
@@ -112,11 +115,11 @@ d) DATE
 
 <details>
 <summary>Solution</summary>
-Answer: c) ARRAY
+Answer: c) ARRAY<br />
 
-Arrays are not atomic because:
-- They can be decomposed into multiple values
-- Atomic types must be single, indivisible values
+Arrays are not atomic because:<br />
+- They can be decomposed into multiple values<br />
+- Atomic types must be single, indivisible values<br />
 - Common atomic types include INTEGER, VARCHAR, DATE, etc.
 </details>
 
@@ -136,13 +139,13 @@ Write all the domain constraints that are implicitly enforced by this schema.
 <details>
 <summary>Solution</summary>
 
-The domain constraints are:
-1. order_id must be an integer
-2. customer_id must be an integer
-3. order_date must be a valid date
-4. total_amount must be a decimal number with up to 10 digits total and 2 decimal places
-5. status must be a variable-length string up to 20 characters
-6. order_id cannot be NULL (due to PRIMARY KEY constraint)
+The domain constraints are:<br />
+1. order_id must be an integer<br />
+2. customer_id must be an integer<br />
+3. order_date must be a valid date<br />
+4. total_amount must be a decimal number with up to 10 digits total and 2 decimal places<br />
+5. status must be a variable-length string up to 20 characters<br />
+6. order_id cannot be NULL (due to PRIMARY KEY constraint)<br />
 </details>
 
 ### Problem 7 🟣
@@ -165,20 +168,20 @@ Explain step by step how this query is evaluated by the database engine.
 <details>
 <summary>Solution</summary>
 
-Query evaluation order:
-1. Innermost subquery:
-   - Groups employees by department
-   - Counts employees in each department
+Query evaluation order:<br />
+1. Innermost subquery:<br />
+   - Groups employees by department<br />
+   - Counts employees in each department<br />
    
-2. Middle subquery:
-   - Takes those counts
-   - Calculates average department size
+2. Middle subquery:<br />
+   - Takes those counts<br />
+   - Calculates average department size<br />
    
-3. Main query:
-   - Groups employees by department again
-   - Counts employees in each department
-   - Compares each count to the average
-   - Returns only departments with above-average counts
+3. Main query:<br />
+   - Groups employees by department again<br />
+   - Counts employees in each department<br />
+   - Compares each count to the average<br />
+   - Returns only departments with above-average counts<br />
 
 The query finds departments that have more than the average number of employees.
 </details>
@@ -196,12 +199,12 @@ d) NULL values are excluded from COUNT(column_name)
 
 <details>
 <summary>Solution</summary>
-Answer: d) NULL values are excluded from COUNT(column_name)
+Answer: d) NULL values are excluded from COUNT(column_name)<br />
 
-Because:
-- NULL = NULL evaluates to NULL, not TRUE
-- NULL values are not considered equal to each other
-- COUNT(*) includes rows with NULL values
+Because:<br />
+- NULL = NULL evaluates to NULL, not TRUE<br />
+- NULL values are not considered equal to each other<br />
+- COUNT(*) includes rows with NULL values<br />
 - COUNT(column_name) excludes NULL values in that column
 </details>
 
@@ -274,11 +277,11 @@ d) When doing full table scans
 
 <details>
 <summary>Solution</summary>
-Answer: d) When doing full table scans
+Answer: d) When doing full table scans<br />
 
-Because:
-- Full table scans need to read all data anyway
-- Index would add overhead without benefit
+Because:<br />
+- Full table scans need to read all data anyway<br />
+- Index would add overhead without benefit<br />
 - Other cases can benefit from index usage
 </details>
 
@@ -298,21 +301,21 @@ Decompose into BCNF. Show work step by step.
 <details>
 <summary>Solution</summary>
 
-1. **Identify all violations:**
-   - No partial dependencies are present, which is desirable.
-   - However, there are multiple transitive dependencies that need addressing.
+1. **Identify all violations:**<br />
+   - No partial dependencies are present, which is desirable.<br />
+   - However, there are multiple transitive dependencies that need addressing.<br />
 
-2. **Decomposition into BCNF:**
-   - Decompose into the following relations:
+2. **Decomposition into BCNF:**<br />
+   - Decompose into the following relations:<br />
     <pre>
      Student(student_id, student_name)
      Course(course_id, course_name, instructor_id)
      Instructor(instructor_id, instructor_name, department)
      Enrollment(student_id, course_id)
     </pre>
-   This achieves BCNF because:
-   - In each relation, all determinants are candidate keys.
-   - Transitive dependencies have been eliminated.
+   This achieves BCNF because:<br />
+   - In each relation, all determinants are candidate keys.<br />
+   - Transitive dependencies have been eliminated.<br />
    - All original functional dependencies are preserved.
 
 </details>
@@ -393,13 +396,6 @@ erDiagram
         string title "takes either librarian or manager"
     }
 </pre>
-
-Key design decisions:
-1. Used composite entities where needed (BOOK_COPY)
-2. Captured inheritance for employee types
-3. Included appropriate cardinalities
-4. Added necessary attributes for each entity
-5. Marked primary and foreign keys
 </details>
 
 ### Problem 14 🟡 (Multiple Choice)
@@ -415,49 +411,49 @@ d) Inheritance relationship
 
 <details>
 <summary>Solution</summary>
-Answer: b) Total participation
-Let's break down the key visual elements in ER diagrams:
+Answer: b) Total participation<br />
+Let's break down the key visual elements in ER diagrams:<br />
 
-Double-line (thick line) in relationship:
-
-
-Indicates total participation
-Means every entity in the participating entity set MUST be involved in the relationship
-Also known as mandatory participation
-Contrasts with partial participation (single line) where participation is optional
+Double-line (thick line) in relationship:<br />
 
 
-Double rectangle (double outline) around entity:
+Indicates total participation<br />
+Means every entity in the participating entity set MUST be involved in the relationship<br />
+Also known as mandatory participation<br />
+Contrasts with partial participation (single line) where participation is optional<br />
 
 
-Indicates a weak entity
-Different from the double-line relationship!
-Weak entities cannot exist without their identifying owner (strong entity)
-Example: A room number only makes sense within a specific building
+Double rectangle (double outline) around entity:<br />
 
 
-Strong vs Weak Entities:
+Indicates a weak entity<br />
+Different from the double-line relationship!<br />
+Weak entities cannot exist without their identifying owner (strong entity)<br />
+Example: A room number only makes sense within a specific building<br />
 
 
-Strong entities:
-
-Have their own primary key
-Can exist independently
-Drawn with single rectangle
-Example: A Building has its own unique building_id
+Strong vs Weak Entities:<br />
 
 
-Weak entities:
+Strong entities:<br />
 
-Depend on strong entity for identification
-Need parent entity's key as part of their identifier
-Drawn with double rectangle
-Example: Room depends on Building, identified by (building_id, room_number)
-
-
+Have their own primary key<br />
+Can exist independently<br />
+Drawn with single rectangle<br />
+Example: A Building has its own unique building_id<br />
 
 
-Visual Summary:
+Weak entities:<br />
+
+Depend on strong entity for identification<br />
+Need parent entity's key as part of their identifier<br />
+Drawn with double rectangle<br />
+Example: Room depends on Building, identified by (building_id, room_number)<br />
+
+
+
+
+Visual Summary:<br />
 
 
 <pre>
@@ -466,6 +462,6 @@ Double line ════ : Total participation
 Single rectangle └─┐ : Strong entity
 Double rectangle └═┐ : Weak entity
 </pre>
-
+<br />
 Common mistake: Don't confuse double-line relationships (total participation) with double-rectangle entities (weak entities)!
 </details>
