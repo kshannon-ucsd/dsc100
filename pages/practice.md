@@ -91,15 +91,42 @@ Find all the attributes that are transitively dependent on A.
 
 <details>
 <summary>Solution</summary>
-To find transitive dependencies:<br />
+Let's analyze step by step:<br />
 
-1. Start with A → B<br />
-2. Since we have A → B, if B were part of any determinant, those dependencies would be transitive<br />
-3. However, B alone doesn't determine anything<br />
-4. B with C determines D (BC → D)<br />
-5. D determines E (D → E)<br />
+First, identify candidate keys:<br />
 
-Therefore, there are no attributes transitively dependent on A alone.
+A is not a candidate key (only determines B)<br />
+BC might be a candidate key (determines D, which determines E)<br />
+We need BC to determine all attributes<br />
+
+
+Look for transitive dependencies:<br />
+
+Direct: A → B<br />
+Direct: BC → D<br />
+Direct: D → E<br />
+Transitive: BC → D → E<br />
+
+
+Analyze if the transitive dependency BC → D → E is problematic:<br />
+
+BC is likely a candidate key (can determine all attributes)<br />
+Therefore, this transitive dependency is NOT problematic because the first determinant (BC) is a full candidate key<br />
+
+
+No problematic transitive dependencies exist because:<br />
+
+The only transitive dependency involves BC, which is a candidate key<br />
+If D alone were a determinant in another FD, that would be problematic since D is not a candidate key<br />
+
+
+
+Remember: A transitive dependency is problematic when:<br />
+
+The middle determinant is not part of a candidate key i.e. a prime attribute<br />
+The middle determinant is either:<br />
+a) A subset of a candidate key, or<br />
+b) Contains non-prime attributes
 </details>
 
 ### Problem 5 🟢 (Multiple Choice)
