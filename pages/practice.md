@@ -215,14 +215,14 @@ Write a query using window functions to rank employees by salary within each dep
 <details>
 <summary>Solution</summary>
 
-```sql
+<pre>
 SELECT 
     name,
     department,
     salary,
     RANK() OVER (PARTITION BY department ORDER BY salary DESC) as dept_rank
 FROM Employee;
-```
+</pre>
 </details>
 
 ## Joins and Advanced Queries
@@ -238,7 +238,7 @@ Write a query to find all pairs of actors who have appeared in at least 3 movies
 <details>
 <summary>Solution</summary>
 
-```sql
+<pre>
 WITH ActorPairs AS (
     SELECT 
         r1.actor_id as actor1_id,
@@ -257,7 +257,7 @@ SELECT
 FROM ActorPairs ap
 JOIN Actors a1 ON ap.actor1_id = a1.actor_id
 JOIN Actors a2 ON ap.actor2_id = a2.actor_id;
-```
+</pre>
 </details>
 
 ## Indexes and Optimization
@@ -298,22 +298,23 @@ Decompose into BCNF. Show work step by step.
 <details>
 <summary>Solution</summary>
 
-1. First identify all violations:
-- No partial dependencies (good)
-- Multiple transitive dependencies
+1. **Identify all violations:**
+   - No partial dependencies are present, which is desirable.
+   - However, there are multiple transitive dependencies that need addressing.
 
-2. Decomposition:
-```sql
-Student(student_id, student_name)
-Course(course_id, course_name, instructor_id)
-Instructor(instructor_id, instructor_name, department)
-Enrollment(student_id, course_id)
-```
+2. **Decomposition into BCNF:**
+   - Decompose into the following relations:
+    <pre>
+     Student(student_id, student_name)
+     Course(course_id, course_name, instructor_id)
+     Instructor(instructor_id, instructor_name, department)
+     Enrollment(student_id, course_id)
+    </pre>
+   This achieves BCNF because:
+   - In each relation, all determinants are candidate keys.
+   - Transitive dependencies have been eliminated.
+   - All original functional dependencies are preserved.
 
-This achieves BCNF because:
-- Each relation's determinants are keys
-- No transitive dependencies remain
-- Preserves all original FDs
 </details>
 
 ## ER Diagrams
@@ -329,7 +330,7 @@ Design an ER diagram using Mermaid syntax for a Library Management System with t
 <details>
 <summary>Solution</summary>
 
-```mermaid
+<pre>
 erDiagram
 
     Library ||--|{ Branch : has
@@ -391,7 +392,7 @@ erDiagram
         string role
         string title "takes either librarian or manager"
     }
-```
+</pre>
 
 Key design decisions:
 1. Used composite entities where needed (BOOK_COPY)
@@ -458,11 +459,13 @@ Example: Room depends on Building, identified by (building_id, room_number)
 
 Visual Summary:
 
-```
+
+<pre>
 Single line ──── : Partial participation
 Double line ════ : Total participation
 Single rectangle └─┐ : Strong entity
 Double rectangle └═┐ : Weak entity
-```
+</pre>
+
 Common mistake: Don't confuse double-line relationships (total participation) with double-rectangle entities (weak entities)!
 </details>
