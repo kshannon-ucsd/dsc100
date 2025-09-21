@@ -1,0 +1,36 @@
+- name: Kyle Shannon (Data Soothsayer)
+  email: kshannon@ucsd.edu
+  role: Instructor
+  website: https://www.kmshannon.com/about/
+  photo: https://ucsd.s3.us-west-2.amazonaws.com/staff/photos/kshannon_2.jpg
+  description: Neuroscience → Data Science @ UCSD x2 (recursive pain)
+  hometown: San Diego, Cali
+  askabout: Coffee, Likely to be found on a tennis court 🎾
+  food: Regent's Pizza, Charminar, Sochi Sushi, Turmeric Thai, Callie
+
+- name: Vignesh (Viggy) Palaniapan - TA
+  email: vpalaniappan@ucsd.edu
+  role: TA
+  photo: https://ucsd.s3.us-west-2.amazonaws.com/staff/photos/viggy.png
+  description: Aerospace Eng. (Imperial College London), Data Science (UCSD)
+  hometown: London, UK 
+  askabout: Many sports (Tennis, Badminton, Frisbee currently), Foreign lang. Netflix
+  food: Thai (Lanna Thai), Mexican (La Puerta), Ice Cream (SaltnStraw)
+
+- name: Jerjes Aguirre Chavez - TA
+  email: jaguirrechavez@ucsd.edu 
+  role: TA 
+  photo: https://drive.google.com/file/d/1aljfAvH-Nbhp3-AZ50mvjVgtSz_u1Zg_/view?usp=sharing
+  description: Most Excellent TA & Grad Student!
+  hometown: Mexico
+  askabout: Biomedical Imaging and Data Science
+  food: Some food XD
+
+- name: Owen Miller - Tutor
+  email: omiller@ucsd.edu
+  role: Tutor
+  photo: https://ucsd.s3.us-west-2.amazonaws.com/staff/photos/owen.png
+  description: 3rd year data science + probability & stats major
+  hometown: Moss Beach -> Salt Lake City -> Barcelona -> San Diego
+  askabout: Cooking, books
+  food: Piacere Mio, Flavors of East Africa, Lanzhou Noodlelicious

@@ -1,0 +1,397 @@
+- week: 0
+  title: "Week 0 - Welcome, Welcome, Welcome<br>"
+  days:
+    - date: "2025-09-25"
+      in_class: true
+      events:
+        - label: MISC
+          type: survey
+          title: Ensure gradescope and piazza access (no canvas)
+        - label: LECT
+          type: lecture
+          title: 01_welcome_welcome_welcome
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/01_welcome_welcome_welcome.pdf
+        - label: DEMO
+          type: demo
+          title: 01_up_and_running_sqlite
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/01_up_and_running_sqlite.pdf
+          solutions: #same as template
+
+- week: 1
+  title: "Week 1 - Relational Data Model & SQL Basics<br>
+    <small>
+      📘 Read <a href='https://ucsd.s3.us-west-2.amazonaws.com/dsc100/readings/The_Relational_Data_Model_ch7.pdf'>The Relational Data Model</a>.<br>
+      🍿 Watch <a href='https://www.youtube.com/watch?v=et1n7-UxI2M'>IBM's What is SQL video</a>.<br>
+      🍿 Watch <a href='https://www.youtube.com/watch?v=Q5aTUc7c4jg'>IBM's SQL vs. NOSQL video</a>.<br>
+      🍿 Watch <a href='https://www.youtube.com/watch?v=E9AgJnsEvG4'>IBM's Relational vs. NR Database video</a>.<br>
+    </small>"
+  days:
+    - date: "2025-09-29"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: Discussion Section
+          walkthrough: https://drive.google.com/file/d/1nrJud4U3TOlG2SRjqsBiBnh2UyI1eL-g/view?usp=sharing
+    - date: "2025-09-30"
+      in_class: true
+      events:
+        - label: LECT
+          type: lecture
+          title: 02_relational_data_model
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/02_relational_data_model.pdf
+        - label: DEMO
+          type: demo
+          title: 02_relational_data_model
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/02_relational_data_model.pdf
+          # solutions: #same as template
+    - date: "2025-10-02"
+      in_class: true
+      events:
+        - label: LECT
+          type: lecture
+          title: 03_sql_basics
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/03_sql_basics.pdf
+        - label: DEMO
+          type: demo
+          title: 03_sql_basics
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/03_sql_basics.pdf
+          # solutions: #same as template
+        - label: HW 1
+          type: hw
+          title: <b>Homework 1 Released</b>
+          
+- week: 2
+  title: "Week 2 - SQL Joins<br>"
+  days:
+    - date: "2025-10-06"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: Discussion Section
+          walkthrough: https://drive.google.com/file/d/10QVM85TtLzjVYtopz2cuw9898YvOIezR/view?usp=sharing
+    - date: "2025-10-07"
+      in_class: true
+      events:
+        - label: LECT
+          type: lecture
+          title: 04_join_me_for_joins
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/04_join_me_for_joins.pdf
+        - label: DEMO
+          type: demo
+          title: 04_simple_joins
+          solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/04_simple_joins.pdf
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/04_simple_joins_student.pdf
+        - label: QUIZ
+          type: quiz
+          title: <b>Quiz 1 Released</b>
+    - date: "2025-10-09"
+      in_class: true
+      events:
+        - label: LECT
+          type: lecture
+          title: 05_join_me_for_joins_2
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/05_join_me_for_joins_2.pdf
+        - label: DEMO
+          type: demo
+          title: 05_advanced_joins
+          solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/05_advanced_joins.pdf
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/05_advanced_joins_student.pdf
+          walkthrough: https://colab.research.google.com/drive/1eYrGEVyZDUT_OpnAgsbZ7Zw1e4niR8F4?usp=sharing
+        - label: HW 2
+          type: hw
+          title: <b>Homework 2 Released</b>
+
+- week: 3
+  title: "Week 3 - Aggregations, Groupings, & Subqueries<br>"
+  days:
+    - date: "2025-10-13"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: Discussion Section
+          walkthrough: https://docs.google.com/presentation/d/1Avb2zCGEb_eTJBHtiZBgsbeQrXBjMGi5yKs9qiJoIaU/edit?usp=sharing
+    - date: "2025-10-14"
+      in_class: true
+      events:
+        - label: LECT
+          type: lecture
+          title: 06_aggregation_and_grouping
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/06_aggregation_and_grouping.pdf
+        - label: DEMO
+          type: demo
+          title: 06_aggregation_and_grouping
+          solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/06_aggregation_and_grouping.pdf
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/06_aggregation_and_grouping_student.pdf
+        - label: QUIZ
+          type: quiz
+          title: <b>Quiz 2 Released</b>
+    - date: "2025-10-16"
+      in_class: true
+      events:
+        - label: LECT
+          type: lecture
+          title: 07_advanced_sql_queries
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/07_advanced_sql_queries.pdf
+        - label: DEMO
+          type: demo
+          title: 07_subqueries_nested_queries
+          solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/07_subqueries_nested_queries.pdf
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/07_subqueries_nested_queries_student.pdf 
+        - label: HW 3
+          type: hw
+          title: <b>Homework 3 Released</b>
+
+- week: 4
+  title: "Week 4 - Advanced SQL Queries<br>"
+  days:
+    - date: "2025-10-20"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: Discussion Section
+          walkthrough: https://docs.google.com/presentation/d/1HhGhT_KxO_XeUTq1LuFfg9I1QaOlkl4f8olI1d8eXzY/edit#slide=id.g308df17aa4b_0_0
+    - date: "2025-10-21"
+      in_class: true
+      events:
+        - label: LECT
+          type: lecture
+          title: 08_advanced_sql_queries_2
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/08_advanced_sql_queries_2.pdf
+        - label: DEMO
+          type: demo
+          title: 08_advanced_sql_queries
+          solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/08_advanced_sql_queries.pdf
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/08_advanced_sql_queries_student.pdf
+        - label: QUIZ
+          type: quiz
+          title: <b>Quiz 3 Released</b>
+    - date: "2025-10-23"
+      in_class: true
+      events:
+        - label: LECT
+          type: lecture
+          title: 09_sql_dbs_real_world
+
+- week: 5
+  title: "Week 5 - Formal Query Languages and Relational Algebra<br>"
+  days:
+    - date: "2025-10-27"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: Discussion Section
+          walkthrough: https://docs.google.com/presentation/d/1BpbDbe5pKLNSBMRK9eP9JKg3CBp6kEH9rR4F9KcTesI/edit?usp=sharing
+    - date: "2025-10-28"
+      in_class: true
+      events:
+        - label: LECT
+          type: lecture
+          title: 10_intro_relational_algebra
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/10_intro_relational_algebra.pdf
+          ta_slides: https://drive.google.com/file/d/1uTeZJSj9MXhz_RDeG_O9yRfwtzuhDDvb/view?usp=drive_link
+          recording: https://youtu.be/DujKsFdWeTc
+        - label: DEMO
+          type: demo
+          title: 09_relax_relational_algebra_pt1
+          solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/09_set_ops_relax_ra.pdf
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/09_set_ops_relax_ra_student.pdf 
+    - date: "2025-10-30"
+      in_class: true
+      events:
+        - label: LECT
+          type: lecture
+          title: 11_relational_algebra
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/11_relational_algebra.pdf
+          ta_slides: https://drive.google.com/file/d/1xDakemXSX934umug6iv0NmJnWv-npCua/view?usp=sharing
+          recording: https://youtu.be/a5gzR33TlvI 
+        - label: DEMO
+          type: demo
+          title: 10_relax_relational_algebra_pt2
+          solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/10_relax_ra_queries.pdf 
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/10_relax_ra_queries_student.pdf
+
+- week: 6
+  title: "Week 6 - Midterm & Data Analysis Workflow<br>"
+  days:
+    - date: "2025-11-03"
+      in_class: false
+      events:
+        - label: DISC
+          type: disc
+          title: Midterm Review Session
+        - label: EXAM
+          type: exam
+          title: Midterm Reelased (at End of Day)
+    - date: "2025-11-04"
+      in_class: false
+      events:
+        - label: EXAM
+          type: exam
+          title: No Class (work on midterm)
+    - date: "2025-11-05"
+      in_class: false
+      events:
+        - label: EXAM
+          type: exam
+          title: Exam Due at End of Day
+    - date: "2025-11-06"
+      in_class: true
+      events:
+        - label: LECT
+          type: lecture
+          title: 12_data_storage_query_analysis
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/12_data_storage_query_analysis.pdf
+        - label: DEMO
+          type: demo
+          title: 12_sql_query_optimization
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/12_sql_query_optimization.pdf
+          # solutions: 
+        - label: HW 4
+          type: hw
+          title: <b>Homework 4 Released</b>
+        - label: QUIZ
+          type: quiz
+          title: <b>Quiz 4 Released</b>
+
+- week: 7
+  title: "Week 7 - Query Analysis, Indexing, & B-Trees<br>"
+  days:
+    - date: "2025-11-10"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: Discussion Section (go over midterm)
+          walkthrough: https://docs.google.com/presentation/d/15Fq9zbxnFzun7EkzHEGUSFsQRr7O2OB_ZoebDA14rZo/edit?usp=sharing
+    - date: "2025-11-11"
+      in_class: true
+      events:
+        - label: LECT
+          type: lecture
+          title: 13_index_and_b_trees
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/13_indexes_and_b_trees.pdf
+        - label: DEMO
+          type: demo
+          title: 13_index_and_b_trees
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/13_indexes_and_b_trees.pdf
+          # solutions: 
+    - date: "2025-11-13"
+      in_class: true
+      events:
+        - label: LECT
+          type: lecture
+          title: 14_conceptual_design
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/14_conceptual_design.pdf
+        - label: DEMO
+          type: demo
+          title: 14_conceptual_design
+          solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/14_conceptual_design.pdf
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/14_conceptual_design_student.pdf
+
+- week: 8
+  title: "Week 8 - Coneptual Design & Design Theory<br>"
+  days:
+    - date: "2025-11-17"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: Discussion Section
+          walkthrough: https://docs.google.com/presentation/d/1JY-pZE3eQXDcL2R8-scVK_csTfz07JGmfW9Ow6Kj_hA/edit?usp=sharing
+    - date: "2025-11-18"
+      in_class: true
+      events:
+        - label: LECT
+          type: lecture
+          title: 15_design_theory
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/15_design_theory.pdf
+        - label: HW 5
+          type: hw
+          title: <b>Homework 5 Released</b>
+    - date: "2025-11-20"
+      in_class: true
+      events:
+        - label: LECT
+          type: lecture
+          title: 16_normal_forms
+          # slides: #lecture notes handout
+        - label: QUIZ
+          type: quiz
+          title: <b>Quiz 5 Released</b>
+
+- week: 9
+  title: "Week 9 - Functional Dependancies<br>"
+  days:
+    - date: "2025-11-24"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: Discussion Section
+    - date: "2025-11-25"
+      in_class: true
+      events:
+        - label: LECT
+          type: lecture
+          title: 17_normal_forms_2
+          # slides: #lecture notes handout
+          walkthrough: https://drive.google.com/file/d/1SZbe2RG3INaGTeOuiSFyGQVRGFeNUPSn/view?usp=sharing 
+    - date: "2025-11-27"
+      in_class: false
+      events:
+        - label: RELX
+          type: relx
+          title: <b>Thanksgiving Break</b>
+    - date: "2025-11-28"
+      in_class: false
+      events:
+        - label: RELX
+          type: relx
+          title: <b>Thanksgiving Break</b>
+        - label: QUIZ
+          type: quiz
+          title: <b>Quiz 6 Released</b>
+
+- week: 10
+  title: "Week 10 - Normalization & Final Exam<br>"
+  days:
+    - date: "2025-12-01"
+      in_class: true
+      events:
+        - label: DISC
+          type: disc
+          title: Discussion Section (final review)
+    - date: "2025-12-02"
+      in_class: true
+      events:
+        - label: LECT
+          type: lecture
+          title: 18_normalization
+          # slides: #lecture notes handout
+    - date: "2025-12-04"
+      in_class: true
+      events:
+        - label: LECT
+          type: lecture
+          title: 19_data_warehouses_lakes
+          # slides: #lecture notes handout
+    - date: "2025-12-05"
+      in_class: false
+      events:
+        - label: EXAM
+          type: exam
+          title: Final Exam Released (11:59 AM)
+- week: 11
+  title: "Week 11 - Final Exam<br>"
+  days:      
+    - date: "2025-12-08"
+      in_class: false
+      events:
+        - label: EXAM
+          type: exam
+          title: Final Exam Submission Cutoff (11:59 AM)
