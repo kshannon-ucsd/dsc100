@@ -45,7 +45,7 @@
   askabout: Basketball (Warriors) 🏀, Football (Seahawks) 🏈, & Plants 🪴 
   food: Ramen Nagi, Taco Bell, 55 Thai, Madras Cafe
 
-  - name: Varun Pabreja
+- name: Varun Pabreja
   email: vpabreja@ucsd.edu
   role: Tutor
   photo: https://ucsd.s3.us-west-2.amazonaws.com/staff/photos/varun.jpeg
@@ -54,5 +54,12 @@
   askabout: Poker ♠, Bojack Horseman 🐴, Cricket 🏏
   food: The Taco Stand, Bobboi Gelato, Charminar
 
-
-  # https://ucsd.s3.us-west-2.amazonaws.com/staff/photos/reva.jpeg
+- name: Reva Agrawal
+  email: ragrawal@ucsd.edu
+  role: Tutor
+  website: https://github.com/agrawalreva
+  photo: https://ucsd.s3.us-west-2.amazonaws.com/staff/photos/reva.jpeg
+  description: 4th year Data Science major; Math minor
+  hometown: Uttar Pradesh, India
+  ask about: Arsenal (COYG!), Formula 1, Board Games & Hikes
+  food: The Pad Thai Stand, Din Tai Fung, Cardellino, 85° Bakery
