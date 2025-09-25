@@ -20,7 +20,7 @@
 - name: Jerjes Aguirre Chavez - TA
   email: jaguirrechavez@ucsd.edu 
   role: TA 
-  photo: https://drive.google.com/file/d/1aljfAvH-Nbhp3-AZ50mvjVgtSz_u1Zg_/view?usp=sharing
+  photo: https://ucsd.s3.us-west-2.amazonaws.com/staff/photos/jerjes.jpeg
   description: Data Science PhD student -- 👀-🗣️ models for medical imaging 
   hometown: Mexico
   askabout: Tacos connoisseur, surfing amateur, running enthusiast
@@ -34,3 +34,25 @@
   hometown: Moss Beach -> Salt Lake City -> Barcelona -> San Diego
   askabout: Cooking, books
   food: Piacere Mio, Flavors of East Africa, Lanzhou Noodlelicious
+
+- name: Ansh Bhatnagar
+  email: abhatnagar@ucsd.edu
+  role: Tutor
+  website: https://anshu-b.github.io/ansh/
+  photo: https://ucsd.s3.us-west-2.amazonaws.com/staff/photos/ansh.png
+  description: 2nd year Data Science major; Math, CogSci, & Supply Chain MGT minors
+  hometown: Fremont, California
+  askabout: Basketball (Warriors) 🏀, Football (Seahawks) 🏈, & Plants 🪴 
+  food: Ramen Nagi, Taco Bell, 55 Thai, Madras Cafe
+
+  - name: Varun Pabreja
+  email: vpabreja@ucsd.edu
+  role: Tutor
+  photo: https://ucsd.s3.us-west-2.amazonaws.com/staff/photos/varun.jpeg
+  description: 3rd year Data Science major; CogSci, & BusEcon minors
+  hometown: Dubai, UAE
+  askabout: Poker ♠, Bojack Horseman 🐴, Cricket 🏏
+  food: The Taco Stand, Bobboi Gelato, Charminar
+
+
+  # https://ucsd.s3.us-west-2.amazonaws.com/staff/photos/reva.jpeg
