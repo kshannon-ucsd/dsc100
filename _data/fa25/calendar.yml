@@ -15,7 +15,7 @@
           type: demo
           title: 01_up_and_running_sqlite
           template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/01_up_and_running_sqlite.pdf
-          solutions: #same as template
+          solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/01_up_and_running_sqlite.pdf
 
 - week: 1
   title: "Week 1 - Relational Data Model & SQL Basics<br>
