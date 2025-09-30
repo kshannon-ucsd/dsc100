@@ -32,8 +32,7 @@
         - label: DISC
           type: disc
           title: Discussion Section
-          walkthrough: https://drive.google.com/file/d/1nrJud4U3TOlG2SRjqsBiBnh2UyI1eL-g/view?usp=sharing
-          slides: https://drive.google.com/file/d/1hs3K24IB7EQLtYYybaqQHIgYGCSLcQ0F/view?usp=sharing
+          walkthrough: https://drive.google.com/file/d/1hs3K24IB7EQLtYYybaqQHIgYGCSLcQ0F/view?usp=sharing
     - date: "2025-09-30"
       in_class: true
       events:
