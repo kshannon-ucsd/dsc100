@@ -51,6 +51,10 @@
           <small>&nbsp;&nbsp;<a href="{{ event.recording }}">
                 recording</a></small>
           {%- endif -%}
+          {%- if event.demo -%}
+          <small>&nbsp;&nbsp;<a href="{{ event.demo }}">
+                demo</a></small>
+          {%- endif -%}
           {%- if event.faqs -%}
           <small>&nbsp;&nbsp;<a href="{{ event.faqs }}">
                 FAQs</a></small>

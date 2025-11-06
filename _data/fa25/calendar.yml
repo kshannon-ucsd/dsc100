@@ -246,6 +246,7 @@
           type: lecture
           title: 12_data_storage_query_analysis
           slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/12_data_storage_query_analysis.pdf
+          recording: https://youtu.be/xG_tjwGoe4o
         - label: DEMO
           type: demo
           title: 12_sql_query_optimization
