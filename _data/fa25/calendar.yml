@@ -273,6 +273,13 @@
     - date: "2025-11-11"
       in_class: true
       events:
+        - label: RELX
+          type: relx
+          title: <b>🇺🇸 Veteran's Day Holiday</b>
+          # solutions: 
+    - date: "2025-11-13"
+      in_class: true
+      events:
         - label: LECT
           type: lecture
           title: 13_index_and_b_trees
@@ -282,18 +289,6 @@
           title: 13_index_and_b_trees
           template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/13_indexes_and_b_trees.pdf
           # solutions: 
-    - date: "2025-11-13"
-      in_class: true
-      events:
-        - label: LECT
-          type: lecture
-          title: 14_conceptual_design
-          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/14_conceptual_design.pdf
-        - label: DEMO
-          type: demo
-          title: 14_conceptual_design
-          solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/14_conceptual_design.pdf
-          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/14_conceptual_design_student.pdf
 
 - week: 8
   title: "Week 8 - Coneptual Design & Design Theory<br>"
@@ -310,8 +305,13 @@
       events:
         - label: LECT
           type: lecture
-          title: 15_design_theory
-          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/15_design_theory.pdf
+          title: 14_conceptual_design
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/14_conceptual_design.pdf
+        - label: DEMO
+          type: demo
+          title: 14_conceptual_design
+          solutions: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/14_conceptual_design.pdf
+          template: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/demos/14_conceptual_design_student.pdf
         - label: HW 5
           type: hw
           title: <b>Homework 5 Released</b>
@@ -320,8 +320,8 @@
       events:
         - label: LECT
           type: lecture
-          title: 16_normal_forms
-          # slides: #lecture notes handout
+          title: 15_design_theory
+          slides: https://ucsd.s3.us-west-2.amazonaws.com/dsc100/lectures/15_design_theory.pdf
         - label: QUIZ
           type: quiz
           title: <b>Quiz 5 Released</b>
@@ -341,21 +341,20 @@
       events:
         - label: LECT
           type: lecture
-          title: 17_normal_forms_2
+          title: 16_normal_forms
           # slides: #lecture notes handout
-          walkthrough: https://drive.google.com/file/d/1SZbe2RG3INaGTeOuiSFyGQVRGFeNUPSn/view?usp=sharing 
     - date: "2025-11-27"
       in_class: false
       events:
         - label: RELX
           type: relx
-          title: <b>Thanksgiving Break</b>
+          title: <b>🦃 🔥 🍽️ 🍗 Thanksgiving Break</b>
     - date: "2025-11-28"
       in_class: false
       events:
         - label: RELX
           type: relx
-          title: <b>Thanksgiving Break</b>
+          title: <b>🦃Thanksgiving Break</b>
         - label: QUIZ
           type: quiz
           title: <b>Quiz 6 Released</b>
@@ -374,14 +373,15 @@
       events:
         - label: LECT
           type: lecture
-          title: 18_normalization
+          title: 17_normal_forms_2
           # slides: #lecture notes handout
+          walkthrough: https://drive.google.com/file/d/1SZbe2RG3INaGTeOuiSFyGQVRGFeNUPSn/view?usp=sharing 
     - date: "2025-12-04"
       in_class: true
       events:
         - label: LECT
           type: lecture
-          title: 19_data_warehouses_lakes
+          title: 18_normalization
           # slides: #lecture notes handout
     - date: "2025-12-05"
       in_class: false
