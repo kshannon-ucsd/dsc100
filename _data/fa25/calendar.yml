@@ -375,7 +375,8 @@
           type: lecture
           title: 17_normal_forms_2
           recording: https://youtu.be/Z_8mxoepGuc
-          walkthrough: https://drive.google.com/file/d/1SZbe2RG3INaGTeOuiSFyGQVRGFeNUPSn/view?usp=sharing 
+          problems: https://drive.google.com/file/d/1u233hAfLpOC2T-Pglk2Yx6PwhST7eDrG/view?usp=sharing
+          # walkthrough: https://drive.google.com/file/d/1SZbe2RG3INaGTeOuiSFyGQVRGFeNUPSn/view?usp=sharing 
     - date: "2025-12-04"
       in_class: true
       events:
