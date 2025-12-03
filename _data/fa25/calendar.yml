@@ -374,7 +374,7 @@
         - label: LECT
           type: lecture
           title: 17_normal_forms_2
-          recoding: https://youtu.be/Z_8mxoepGuc
+          recording: https://youtu.be/Z_8mxoepGuc
           walkthrough: https://drive.google.com/file/d/1SZbe2RG3INaGTeOuiSFyGQVRGFeNUPSn/view?usp=sharing 
     - date: "2025-12-04"
       in_class: true
