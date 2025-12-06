@@ -384,7 +384,7 @@
           type: lecture
           title: 18_normalization
           # slides: #lecture notes handout
-    - date: "2025-12-05"
+    - date: "2025-12-07"
       in_class: false
       events:
         - label: EXAM
@@ -393,9 +393,9 @@
 - week: 11
   title: "Week 11 - Final Exam<br>"
   days:      
-    - date: "2025-12-08"
+    - date: "2025-12-10"
       in_class: false
       events:
         - label: EXAM
           type: exam
-          title: Final Exam Submission Cutoff (11:59 AM)
+          title: Final Exam Submission Due at (3:30 PM)
